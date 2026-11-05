@@ -1,0 +1,104 @@
+patient_id,visit_no,visit_date,visit_type,clinician,labs_held_back
+P01,1,2025-12-15,New consult,"William Heath, MD",False
+P01,2,2026-05-20,Follow-up,"William Heath, MD",False
+P01,3,2026-10-16,Follow-up,"William Heath, MD",True
+P02,1,2025-12-18,New consult,"Curtis Walker, MD",False
+P02,2,2026-05-19,Follow-up,"Curtis Walker, MD",False
+P02,3,2026-10-12,Follow-up,"Curtis Walker, MD",True
+P03,1,2025-12-20,New consult,"David Shaw, MD",False
+P03,2,2026-05-25,Follow-up,"David Shaw, MD",False
+P03,3,2026-10-22,Follow-up,"David Shaw, MD",True
+P04,1,2025-12-24,New consult,"William Heath, MD",False
+P04,2,2026-05-20,Follow-up,"William Heath, MD",False
+P04,3,2026-10-22,Follow-up,"William Heath, MD",True
+P05,1,2025-12-24,New consult,"Curtis Walker, MD",False
+P05,2,2026-05-18,Follow-up,"Curtis Walker, MD",False
+P05,3,2026-10-14,Follow-up,"Curtis Walker, MD",True
+P06,1,2025-12-21,New consult,"David Shaw, MD",False
+P06,2,2026-05-26,Follow-up,"David Shaw, MD",False
+P06,3,2026-10-18,Follow-up,"David Shaw, MD",True
+P07,1,2025-12-19,New consult,"William Heath, MD",False
+P07,2,2026-05-12,Follow-up,"William Heath, MD",False
+P07,3,2026-10-13,Follow-up,"William Heath, MD",True
+P08,1,2025-12-28,New consult,"Curtis Walker, MD",False
+P08,2,2026-05-26,Follow-up,"Curtis Walker, MD",False
+P08,3,2026-10-21,Follow-up,"Curtis Walker, MD",True
+P09,1,2025-12-22,New consult,"David Shaw, MD",False
+P09,2,2026-05-23,Follow-up,"David Shaw, MD",False
+P09,3,2026-10-20,Follow-up,"David Shaw, MD",True
+P10,1,2025-12-26,New consult,"William Heath, MD",False
+P10,2,2026-05-25,Follow-up,"William Heath, MD",False
+P10,3,2026-10-20,Follow-up,"William Heath, MD",True
+P11,1,2025-12-25,New consult,"Curtis Walker, MD",False
+P11,2,2026-05-15,Follow-up,"Curtis Walker, MD",False
+P11,3,2026-10-17,Follow-up,"Curtis Walker, MD",True
+P12,1,2025-12-26,New consult,"David Shaw, MD",False
+P12,2,2026-05-26,Follow-up,"David Shaw, MD",False
+P12,3,2026-10-21,Follow-up,"David Shaw, MD",True
+P13,1,2025-12-28,New consult,"William Heath, MD",False
+P13,2,2026-05-26,Follow-up,"William Heath, MD",False
+P13,3,2026-10-22,Follow-up,"William Heath, MD",True
+P14,1,2025-12-24,New consult,"Curtis Walker, MD",False
+P14,2,2026-05-20,Follow-up,"Curtis Walker, MD",False
+P14,3,2026-10-20,Follow-up,"Curtis Walker, MD",True
+P15,1,2025-12-15,New consult,"David Shaw, MD",False
+P15,2,2026-05-15,Follow-up,"David Shaw, MD",False
+P15,3,2026-10-16,Follow-up,"David Shaw, MD",True
+P16,1,2025-12-17,New consult,"William Heath, MD",False
+P16,2,2026-05-14,Follow-up,"William Heath, MD",False
+P16,3,2026-10-17,Follow-up,"William Heath, MD",True
+P17,1,2026-01-24,New consult,"Curtis Walker, MD",False
+P17,2,2026-04-19,Follow-up,"Curtis Walker, MD",False
+P17,3,2026-07-25,Follow-up,"Curtis Walker, MD",False
+P17,4,2026-10-23,Follow-up,"Curtis Walker, MD",True
+P18,1,2026-01-26,New consult,"David Shaw, MD",False
+P18,2,2026-04-27,Follow-up,"David Shaw, MD",False
+P18,3,2026-07-20,Follow-up,"David Shaw, MD",False
+P18,4,2026-10-21,Follow-up,"David Shaw, MD",True
+P19,1,2026-01-16,New consult,"William Heath, MD",False
+P19,2,2026-04-21,Follow-up,"William Heath, MD",False
+P19,3,2026-07-17,Follow-up,"William Heath, MD",False
+P19,4,2026-10-20,Follow-up,"William Heath, MD",True
+P20,1,2026-01-22,New consult,"Curtis Walker, MD",False
+P20,2,2026-04-18,Follow-up,"Curtis Walker, MD",False
+P20,3,2026-07-23,Follow-up,"Curtis Walker, MD",False
+P20,4,2026-10-18,Follow-up,"Curtis Walker, MD",True
+P21,1,2026-01-18,New consult,"David Shaw, MD",False
+P21,2,2026-04-27,Follow-up,"David Shaw, MD",False
+P21,3,2026-07-18,Follow-up,"David Shaw, MD",False
+P21,4,2026-10-21,Follow-up,"David Shaw, MD",True
+P22,1,2026-01-18,New consult,"William Heath, MD",False
+P22,2,2026-04-12,Follow-up,"William Heath, MD",False
+P22,3,2026-07-15,Follow-up,"William Heath, MD",False
+P22,4,2026-10-13,Follow-up,"William Heath, MD",True
+P23,1,2026-01-15,New consult,"Curtis Walker, MD",False
+P23,2,2026-04-11,Follow-up,"Curtis Walker, MD",False
+P23,3,2026-07-11,Follow-up,"Curtis Walker, MD",False
+P23,4,2026-10-12,Follow-up,"Curtis Walker, MD",True
+P24,1,2026-01-16,New consult,"David Shaw, MD",False
+P24,2,2026-04-19,Follow-up,"David Shaw, MD",False
+P24,3,2026-07-20,Follow-up,"David Shaw, MD",False
+P24,4,2026-10-16,Follow-up,"David Shaw, MD",True
+P25,1,2026-01-17,New consult,"William Heath, MD",False
+P25,2,2026-04-17,Follow-up,"William Heath, MD",False
+P25,3,2026-07-22,Follow-up,"William Heath, MD",False
+P25,4,2026-10-18,Follow-up,"William Heath, MD",True
+P26,1,2026-01-11,New consult,"Curtis Walker, MD",False
+P26,2,2026-04-12,Follow-up,"Curtis Walker, MD",False
+P26,3,2026-07-12,Follow-up,"Curtis Walker, MD",False
+P26,4,2026-10-15,Follow-up,"Curtis Walker, MD",True
+P27,1,2026-01-22,New consult,"David Shaw, MD",False
+P27,2,2026-04-26,Follow-up,"David Shaw, MD",False
+P27,3,2026-07-23,Follow-up,"David Shaw, MD",False
+P27,4,2026-10-23,Follow-up,"David Shaw, MD",True
+P28,1,2026-01-22,New consult,"William Heath, MD",False
+P28,2,2026-04-21,Follow-up,"William Heath, MD",False
+P28,3,2026-07-12,Follow-up,"William Heath, MD",False
+P28,4,2026-10-17,Follow-up,"William Heath, MD",True
+P29,1,2026-01-09,New consult,"Curtis Walker, MD",False
+P29,2,2026-04-17,Follow-up,"Curtis Walker, MD",False
+P29,3,2026-07-17,Follow-up,"Curtis Walker, MD",False
+P29,4,2026-10-14,Follow-up,"Curtis Walker, MD",True
+P30,1,2025-12-23,New consult,"David Shaw, MD",False
+P30,2,2026-05-27,Follow-up,"David Shaw, MD",False
+P30,3,2026-10-23,Follow-up,"David Shaw, MD",True

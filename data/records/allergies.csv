@@ -1,0 +1,28 @@
+patient_id,allergen,reaction
+P01,Sulfa drugs,hives
+P04,Lisinopril,cough
+P05,Codeine,nausea and vomiting
+P06,Codeine,nausea and vomiting
+P07,Sulfa drugs,hives
+P08,Penicillin,rash
+P08,Latex,itchy rash
+P10,Lisinopril,cough
+P11,Lisinopril,cough
+P11,Penicillin,rash
+P12,Lisinopril,cough
+P14,Latex,itchy rash
+P16,Codeine,nausea and vomiting
+P17,Lisinopril,cough
+P18,Latex,itchy rash
+P20,Lisinopril,cough
+P20,Penicillin,rash
+P22,Penicillin,rash
+P22,Latex,itchy rash
+P23,Codeine,nausea and vomiting
+P23,Penicillin,rash
+P24,Latex,itchy rash
+P25,Sulfa drugs,hives
+P25,Penicillin,rash
+P27,Lisinopril,cough
+P28,Sulfa drugs,hives
+P28,Latex,itchy rash

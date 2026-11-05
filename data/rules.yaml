@@ -1,0 +1,51 @@
+# Model A monitoring rules (FICTIONAL demo thresholds, illustrative only, not clinical guidance).
+# The generator uses these to compute expected_alerts.csv; the app's rules engine must reproduce them.
+today: "2026-10-26"
+rules:
+  - id: R01_red_flag_message
+    priority: urgent
+    applies_to: all
+    description: Patient message mentions a red-flag symptom (GI bleeding, confusion, jaundice, rapid belly swelling).
+    terms: ["black stool", "black poop", "tarry", "like tar", "coffee grounds", "vomited blood", "vomiting blood", "blood in my vomit", "confused", "confusion", "yellow eyes", "eyes look yellow", "belly is swelling fast"]
+  - id: R02_fluid_gain
+    priority: high
+    applies_to: cirrhosis
+    description: Scale weight up 2.0 kg or more compared with the reading 7 days earlier (or nearest earlier reading within 5 to 9 days).
+    threshold_kg: 2.0
+  - id: R03_meld_rise
+    priority: high
+    applies_to: cirrhosis
+    description: MELD 3.0 up 3 points or more compared with the previous resulted visit.
+    threshold_points: 3
+  - id: R04_bilirubin_double
+    priority: high
+    applies_to: all
+    description: Total bilirubin at least 2 times the first-visit value and at least 2.0 mg/dL.
+  - id: R05_platelets_below_100
+    priority: medium
+    applies_to: all
+    description: Platelets fall below 100 K/uL when the previous resulted value was 100 or more.
+  - id: R06_nsaid_conflict
+    priority: medium
+    applies_to: all
+    description: An NSAID is on the active medication list while the latest plan says no NSAIDs.
+  - id: R07_alt_double
+    priority: medium
+    applies_to: all
+    description: ALT more than 2 times the first-visit value.
+  - id: R08_a1c_high
+    priority: medium
+    applies_to: all
+    description: A1c 9.0% or higher.
+  - id: R09_hcc_surveillance_overdue
+    priority: low
+    applies_to: cirrhosis
+    description: Last liver ultrasound more than 183 days before today.
+    max_days: 183
+  - id: R10_low_steps
+    priority: low
+    applies_to: wearable
+    description: Mean steps under 2,000 over the last 14 days, counting only valid wear days (steps > 0 and some active minutes), with at least 10 valid days.
+    threshold_steps: 2000
+    window_days: 14
+    min_valid_days: 10

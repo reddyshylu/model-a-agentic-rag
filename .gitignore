@@ -1,0 +1,22 @@
+# Secrets: never commit
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Local outputs
+runs/*
+!runs/eval_report.md
+!runs/agent_run_evals.csv
+data/escalations/
+*.log
+
+# Large media (narration audio, video renders)
+*.mp3
+*.mp4
+.vscode/

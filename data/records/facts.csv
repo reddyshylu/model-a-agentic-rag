@@ -1,0 +1,695 @@
+patient_id,fact_type,value,source
+P01,latest_alt,66.0 U/L on 2026-05-20,labs visit 2
+P01,trend_alt,down (83.0 to 66.0),"labs visits 1, 2"
+P01,latest_ast,31.0 U/L on 2026-05-20,labs visit 2
+P01,trend_ast,about the same (32.0 to 31.0),"labs visits 1, 2"
+P01,latest_platelets,251.0 K/uL on 2026-05-20,labs visit 2
+P01,trend_platelets,about the same (263.0 to 251.0),"labs visits 1, 2"
+P01,latest_bilirubin_total,0.5 mg/dL on 2026-05-20,labs visit 2
+P01,trend_bilirubin_total,about the same (0.5 to 0.5),"labs visits 1, 2"
+P01,latest_albumin,4.7 g/dL on 2026-05-20,labs visit 2
+P01,trend_albumin,about the same (4.6 to 4.7),"labs visits 1, 2"
+P01,latest_a1c,6.8 % on 2026-05-20,labs visit 2
+P01,trend_a1c,about the same (7.0 to 6.8),"labs visits 1, 2"
+P01,latest_meld3,7,scores visit 2
+P01,latest_fib4,0.49,scores visit 2
+P01,fibrosis_stage,F2,"notes, assessment and plan"
+P01,diagnosis,MASLD,notes
+P01,active_medications,metformin; semaglutide; insulin glargine,medications
+P01,allergies,Sulfa drugs,allergies
+P01,pcp,Dr. Patricia Henry,notes header
+P01,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P01,step_goal,"7,000 steps/day",notes plan
+P01,latest_fibroscan,"7.5 kPa, CAP 289 (last visit)",FibroScan
+P02,latest_alt,58.0 U/L on 2026-05-19,labs visit 2
+P02,trend_alt,down (69.0 to 58.0),"labs visits 1, 2"
+P02,latest_ast,54.0 U/L on 2026-05-19,labs visit 2
+P02,trend_ast,up,"labs visits 1, 2"
+P02,latest_platelets,260.0 K/uL on 2026-05-19,labs visit 2
+P02,trend_platelets,up,"labs visits 1, 2"
+P02,latest_bilirubin_total,0.6 mg/dL on 2026-05-19,labs visit 2
+P02,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P02,latest_albumin,4.4 g/dL on 2026-05-19,labs visit 2
+P02,trend_albumin,about the same (4.5 to 4.4),"labs visits 1, 2"
+P02,latest_a1c,7.8 % on 2026-05-19,labs visit 2
+P02,trend_a1c,about the same (7.8 to 7.8),"labs visits 1, 2"
+P02,latest_meld3,7,scores visit 2
+P02,latest_fib4,1.64,scores visit 2
+P02,fibrosis_stage,F2,"notes, assessment and plan"
+P02,diagnosis,MASLD,notes
+P02,active_medications,metformin; losartan; atorvastatin; vitamin D3,medications
+P02,allergies,none,allergies
+P02,pcp,Dr. Jennifer Parker,notes header
+P02,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P02,step_goal,"7,000 steps/day",notes plan
+P02,avg_steps_last_14_valid_days,11013,watch data
+P02,latest_fibroscan,"8.4 kPa, CAP 334 (last visit)",FibroScan
+P03,latest_alt,51.0 U/L on 2026-05-25,labs visit 2
+P03,trend_alt,up,"labs visits 1, 2"
+P03,latest_ast,53.0 U/L on 2026-05-25,labs visit 2
+P03,trend_ast,up,"labs visits 1, 2"
+P03,latest_platelets,238.0 K/uL on 2026-05-25,labs visit 2
+P03,trend_platelets,down (260.0 to 238.0),"labs visits 1, 2"
+P03,latest_bilirubin_total,0.5 mg/dL on 2026-05-25,labs visit 2
+P03,trend_bilirubin_total,down (0.6 to 0.5),"labs visits 1, 2"
+P03,latest_albumin,4.3 g/dL on 2026-05-25,labs visit 2
+P03,trend_albumin,about the same (4.2 to 4.3),"labs visits 1, 2"
+P03,latest_a1c,5.6 % on 2026-05-25,labs visit 2
+P03,trend_a1c,about the same (5.7 to 5.6),"labs visits 1, 2"
+P03,latest_meld3,7,scores visit 2
+P03,latest_fib4,1.43,scores visit 2
+P03,fibrosis_stage,F2,"notes, assessment and plan"
+P03,diagnosis,MASLD,notes
+P03,active_medications,losartan; atorvastatin; vitamin D3; green tea extract supplement,medications
+P03,allergies,none,allergies
+P03,pcp,Dr. Raymond Warren,notes header
+P03,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P03,step_goal,"7,000 steps/day",notes plan
+P03,avg_steps_last_14_valid_days,42,watch data
+P03,latest_fibroscan,"9.4 kPa, CAP 317 (last visit)",FibroScan
+P04,latest_alt,47.0 U/L on 2026-05-20,labs visit 2
+P04,trend_alt,about the same (46.0 to 47.0),"labs visits 1, 2"
+P04,latest_ast,48.0 U/L on 2026-05-20,labs visit 2
+P04,trend_ast,down (55.0 to 48.0),"labs visits 1, 2"
+P04,latest_platelets,281.0 K/uL on 2026-05-20,labs visit 2
+P04,trend_platelets,down (313.0 to 281.0),"labs visits 1, 2"
+P04,latest_bilirubin_total,0.6 mg/dL on 2026-05-20,labs visit 2
+P04,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P04,latest_albumin,4.6 g/dL on 2026-05-20,labs visit 2
+P04,trend_albumin,about the same (4.6 to 4.6),"labs visits 1, 2"
+P04,latest_a1c,7.5 % on 2026-05-20,labs visit 2
+P04,trend_a1c,about the same (7.6 to 7.5),"labs visits 1, 2"
+P04,latest_meld3,6,scores visit 2
+P04,latest_fib4,1.05,scores visit 2
+P04,fibrosis_stage,F1,"notes, assessment and plan"
+P04,diagnosis,MASLD,notes
+P04,active_medications,metformin; insulin glargine; atorvastatin,medications
+P04,allergies,Lisinopril,allergies
+P04,pcp,Dr. Jennifer Jordan,notes header
+P04,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P04,step_goal,"7,000 steps/day",notes plan
+P04,avg_steps_last_14_valid_days,14389,watch data
+P04,latest_fibroscan,"6.0 kPa, CAP 312 (last visit)",FibroScan
+P05,latest_alt,79.0 U/L on 2026-05-18,labs visit 2
+P05,trend_alt,about the same (77.0 to 79.0),"labs visits 1, 2"
+P05,latest_ast,56.0 U/L on 2026-05-18,labs visit 2
+P05,trend_ast,up,"labs visits 1, 2"
+P05,latest_platelets,299.0 K/uL on 2026-05-18,labs visit 2
+P05,trend_platelets,up,"labs visits 1, 2"
+P05,latest_bilirubin_total,0.7 mg/dL on 2026-05-18,labs visit 2
+P05,trend_bilirubin_total,up,"labs visits 1, 2"
+P05,latest_albumin,4.6 g/dL on 2026-05-18,labs visit 2
+P05,trend_albumin,about the same (4.7 to 4.6),"labs visits 1, 2"
+P05,latest_a1c,7.1 % on 2026-05-18,labs visit 2
+P05,trend_a1c,about the same (7.0 to 7.1),"labs visits 1, 2"
+P05,latest_meld3,6,scores visit 2
+P05,latest_fib4,1.05,scores visit 2
+P05,fibrosis_stage,F2,"notes, assessment and plan"
+P05,diagnosis,MASLD,notes
+P05,active_medications,metformin; semaglutide; losartan; atorvastatin; vitamin D3,medications
+P05,allergies,Codeine,allergies
+P05,pcp,Dr. Nicole Hamilton,notes header
+P05,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P05,step_goal,"7,000 steps/day",notes plan
+P05,avg_steps_last_14_valid_days,8137,watch data
+P05,latest_fibroscan,"8.8 kPa, CAP 326 (last visit)",FibroScan
+P06,latest_alt,34.0 U/L on 2026-05-26,labs visit 2
+P06,trend_alt,down (38.0 to 34.0),"labs visits 1, 2"
+P06,latest_ast,39.0 U/L on 2026-05-26,labs visit 2
+P06,trend_ast,down (46.0 to 39.0),"labs visits 1, 2"
+P06,latest_platelets,299.0 K/uL on 2026-05-26,labs visit 2
+P06,trend_platelets,about the same (296.0 to 299.0),"labs visits 1, 2"
+P06,latest_bilirubin_total,0.7 mg/dL on 2026-05-26,labs visit 2
+P06,trend_bilirubin_total,up,"labs visits 1, 2"
+P06,latest_albumin,4.4 g/dL on 2026-05-26,labs visit 2
+P06,trend_albumin,about the same (4.3 to 4.4),"labs visits 1, 2"
+P06,latest_a1c,6.9 % on 2026-05-26,labs visit 2
+P06,trend_a1c,about the same (7.2 to 6.9),"labs visits 1, 2"
+P06,latest_meld3,7,scores visit 2
+P06,latest_fib4,0.96,scores visit 2
+P06,fibrosis_stage,F2,"notes, assessment and plan"
+P06,diagnosis,MASLD,notes
+P06,active_medications,metformin; semaglutide; losartan; omeprazole,medications
+P06,allergies,Codeine,allergies
+P06,pcp,Dr. Angela Solomon,notes header
+P06,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P06,step_goal,"7,000 steps/day",notes plan
+P06,avg_steps_last_14_valid_days,11991,watch data
+P06,latest_fibroscan,"7.9 kPa, CAP 266 (last visit)",FibroScan
+P07,latest_alt,52.0 U/L on 2026-05-12,labs visit 2
+P07,trend_alt,about the same (53.0 to 52.0),"labs visits 1, 2"
+P07,latest_ast,44.0 U/L on 2026-05-12,labs visit 2
+P07,trend_ast,about the same (46.0 to 44.0),"labs visits 1, 2"
+P07,latest_platelets,289.0 K/uL on 2026-05-12,labs visit 2
+P07,trend_platelets,about the same (301.0 to 289.0),"labs visits 1, 2"
+P07,latest_bilirubin_total,0.7 mg/dL on 2026-05-12,labs visit 2
+P07,trend_bilirubin_total,down (0.8 to 0.7),"labs visits 1, 2"
+P07,latest_albumin,4.2 g/dL on 2026-05-12,labs visit 2
+P07,trend_albumin,about the same (4.3 to 4.2),"labs visits 1, 2"
+P07,latest_a1c,5.3 % on 2026-05-12,labs visit 2
+P07,trend_a1c,about the same (5.2 to 5.3),"labs visits 1, 2"
+P07,latest_meld3,7,scores visit 2
+P07,latest_fib4,0.91,scores visit 2
+P07,fibrosis_stage,F0,"notes, assessment and plan"
+P07,diagnosis,MASLD,notes
+P07,active_medications,atorvastatin; vitamin D3; omeprazole,medications
+P07,allergies,Sulfa drugs,allergies
+P07,pcp,Dr. James Gates,notes header
+P07,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P07,step_goal,"7,000 steps/day",notes plan
+P07,latest_fibroscan,"6.0 kPa, CAP 343 (last visit)",FibroScan
+P08,latest_alt,90.0 U/L on 2026-05-26,labs visit 2
+P08,trend_alt,up,"labs visits 1, 2"
+P08,latest_ast,38.0 U/L on 2026-05-26,labs visit 2
+P08,trend_ast,up,"labs visits 1, 2"
+P08,latest_platelets,237.0 K/uL on 2026-05-26,labs visit 2
+P08,trend_platelets,up,"labs visits 1, 2"
+P08,latest_bilirubin_total,0.6 mg/dL on 2026-05-26,labs visit 2
+P08,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P08,latest_albumin,4.5 g/dL on 2026-05-26,labs visit 2
+P08,trend_albumin,about the same (4.6 to 4.5),"labs visits 1, 2"
+P08,latest_a1c,5.4 % on 2026-05-26,labs visit 2
+P08,trend_a1c,about the same (5.4 to 5.4),"labs visits 1, 2"
+P08,latest_meld3,6,scores visit 2
+P08,latest_fib4,0.66,scores visit 2
+P08,fibrosis_stage,F1,"notes, assessment and plan"
+P08,diagnosis,MASLD,notes
+P08,active_medications,losartan; atorvastatin,medications
+P08,allergies,Penicillin; Latex,allergies
+P08,pcp,Dr. Cynthia Moore,notes header
+P08,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P08,step_goal,"7,000 steps/day",notes plan
+P08,avg_steps_last_14_valid_days,1349,watch data
+P08,latest_fibroscan,"7.4 kPa, CAP 328 (last visit)",FibroScan
+P09,latest_alt,74.0 U/L on 2026-05-23,labs visit 2
+P09,trend_alt,down (81.0 to 74.0),"labs visits 1, 2"
+P09,latest_ast,39.0 U/L on 2026-05-23,labs visit 2
+P09,trend_ast,down (45.0 to 39.0),"labs visits 1, 2"
+P09,latest_platelets,262.0 K/uL on 2026-05-23,labs visit 2
+P09,trend_platelets,about the same (275.0 to 262.0),"labs visits 1, 2"
+P09,latest_bilirubin_total,0.7 mg/dL on 2026-05-23,labs visit 2
+P09,trend_bilirubin_total,about the same (0.7 to 0.7),"labs visits 1, 2"
+P09,latest_albumin,4.2 g/dL on 2026-05-23,labs visit 2
+P09,trend_albumin,about the same (4.3 to 4.2),"labs visits 1, 2"
+P09,latest_a1c,7.1 % on 2026-05-23,labs visit 2
+P09,trend_a1c,about the same (7.2 to 7.1),"labs visits 1, 2"
+P09,latest_meld3,7,scores visit 2
+P09,latest_fib4,0.67,scores visit 2
+P09,fibrosis_stage,F2,"notes, assessment and plan"
+P09,diagnosis,MASLD,notes
+P09,active_medications,metformin; semaglutide; atorvastatin; vitamin D3,medications
+P09,allergies,none,allergies
+P09,pcp,Dr. Savannah Logan,notes header
+P09,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P09,step_goal,"7,000 steps/day",notes plan
+P09,avg_steps_last_14_valid_days,11921,watch data
+P09,latest_fibroscan,"6.5 kPa, CAP 275 (last visit)",FibroScan
+P10,latest_alt,64.0 U/L on 2026-05-25,labs visit 2
+P10,trend_alt,about the same (62.0 to 64.0),"labs visits 1, 2"
+P10,latest_ast,41.0 U/L on 2026-05-25,labs visit 2
+P10,trend_ast,up,"labs visits 1, 2"
+P10,latest_platelets,247.0 K/uL on 2026-05-25,labs visit 2
+P10,trend_platelets,up,"labs visits 1, 2"
+P10,latest_bilirubin_total,0.6 mg/dL on 2026-05-25,labs visit 2
+P10,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P10,latest_albumin,4.5 g/dL on 2026-05-25,labs visit 2
+P10,trend_albumin,about the same (4.5 to 4.5),"labs visits 1, 2"
+P10,latest_a1c,5.7 % on 2026-05-25,labs visit 2
+P10,trend_a1c,about the same (5.7 to 5.7),"labs visits 1, 2"
+P10,latest_meld3,7,scores visit 2
+P10,latest_fib4,0.89,scores visit 2
+P10,fibrosis_stage,F0,"notes, assessment and plan"
+P10,diagnosis,MASLD,notes
+P10,active_medications,losartan; atorvastatin,medications
+P10,allergies,Lisinopril,allergies
+P10,pcp,Dr. Michael Hammond,notes header
+P10,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P10,step_goal,"7,000 steps/day",notes plan
+P10,avg_steps_last_14_valid_days,12026,watch data
+P10,latest_fibroscan,"4.3 kPa, CAP 344 (last visit)",FibroScan
+P11,latest_alt,64.0 U/L on 2026-05-15,labs visit 2
+P11,trend_alt,down (105.0 to 64.0),"labs visits 1, 2"
+P11,latest_ast,48.0 U/L on 2026-05-15,labs visit 2
+P11,trend_ast,down (56.0 to 48.0),"labs visits 1, 2"
+P11,latest_platelets,207.0 K/uL on 2026-05-15,labs visit 2
+P11,trend_platelets,about the same (214.0 to 207.0),"labs visits 1, 2"
+P11,latest_bilirubin_total,0.7 mg/dL on 2026-05-15,labs visit 2
+P11,trend_bilirubin_total,about the same (0.7 to 0.7),"labs visits 1, 2"
+P11,latest_albumin,4.4 g/dL on 2026-05-15,labs visit 2
+P11,trend_albumin,about the same (4.4 to 4.4),"labs visits 1, 2"
+P11,latest_a1c,6.9 % on 2026-05-15,labs visit 2
+P11,trend_a1c,about the same (7.1 to 6.9),"labs visits 1, 2"
+P11,latest_meld3,8,scores visit 2
+P11,latest_fib4,1.57,scores visit 2
+P11,fibrosis_stage,F3,"notes, assessment and plan"
+P11,diagnosis,MASH,notes
+P11,active_medications,metformin; vitamin D3,medications
+P11,allergies,Lisinopril; Penicillin,allergies
+P11,pcp,Dr. Ryan Rogers,notes header
+P11,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P11,step_goal,"7,000 steps/day",notes plan
+P11,latest_fibroscan,"11.2 kPa, CAP 273 (last visit)",FibroScan
+P12,latest_alt,94.0 U/L on 2026-05-26,labs visit 2
+P12,trend_alt,about the same (92.0 to 94.0),"labs visits 1, 2"
+P12,latest_ast,49.0 U/L on 2026-05-26,labs visit 2
+P12,trend_ast,about the same (47.0 to 49.0),"labs visits 1, 2"
+P12,latest_platelets,176.0 K/uL on 2026-05-26,labs visit 2
+P12,trend_platelets,about the same (180.0 to 176.0),"labs visits 1, 2"
+P12,latest_bilirubin_total,0.9 mg/dL on 2026-05-26,labs visit 2
+P12,trend_bilirubin_total,up,"labs visits 1, 2"
+P12,latest_albumin,4.0 g/dL on 2026-05-26,labs visit 2
+P12,trend_albumin,about the same (4.2 to 4.0),"labs visits 1, 2"
+P12,latest_a1c,7.4 % on 2026-05-26,labs visit 2
+P12,trend_a1c,about the same (7.5 to 7.4),"labs visits 1, 2"
+P12,latest_meld3,6,scores visit 2
+P12,latest_fib4,1.69,scores visit 2
+P12,fibrosis_stage,F3,"notes, assessment and plan"
+P12,diagnosis,MASH,notes
+P12,active_medications,metformin; semaglutide; insulin glargine,medications
+P12,allergies,Lisinopril,allergies
+P12,pcp,Dr. Jennifer Rich,notes header
+P12,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P12,step_goal,"7,000 steps/day",notes plan
+P12,avg_steps_last_14_valid_days,9071,watch data
+P12,latest_fibroscan,"11.2 kPa, CAP 307 (last visit)",FibroScan
+P13,latest_alt,65.0 U/L on 2026-05-26,labs visit 2
+P13,trend_alt,down (72.0 to 65.0),"labs visits 1, 2"
+P13,latest_ast,81.0 U/L on 2026-05-26,labs visit 2
+P13,trend_ast,about the same (82.0 to 81.0),"labs visits 1, 2"
+P13,latest_platelets,156.0 K/uL on 2026-05-26,labs visit 2
+P13,trend_platelets,down (168.0 to 156.0),"labs visits 1, 2"
+P13,latest_bilirubin_total,0.8 mg/dL on 2026-05-26,labs visit 2
+P13,trend_bilirubin_total,up,"labs visits 1, 2"
+P13,latest_albumin,4.2 g/dL on 2026-05-26,labs visit 2
+P13,trend_albumin,about the same (4.2 to 4.2),"labs visits 1, 2"
+P13,latest_a1c,6.7 % on 2026-05-26,labs visit 2
+P13,trend_a1c,about the same (6.6 to 6.7),"labs visits 1, 2"
+P13,latest_meld3,7,scores visit 2
+P13,latest_fib4,3.93,scores visit 2
+P13,fibrosis_stage,F3,"notes, assessment and plan"
+P13,diagnosis,MASH,notes
+P13,active_medications,metformin; losartan,medications
+P13,allergies,none,allergies
+P13,pcp,Dr. Gregg Marshall,notes header
+P13,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P13,step_goal,"7,000 steps/day",notes plan
+P13,avg_steps_last_14_valid_days,11725,watch data
+P13,latest_fibroscan,"11.4 kPa, CAP 329 (last visit)",FibroScan
+P14,latest_alt,116.0 U/L on 2026-05-20,labs visit 2
+P14,trend_alt,up,"labs visits 1, 2"
+P14,latest_ast,87.0 U/L on 2026-05-20,labs visit 2
+P14,trend_ast,up,"labs visits 1, 2"
+P14,latest_platelets,209.0 K/uL on 2026-05-20,labs visit 2
+P14,trend_platelets,about the same (200.0 to 209.0),"labs visits 1, 2"
+P14,latest_bilirubin_total,0.8 mg/dL on 2026-05-20,labs visit 2
+P14,trend_bilirubin_total,up,"labs visits 1, 2"
+P14,latest_albumin,3.9 g/dL on 2026-05-20,labs visit 2
+P14,trend_albumin,about the same (4.1 to 3.9),"labs visits 1, 2"
+P14,latest_a1c,7.1 % on 2026-05-20,labs visit 2
+P14,trend_a1c,about the same (6.8 to 7.1),"labs visits 1, 2"
+P14,latest_meld3,7,scores visit 2
+P14,latest_fib4,1.93,scores visit 2
+P14,fibrosis_stage,F3,"notes, assessment and plan"
+P14,diagnosis,MASH,notes
+P14,active_medications,metformin; semaglutide; losartan,medications
+P14,allergies,Latex,allergies
+P14,pcp,Dr. Jason Smith,notes header
+P14,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P14,step_goal,"7,000 steps/day",notes plan
+P14,avg_steps_last_14_valid_days,1256,watch data
+P14,latest_fibroscan,"13.1 kPa, CAP 337 (last visit)",FibroScan
+P15,latest_alt,41.0 U/L on 2026-05-15,labs visit 2
+P15,trend_alt,down (55.0 to 41.0),"labs visits 1, 2"
+P15,latest_ast,52.0 U/L on 2026-05-15,labs visit 2
+P15,trend_ast,down (63.0 to 52.0),"labs visits 1, 2"
+P15,latest_platelets,175.0 K/uL on 2026-05-15,labs visit 2
+P15,trend_platelets,about the same (171.0 to 175.0),"labs visits 1, 2"
+P15,latest_bilirubin_total,0.6 mg/dL on 2026-05-15,labs visit 2
+P15,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P15,latest_albumin,4.2 g/dL on 2026-05-15,labs visit 2
+P15,trend_albumin,about the same (4.1 to 4.2),"labs visits 1, 2"
+P15,latest_a1c,7.5 % on 2026-05-15,labs visit 2
+P15,trend_a1c,down (8.0 to 7.5),"labs visits 1, 2"
+P15,latest_meld3,7,scores visit 2
+P15,latest_fib4,2.18,scores visit 2
+P15,fibrosis_stage,F3,"notes, assessment and plan"
+P15,diagnosis,MASH,notes
+P15,active_medications,metformin; semaglutide; atorvastatin,medications
+P15,allergies,none,allergies
+P15,pcp,Dr. Christine Ramirez,notes header
+P15,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P15,step_goal,"7,000 steps/day",notes plan
+P15,avg_steps_last_14_valid_days,12512,watch data
+P15,latest_fibroscan,"12.4 kPa, CAP 277 (last visit)",FibroScan
+P16,latest_alt,59.0 U/L on 2026-05-14,labs visit 2
+P16,trend_alt,about the same (57.0 to 59.0),"labs visits 1, 2"
+P16,latest_ast,75.0 U/L on 2026-05-14,labs visit 2
+P16,trend_ast,down (87.0 to 75.0),"labs visits 1, 2"
+P16,latest_platelets,179.0 K/uL on 2026-05-14,labs visit 2
+P16,trend_platelets,about the same (185.0 to 179.0),"labs visits 1, 2"
+P16,latest_bilirubin_total,0.6 mg/dL on 2026-05-14,labs visit 2
+P16,trend_bilirubin_total,about the same (0.6 to 0.6),"labs visits 1, 2"
+P16,latest_albumin,4.2 g/dL on 2026-05-14,labs visit 2
+P16,trend_albumin,about the same (4.1 to 4.2),"labs visits 1, 2"
+P16,latest_a1c,7.3 % on 2026-05-14,labs visit 2
+P16,trend_a1c,about the same (7.4 to 7.3),"labs visits 1, 2"
+P16,latest_meld3,6,scores visit 2
+P16,latest_fib4,3.11,scores visit 2
+P16,fibrosis_stage,F3,"notes, assessment and plan"
+P16,diagnosis,MASH,notes
+P16,active_medications,metformin; insulin glargine; atorvastatin,medications
+P16,allergies,Codeine,allergies
+P16,pcp,Dr. Jennifer Lopez,notes header
+P16,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P16,step_goal,"7,000 steps/day",notes plan
+P16,avg_steps_last_14_valid_days,2289,watch data
+P16,latest_fibroscan,"10.1 kPa, CAP 323 (last visit)",FibroScan
+P17,latest_alt,43.0 U/L on 2026-07-25,labs visit 3
+P17,trend_alt,about the same (44.0 to 43.0),"labs visits 1, 2, 3"
+P17,latest_ast,37.0 U/L on 2026-07-25,labs visit 3
+P17,trend_ast,down (39.0 to 37.0),"labs visits 1, 2, 3"
+P17,latest_platelets,149.0 K/uL on 2026-07-25,labs visit 3
+P17,trend_platelets,up,"labs visits 1, 2, 3"
+P17,latest_bilirubin_total,0.9 mg/dL on 2026-07-25,labs visit 3
+P17,trend_bilirubin_total,about the same (0.9 to 0.9),"labs visits 1, 2, 3"
+P17,latest_albumin,3.2 g/dL on 2026-07-25,labs visit 3
+P17,trend_albumin,down (3.8 to 3.2),"labs visits 1, 2, 3"
+P17,latest_a1c,7.2 % on 2026-07-25,labs visit 3
+P17,trend_a1c,about the same (7.2 to 7.2),"labs visits 1, 2, 3"
+P17,latest_meld3,9,scores visit 3
+P17,latest_fib4,2.65,scores visit 3
+P17,fibrosis_stage,F4,"notes, assessment and plan"
+P17,diagnosis,MASH cirrhosis,notes
+P17,active_medications,metformin; semaglutide; losartan; atorvastatin; investigational study drug LW-101 or placebo (fictional study); ibuprofen,medications
+P17,allergies,Lisinopril,allergies
+P17,pcp,Dr. Robert Smith,notes header
+P17,next_visit,about 3 months after last visit,notes plan (RTC)
+P17,last_ultrasound,2026-09-12,ultrasound
+P17,next_ultrasound_due,2027-03-13,plan: US q6 months
+P17,avg_steps_last_14_valid_days,6572,watch data
+P17,latest_fibroscan,"28.7 kPa, CAP 266",FibroScan
+P18,latest_alt,56.0 U/L on 2026-07-20,labs visit 3
+P18,trend_alt,about the same (55.0 to 56.0),"labs visits 1, 2, 3"
+P18,latest_ast,74.0 U/L on 2026-07-20,labs visit 3
+P18,trend_ast,up,"labs visits 1, 2, 3"
+P18,latest_platelets,112.0 K/uL on 2026-07-20,labs visit 3
+P18,trend_platelets,about the same (112.0 to 112.0),"labs visits 1, 2, 3"
+P18,latest_bilirubin_total,1.0 mg/dL on 2026-07-20,labs visit 3
+P18,trend_bilirubin_total,down (1.4 to 1.0),"labs visits 1, 2, 3"
+P18,latest_albumin,4.4 g/dL on 2026-07-20,labs visit 3
+P18,trend_albumin,up,"labs visits 1, 2, 3"
+P18,latest_a1c,6.8 % on 2026-07-20,labs visit 3
+P18,trend_a1c,about the same (6.8 to 6.8),"labs visits 1, 2, 3"
+P18,latest_meld3,8,scores visit 3
+P18,latest_fib4,4.59,scores visit 3
+P18,fibrosis_stage,F4,"notes, assessment and plan"
+P18,diagnosis,MASH cirrhosis,notes
+P18,active_medications,metformin; insulin glargine; losartan; investigational study drug LW-101 or placebo (fictional study); acetaminophen,medications
+P18,allergies,Latex,allergies
+P18,pcp,Dr. Jason Ford,notes header
+P18,next_visit,about 3 months after last visit,notes plan (RTC)
+P18,last_ultrasound,2026-10-01,ultrasound
+P18,next_ultrasound_due,2027-04-01,plan: US q6 months
+P18,avg_steps_last_14_valid_days,7833,watch data
+P18,latest_fibroscan,"29.7 kPa, CAP 270",FibroScan
+P19,latest_alt,36.0 U/L on 2026-07-17,labs visit 3
+P19,trend_alt,down (43.0 to 36.0),"labs visits 1, 2, 3"
+P19,latest_ast,70.0 U/L on 2026-07-17,labs visit 3
+P19,trend_ast,down (76.0 to 70.0),"labs visits 1, 2, 3"
+P19,latest_platelets,119.0 K/uL on 2026-07-17,labs visit 3
+P19,trend_platelets,down (129.0 to 119.0),"labs visits 1, 2, 3"
+P19,latest_bilirubin_total,0.9 mg/dL on 2026-07-17,labs visit 3
+P19,trend_bilirubin_total,down (1.3 to 0.9),"labs visits 1, 2, 3"
+P19,latest_albumin,3.8 g/dL on 2026-07-17,labs visit 3
+P19,trend_albumin,about the same (3.8 to 3.8),"labs visits 1, 2, 3"
+P19,latest_a1c,5.8 % on 2026-07-17,labs visit 3
+P19,trend_a1c,about the same (5.9 to 5.8),"labs visits 1, 2, 3"
+P19,latest_meld3,7,scores visit 3
+P19,latest_fib4,6.57,scores visit 3
+P19,fibrosis_stage,F4,"notes, assessment and plan"
+P19,diagnosis,MASH cirrhosis,notes
+P19,active_medications,atorvastatin; omeprazole; acetaminophen,medications
+P19,allergies,none,allergies
+P19,pcp,Dr. Juan Rivera,notes header
+P19,next_visit,about 3 months after last visit,notes plan (RTC)
+P19,last_ultrasound,2026-08-04,ultrasound
+P19,next_ultrasound_due,2027-02-02,plan: US q6 months
+P19,avg_steps_last_14_valid_days,9163,watch data
+P19,latest_fibroscan,"21.9 kPa, CAP 292",FibroScan
+P20,latest_alt,64.0 U/L on 2026-07-23,labs visit 3
+P20,trend_alt,about the same (64.0 to 64.0),"labs visits 1, 2, 3"
+P20,latest_ast,84.0 U/L on 2026-07-23,labs visit 3
+P20,trend_ast,up,"labs visits 1, 2, 3"
+P20,latest_platelets,106.0 K/uL on 2026-07-23,labs visit 3
+P20,trend_platelets,down (123.0 to 106.0),"labs visits 1, 2, 3"
+P20,latest_bilirubin_total,1.5 mg/dL on 2026-07-23,labs visit 3
+P20,trend_bilirubin_total,up,"labs visits 1, 2, 3"
+P20,latest_albumin,4.2 g/dL on 2026-07-23,labs visit 3
+P20,trend_albumin,about the same (4.1 to 4.2),"labs visits 1, 2, 3"
+P20,latest_a1c,6.7 % on 2026-07-23,labs visit 3
+P20,trend_a1c,about the same (6.5 to 6.7),"labs visits 1, 2, 3"
+P20,latest_meld3,10,scores visit 3
+P20,latest_fib4,5.35,scores visit 3
+P20,fibrosis_stage,F4,"notes, assessment and plan"
+P20,diagnosis,MASH cirrhosis,notes
+P20,active_medications,metformin; losartan; atorvastatin; carvedilol; vitamin D3; acetaminophen,medications
+P20,allergies,Lisinopril; Penicillin,allergies
+P20,pcp,Dr. Alexandra Harper,notes header
+P20,next_visit,about 3 months after last visit,notes plan (RTC)
+P20,last_ultrasound,2026-03-05,ultrasound
+P20,next_ultrasound_due,2026-09-03,plan: US q6 months
+P20,avg_steps_last_14_valid_days,7494,watch data
+P20,latest_fibroscan,"21.1 kPa, CAP 262",FibroScan
+P21,latest_alt,30.0 U/L on 2026-07-18,labs visit 3
+P21,trend_alt,about the same (30.0 to 30.0),"labs visits 1, 2, 3"
+P21,latest_ast,69.0 U/L on 2026-07-18,labs visit 3
+P21,trend_ast,up,"labs visits 1, 2, 3"
+P21,latest_platelets,107.0 K/uL on 2026-07-18,labs visit 3
+P21,trend_platelets,down (126.0 to 107.0),"labs visits 1, 2, 3"
+P21,latest_bilirubin_total,0.7 mg/dL on 2026-07-18,labs visit 3
+P21,trend_bilirubin_total,down (0.9 to 0.7),"labs visits 1, 2, 3"
+P21,latest_albumin,4.0 g/dL on 2026-07-18,labs visit 3
+P21,trend_albumin,about the same (4.0 to 4.0),"labs visits 1, 2, 3"
+P21,latest_a1c,7.7 % on 2026-07-18,labs visit 3
+P21,trend_a1c,about the same (7.6 to 7.7),"labs visits 1, 2, 3"
+P21,latest_meld3,9,scores visit 3
+P21,latest_fib4,7.18,scores visit 3
+P21,fibrosis_stage,F4,"notes, assessment and plan"
+P21,diagnosis,MASH cirrhosis,notes
+P21,active_medications,metformin; atorvastatin; acetaminophen,medications
+P21,allergies,none,allergies
+P21,pcp,Dr. Anthony Love,notes header
+P21,next_visit,about 3 months after last visit,notes plan (RTC)
+P21,last_ultrasound,2026-09-25,ultrasound
+P21,next_ultrasound_due,2027-03-26,plan: US q6 months
+P21,avg_steps_last_14_valid_days,7524,watch data
+P21,latest_fibroscan,"20.4 kPa, CAP 281",FibroScan
+P22,latest_alt,48.0 U/L on 2026-07-15,labs visit 3
+P22,trend_alt,about the same (46.0 to 48.0),"labs visits 1, 2, 3"
+P22,latest_ast,43.0 U/L on 2026-07-15,labs visit 3
+P22,trend_ast,about the same (43.0 to 43.0),"labs visits 1, 2, 3"
+P22,latest_platelets,111.0 K/uL on 2026-07-15,labs visit 3
+P22,trend_platelets,down (131.0 to 111.0),"labs visits 1, 2, 3"
+P22,latest_bilirubin_total,1.0 mg/dL on 2026-07-15,labs visit 3
+P22,trend_bilirubin_total,up,"labs visits 1, 2, 3"
+P22,latest_albumin,3.6 g/dL on 2026-07-15,labs visit 3
+P22,trend_albumin,down (3.8 to 3.6),"labs visits 1, 2, 3"
+P22,latest_a1c,7.6 % on 2026-07-15,labs visit 3
+P22,trend_a1c,about the same (7.5 to 7.6),"labs visits 1, 2, 3"
+P22,latest_meld3,8,scores visit 3
+P22,latest_fib4,3.52,scores visit 3
+P22,fibrosis_stage,F4,"notes, assessment and plan"
+P22,diagnosis,MASH cirrhosis,notes
+P22,active_medications,metformin; semaglutide; insulin glargine; losartan; acetaminophen,medications
+P22,allergies,Penicillin; Latex,allergies
+P22,pcp,Dr. Christopher White,notes header
+P22,next_visit,about 3 months after last visit,notes plan (RTC)
+P22,last_ultrasound,2026-02-21,ultrasound
+P22,next_ultrasound_due,2026-08-22,plan: US q6 months
+P22,avg_steps_last_14_valid_days,7315,watch data
+P22,latest_fibroscan,"21.4 kPa, CAP 269",FibroScan
+P23,latest_alt,31.0 U/L on 2026-07-11,labs visit 3
+P23,trend_alt,up,"labs visits 1, 2, 3"
+P23,latest_ast,48.0 U/L on 2026-07-11,labs visit 3
+P23,trend_ast,about the same (49.0 to 48.0),"labs visits 1, 2, 3"
+P23,latest_platelets,106.0 K/uL on 2026-07-11,labs visit 3
+P23,trend_platelets,down (130.0 to 106.0),"labs visits 1, 2, 3"
+P23,latest_bilirubin_total,2.8 mg/dL on 2026-07-11,labs visit 3
+P23,trend_bilirubin_total,up,"labs visits 1, 2, 3"
+P23,latest_albumin,3.1 g/dL on 2026-07-11,labs visit 3
+P23,trend_albumin,about the same (3.0 to 3.1),"labs visits 1, 2, 3"
+P23,latest_a1c,5.5 % on 2026-07-11,labs visit 3
+P23,trend_a1c,about the same (5.5 to 5.5),"labs visits 1, 2, 3"
+P23,latest_meld3,19,scores visit 3
+P23,latest_fib4,4.64,scores visit 3
+P23,fibrosis_stage,F4,"notes, assessment and plan"
+P23,diagnosis,"MASH cirrhosis, decompensated",notes
+P23,active_medications,carvedilol; furosemide; spironolactone,medications
+P23,allergies,Codeine; Penicillin,allergies
+P23,pcp,Dr. Jeffrey Romero,notes header
+P23,next_visit,about 3 months after last visit,notes plan (RTC)
+P23,last_ultrasound,2026-10-01,ultrasound
+P23,next_ultrasound_due,2027-04-01,plan: US q6 months
+P23,avg_steps_last_14_valid_days,5820,watch data
+P23,latest_fibroscan,"18.1 kPa, CAP 275",FibroScan
+P24,latest_alt,39.0 U/L on 2026-07-20,labs visit 3
+P24,trend_alt,about the same (38.0 to 39.0),"labs visits 1, 2, 3"
+P24,latest_ast,56.0 U/L on 2026-07-20,labs visit 3
+P24,trend_ast,down (59.0 to 56.0),"labs visits 1, 2, 3"
+P24,latest_platelets,155.0 K/uL on 2026-07-20,labs visit 3
+P24,trend_platelets,up,"labs visits 1, 2, 3"
+P24,latest_bilirubin_total,1.7 mg/dL on 2026-07-20,labs visit 3
+P24,trend_bilirubin_total,about the same (1.7 to 1.7),"labs visits 1, 2, 3"
+P24,latest_albumin,2.6 g/dL on 2026-07-20,labs visit 3
+P24,trend_albumin,down (3.0 to 2.6),"labs visits 1, 2, 3"
+P24,latest_a1c,5.8 % on 2026-07-20,labs visit 3
+P24,trend_a1c,about the same (5.9 to 5.8),"labs visits 1, 2, 3"
+P24,latest_meld3,18,scores visit 3
+P24,latest_fib4,2.89,scores visit 3
+P24,fibrosis_stage,F4,"notes, assessment and plan"
+P24,diagnosis,"MASH cirrhosis, decompensated",notes
+P24,active_medications,carvedilol; furosemide; spironolactone; lactulose; rifaximin; vitamin D3; omeprazole; acetaminophen,medications
+P24,allergies,Latex,allergies
+P24,pcp,Dr. Penny Nunez,notes header
+P24,next_visit,about 3 months after last visit,notes plan (RTC)
+P24,last_ultrasound,2026-06-07,ultrasound
+P24,next_ultrasound_due,2026-12-06,plan: US q6 months
+P24,avg_steps_last_14_valid_days,6718,watch data
+P24,latest_fibroscan,"29.4 kPa, CAP 241",FibroScan
+P25,latest_alt,44.0 U/L on 2026-07-22,labs visit 3
+P25,trend_alt,up,"labs visits 1, 2, 3"
+P25,latest_ast,47.0 U/L on 2026-07-22,labs visit 3
+P25,trend_ast,down (52.0 to 47.0),"labs visits 1, 2, 3"
+P25,latest_platelets,117.0 K/uL on 2026-07-22,labs visit 3
+P25,trend_platelets,down (131.0 to 117.0),"labs visits 1, 2, 3"
+P25,latest_bilirubin_total,1.6 mg/dL on 2026-07-22,labs visit 3
+P25,trend_bilirubin_total,down (1.8 to 1.6),"labs visits 1, 2, 3"
+P25,latest_albumin,3.4 g/dL on 2026-07-22,labs visit 3
+P25,trend_albumin,about the same (3.4 to 3.4),"labs visits 1, 2, 3"
+P25,latest_a1c,5.6 % on 2026-07-22,labs visit 3
+P25,trend_a1c,about the same (5.6 to 5.6),"labs visits 1, 2, 3"
+P25,latest_meld3,14,scores visit 3
+P25,latest_fib4,4.18,scores visit 3
+P25,fibrosis_stage,F4,"notes, assessment and plan"
+P25,diagnosis,"MASH cirrhosis, decompensated",notes
+P25,active_medications,carvedilol; furosemide; spironolactone; acetaminophen,medications
+P25,allergies,Sulfa drugs; Penicillin,allergies
+P25,pcp,Dr. Devin Stevenson,notes header
+P25,next_visit,about 3 months after last visit,notes plan (RTC)
+P25,last_ultrasound,2026-07-17,ultrasound
+P25,next_ultrasound_due,2027-01-15,plan: US q6 months
+P25,avg_steps_last_14_valid_days,9018,watch data
+P25,latest_fibroscan,"31.3 kPa, CAP 246",FibroScan
+P26,latest_alt,62.0 U/L on 2026-07-12,labs visit 3
+P26,trend_alt,up,"labs visits 1, 2, 3"
+P26,latest_ast,60.0 U/L on 2026-07-12,labs visit 3
+P26,trend_ast,up,"labs visits 1, 2, 3"
+P26,latest_platelets,115.0 K/uL on 2026-07-12,labs visit 3
+P26,trend_platelets,down (154.0 to 115.0),"labs visits 1, 2, 3"
+P26,latest_bilirubin_total,0.8 mg/dL on 2026-07-12,labs visit 3
+P26,trend_bilirubin_total,down (0.9 to 0.8),"labs visits 1, 2, 3"
+P26,latest_albumin,4.0 g/dL on 2026-07-12,labs visit 3
+P26,trend_albumin,down (4.3 to 4.0),"labs visits 1, 2, 3"
+P26,latest_a1c,5.9 % on 2026-07-12,labs visit 3
+P26,trend_a1c,about the same (5.7 to 5.9),"labs visits 1, 2, 3"
+P26,latest_meld3,6,scores visit 3
+P26,latest_fib4,2.45,scores visit 3
+P26,fibrosis_stage,F2,"notes, assessment and plan"
+P26,diagnosis,Primary biliary cholangitis (PBC),notes
+P26,active_medications,ursodiol,medications
+P26,allergies,none,allergies
+P26,pcp,Dr. Christopher Oconnor,notes header
+P26,next_visit,about 3 months after last visit,notes plan (RTC)
+P26,step_goal,"7,000 steps/day",notes plan
+P26,latest_fibroscan,"9.5 kPa, CAP 302 (last visit)",FibroScan
+P27,latest_alt,97.0 U/L on 2026-07-23,labs visit 3
+P27,trend_alt,up,"labs visits 1, 2, 3"
+P27,latest_ast,48.0 U/L on 2026-07-23,labs visit 3
+P27,trend_ast,down (53.0 to 48.0),"labs visits 1, 2, 3"
+P27,latest_platelets,188.0 K/uL on 2026-07-23,labs visit 3
+P27,trend_platelets,down (230.0 to 188.0),"labs visits 1, 2, 3"
+P27,latest_bilirubin_total,0.4 mg/dL on 2026-07-23,labs visit 3
+P27,trend_bilirubin_total,down (0.6 to 0.4),"labs visits 1, 2, 3"
+P27,latest_albumin,4.5 g/dL on 2026-07-23,labs visit 3
+P27,trend_albumin,about the same (4.7 to 4.5),"labs visits 1, 2, 3"
+P27,latest_a1c,5.4 % on 2026-07-23,labs visit 3
+P27,trend_a1c,about the same (5.5 to 5.4),"labs visits 1, 2, 3"
+P27,latest_meld3,7,scores visit 3
+P27,latest_fib4,1.37,scores visit 3
+P27,fibrosis_stage,F2,"notes, assessment and plan"
+P27,diagnosis,Primary sclerosing cholangitis (PSC),notes
+P27,active_medications,,medications
+P27,allergies,Lisinopril,allergies
+P27,pcp,Dr. Deborah Crosby,notes header
+P27,next_visit,about 3 months after last visit,notes plan (RTC)
+P27,step_goal,"7,000 steps/day",notes plan
+P27,latest_fibroscan,"8.0 kPa, CAP 258 (last visit)",FibroScan
+P28,latest_alt,91.0 U/L on 2026-07-12,labs visit 3
+P28,trend_alt,down (96.0 to 91.0),"labs visits 1, 2, 3"
+P28,latest_ast,72.0 U/L on 2026-07-12,labs visit 3
+P28,trend_ast,about the same (72.0 to 72.0),"labs visits 1, 2, 3"
+P28,latest_platelets,264.0 K/uL on 2026-07-12,labs visit 3
+P28,trend_platelets,down (282.0 to 264.0),"labs visits 1, 2, 3"
+P28,latest_bilirubin_total,0.5 mg/dL on 2026-07-12,labs visit 3
+P28,trend_bilirubin_total,down (0.6 to 0.5),"labs visits 1, 2, 3"
+P28,latest_albumin,4.2 g/dL on 2026-07-12,labs visit 3
+P28,trend_albumin,down (4.8 to 4.2),"labs visits 1, 2, 3"
+P28,latest_a1c,5.6 % on 2026-07-12,labs visit 3
+P28,trend_a1c,about the same (5.5 to 5.6),"labs visits 1, 2, 3"
+P28,latest_meld3,7,scores visit 3
+P28,latest_fib4,1.11,scores visit 3
+P28,fibrosis_stage,F3,"notes, assessment and plan"
+P28,diagnosis,Autoimmune hepatitis (AIH),notes
+P28,active_medications,prednisone; azathioprine; vitamin D3,medications
+P28,allergies,Sulfa drugs; Latex,allergies
+P28,pcp,Dr. Janet Wang,notes header
+P28,next_visit,about 3 months after last visit,notes plan (RTC)
+P28,step_goal,"7,000 steps/day",notes plan
+P28,avg_steps_last_14_valid_days,5245,watch data
+P28,latest_fibroscan,"11.7 kPa, CAP 272 (last visit)",FibroScan
+P29,latest_alt,38.0 U/L on 2026-07-17,labs visit 3
+P29,trend_alt,about the same (40.0 to 38.0),"labs visits 1, 2, 3"
+P29,latest_ast,72.0 U/L on 2026-07-17,labs visit 3
+P29,trend_ast,down (82.0 to 72.0),"labs visits 1, 2, 3"
+P29,latest_platelets,121.0 K/uL on 2026-07-17,labs visit 3
+P29,trend_platelets,about the same (121.0 to 121.0),"labs visits 1, 2, 3"
+P29,latest_bilirubin_total,1.0 mg/dL on 2026-07-17,labs visit 3
+P29,trend_bilirubin_total,down (1.3 to 1.0),"labs visits 1, 2, 3"
+P29,latest_albumin,3.6 g/dL on 2026-07-17,labs visit 3
+P29,trend_albumin,down (3.9 to 3.6),"labs visits 1, 2, 3"
+P29,latest_a1c,5.4 % on 2026-07-17,labs visit 3
+P29,trend_a1c,about the same (5.4 to 5.4),"labs visits 1, 2, 3"
+P29,latest_meld3,8,scores visit 3
+P29,latest_fib4,5.12,scores visit 3
+P29,fibrosis_stage,F4,"notes, assessment and plan"
+P29,diagnosis,Alcohol-related cirrhosis,notes
+P29,active_medications,losartan; carvedilol; acetaminophen; naproxen,medications
+P29,allergies,none,allergies
+P29,pcp,Dr. Jose Turner,notes header
+P29,next_visit,about 3 months after last visit,notes plan (RTC)
+P29,last_ultrasound,2026-07-25,ultrasound
+P29,next_ultrasound_due,2027-01-23,plan: US q6 months
+P29,avg_steps_last_14_valid_days,4254,watch data
+P29,latest_fibroscan,"23.5 kPa, CAP 230",FibroScan
+P30,latest_alt,41.0 U/L on 2026-05-27,labs visit 2
+P30,trend_alt,about the same (41.0 to 41.0),"labs visits 1, 2"
+P30,latest_ast,67.0 U/L on 2026-05-27,labs visit 2
+P30,trend_ast,up,"labs visits 1, 2"
+P30,latest_platelets,263.0 K/uL on 2026-05-27,labs visit 2
+P30,trend_platelets,down (283.0 to 263.0),"labs visits 1, 2"
+P30,latest_bilirubin_total,0.9 mg/dL on 2026-05-27,labs visit 2
+P30,trend_bilirubin_total,about the same (0.9 to 0.9),"labs visits 1, 2"
+P30,latest_albumin,4.9 g/dL on 2026-05-27,labs visit 2
+P30,trend_albumin,up,"labs visits 1, 2"
+P30,latest_a1c,5.6 % on 2026-05-27,labs visit 2
+P30,trend_a1c,about the same (5.5 to 5.6),"labs visits 1, 2"
+P30,latest_meld3,6,scores visit 2
+P30,latest_fib4,2.59,scores visit 2
+P30,fibrosis_stage,F2,"notes, assessment and plan"
+P30,diagnosis,MetALD (metabolic and alcohol-related liver disease),notes
+P30,active_medications,losartan; vitamin D3,medications
+P30,allergies,none,allergies
+P30,pcp,Dr. Lindsey Strickland,notes header
+P30,next_visit,4 to 6 months after last visit,notes plan (RTC)
+P30,step_goal,"7,000 steps/day",notes plan
+P30,latest_fibroscan,"8.5 kPa, CAP 291 (last visit)",FibroScan

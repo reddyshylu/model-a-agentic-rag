@@ -1,0 +1,42 @@
+[
+  {
+    "id": "s01_title",
+    "text": "This is Model A, an agentic RAG assistant for patients with fatty liver disease. Liver clinic notes and lab reports are written for doctors: abbreviations, high and low flags, MELD and FIB-4 scores. Patients can read them, but most cannot understand them. Model A explains a patient's own results in plain words, and alerts the care team when something looks wrong. Everything you will see uses thirty fictional patients."
+  },
+  {
+    "id": "s02_design",
+    "text": "The design follows one principle from the course template: deterministic rules enforce safety, and the AI handles explanation. Red-flag symptoms, privacy and scope are checked by fixed rules before any model runs. The Nebius model only writes answers from facts that read-only tools return, and every answer is checked again before the patient sees it."
+  },
+  {
+    "id": "s03_architecture",
+    "text": "Here is the flow, built with LangGraph. A message first passes the red-flag check. A router then picks a path: a glossary question, the patient's own record, out of scope, or a privacy refusal. On the record path, the agent calls patient-scoped tools, such as get labs, get scores, get medications and get watch summary. The patient ID comes from the signed-in session, never from the text, so one patient can never see another patient's data. The same tools are also exposed as a read-only MCP server. The model writes the answer with citations, a guardrail checks it, retries once, and otherwise falls back to a safe template."
+  },
+  {
+    "id": "s04_demo_answer",
+    "text": "Let's try it. I'm signed in as a fictional patient and ask what my latest ALT means. Model A pulls the real value and its trend from the record, explains ALT using our plain-language glossary, and cites every fact. The sources are listed under the answer, and the Listen button reads a short version aloud using an ElevenLabs voice."
+  },
+  {
+    "id": "s05_demo_safety",
+    "text": "Now the safety paths. If I ask whether I should cut sugar, Model A says it does not have that information, because diet advice is outside its scope. If I ask for another patient's lab results, it refuses and logs a security event. And if a patient writes that their stool looks like tar, a sign of bleeding, Model A skips the model entirely, shows a fixed message to call 911, and raises an urgent alert for the care team."
+  },
+  {
+    "id": "s06_clinician",
+    "text": "That brings us to the human in the loop. Daily monitoring runs ten clinic rules, such as a MELD rise or a fast weight gain, and finds all twenty expected alerts. Each alert pauses on a LangGraph interrupt in the clinician queue. A clinician sees the evidence, then approves, edits or rejects the message. Nothing reaches the patient without that approval, and every decision goes to an audit log."
+  },
+  {
+    "id": "s07_security",
+    "text": "For security, I built a twenty-five case attack set: prompt injection, jailbreaks, requests for other patients' data, requests for identifiers, dose changes, diagnosis questions and malformed input. Model A handles all twenty-five. Two clinic notes also contain hidden injected instructions, and those are stripped before anything reads them. Names, record numbers and phone numbers are scrubbed from every trace and log."
+  },
+  {
+    "id": "s08_evals",
+    "text": "For evaluation I followed the Week 4 framework. Each golden question has an expected tool trajectory, expected citations and a reference answer. Every run is captured to a spreadsheet. Deterministic checks come first: route accuracy is forty-six out of forty-six, red-flag recall is one hundred percent, and tool-call accuracy is one point zero. Then a separate Nebius model judges faithfulness and factual correctness. My first run showed the model adding advice and promises that were not in the record. After tightening the prompt and fixing the judge's context, faithfulness rose from point eight two to point nine three, and the golden pass rate rose from twenty-six to twenty-nine."
+  },
+  {
+    "id": "s09_cost",
+    "text": "Cost was measured, not guessed. Every Nebius call records tokens and latency. A typical answer takes about half a second, and costs about seven thousandths of a cent. For a thousand patients asking twenty questions a month, that is about one dollar and thirty cents in model cost. Safety replies cost nothing, because they never call the model."
+  },
+  {
+    "id": "s10_close",
+    "text": "I built Model A with an AI coding assistant, Claude, which helped me write the code, the tests and the evaluation scripts, while I made the design and safety decisions and checked the results. What is still open: factual correctness is point seven four, mainly because glossary retrieval misses some entries, so the next step is hybrid search with Pinecone, plus human labels on the failed cases. The emergency phone call is designed and coded, and is left for future work. Thank you for watching."
+  }
+]

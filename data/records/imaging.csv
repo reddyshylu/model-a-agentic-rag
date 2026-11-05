@@ -1,0 +1,41 @@
+patient_id,exam_date,exam,impression
+P01,2025-12-15,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P02,2025-12-18,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P03,2025-12-20,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P04,2025-12-24,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P05,2025-12-24,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P06,2025-12-21,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P07,2025-12-19,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P08,2025-12-28,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P09,2025-12-22,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P10,2025-12-26,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P11,2025-12-25,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P12,2025-12-26,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P13,2025-12-28,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P14,2025-12-24,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P15,2025-12-15,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P16,2025-12-17,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.
+P17,2026-03-14,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.1 cm.
+P17,2026-09-12,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.3 cm.
+P18,2026-04-02,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 13.3 cm.
+P18,2026-10-01,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 13.5 cm.
+P19,2026-02-03,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 13.5 cm.
+P19,2026-08-04,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 13.7 cm.
+P20,2025-09-04,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.9 cm.
+P20,2026-03-05,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 15.1 cm.
+P21,2026-03-27,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.3 cm.
+P21,2026-09-25,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.5 cm.
+P22,2025-08-23,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 12.9 cm.
+P22,2026-02-21,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 13.1 cm.
+P23,2026-04-02,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 12.6 cm.
+P23,2026-10-01,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 12.8 cm.
+P24,2025-12-07,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 13.8 cm.
+P24,2026-06-07,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 14.0 cm.
+P25,2026-01-16,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 14.8 cm.
+P25,2026-07-17,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. Small volume ascites. Spleen 15.0 cm.
+P26,2026-01-11,Liver ultrasound,No focal liver lesion. Normal liver contour.
+P27,2026-01-22,Liver ultrasound,Mild intrahepatic bile duct irregularity. No focal lesion.
+P28,2026-01-22,Liver ultrasound,No focal liver lesion. Normal liver contour.
+P29,2026-01-24,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.3 cm.
+P29,2026-07-25,Liver ultrasound (HCC surveillance),Nodular liver contour consistent with cirrhosis. No focal liver lesion. No ascites. Spleen 14.5 cm.
+P30,2025-12-23,Liver ultrasound,Increased liver echogenicity consistent with hepatic steatosis. No focal lesion.

@@ -1,0 +1,6 @@
+# Minimal install to run Model A (chat page, evals, tests). About 1 to 2 minutes.
+pyyaml>=6.0
+python-dotenv>=1.0
+streamlit>=1.40
+langgraph>=0.2
+pytest>=8.0

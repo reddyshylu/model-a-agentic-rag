@@ -1,0 +1,27 @@
+# Core (the app runs on these plus the Python standard library)
+pyyaml>=6.0
+python-dotenv>=1.0
+
+# Agent graph
+langgraph>=0.2
+
+# MCP server (v1 FastMCP API, as in the Week 3 Session 2 "MCP Http" repo)
+mcp>=1.10,<2
+
+# Optional: vector search (RETRIEVAL=pinecone)
+pinecone>=5.0
+sentence-transformers>=3.0
+
+# Optional: tracing (TRACING=on)
+langfuse>=2.0
+
+# Optional: voice webhook receiver (VOICE_MODE=live)
+fastapi>=0.110
+uvicorn>=0.29
+elevenlabs>=1.0
+
+# Optional: chat UI (later step)
+streamlit>=1.40
+
+# Tests
+pytest>=8.0

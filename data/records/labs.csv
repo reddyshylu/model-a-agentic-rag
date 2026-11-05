@@ -1,0 +1,2032 @@
+patient_id,visit_no,collected_date,test,value,unit,ref_low,ref_high,flag,status
+P01,1,2025-12-15,ALT,83.0,U/L,7.0,55.0,H,resulted
+P01,1,2025-12-15,AST,32.0,U/L,8.0,48.0,,resulted
+P01,1,2025-12-15,ALP,94.0,U/L,40.0,129.0,,resulted
+P01,1,2025-12-15,GGT,54.0,U/L,8.0,61.0,,resulted
+P01,1,2025-12-15,Bilirubin Total,0.5,mg/dL,0.1,1.2,,resulted
+P01,1,2025-12-15,Albumin,4.6,g/dL,3.5,5.0,,resulted
+P01,1,2025-12-15,Total Protein,6.7,g/dL,6.3,7.9,,resulted
+P01,1,2025-12-15,INR,1.0,ratio,0.8,1.1,,resulted
+P01,1,2025-12-15,Platelets,263.0,K/uL,150.0,450.0,,resulted
+P01,1,2025-12-15,WBC,5.4,K/uL,3.4,9.6,,resulted
+P01,1,2025-12-15,Hemoglobin,13.5,g/dL,11.6,15.0,,resulted
+P01,1,2025-12-15,Sodium,137.0,mmol/L,135.0,145.0,,resulted
+P01,1,2025-12-15,Potassium,3.8,mmol/L,3.6,5.2,,resulted
+P01,1,2025-12-15,BUN,19.0,mg/dL,6.0,21.0,,resulted
+P01,1,2025-12-15,Creatinine,0.81,mg/dL,0.59,1.04,,resulted
+P01,1,2025-12-15,Glucose,169.0,mg/dL,70.0,99.0,H,resulted
+P01,1,2025-12-15,A1c,7.0,%,4.0,5.6,H,resulted
+P01,1,2025-12-15,Cholesterol Total,198.0,mg/dL,0.0,199.0,,resulted
+P01,1,2025-12-15,LDL,131.0,mg/dL,0.0,99.0,H,resulted
+P01,1,2025-12-15,HDL,46.0,mg/dL,50.0,,L,resulted
+P01,1,2025-12-15,Triglycerides,195.0,mg/dL,0.0,149.0,H,resulted
+P01,2,2026-05-20,ALT,66.0,U/L,7.0,55.0,H,resulted
+P01,2,2026-05-20,AST,31.0,U/L,8.0,48.0,,resulted
+P01,2,2026-05-20,ALP,115.0,U/L,40.0,129.0,,resulted
+P01,2,2026-05-20,GGT,49.0,U/L,8.0,61.0,,resulted
+P01,2,2026-05-20,Bilirubin Total,0.5,mg/dL,0.1,1.2,,resulted
+P01,2,2026-05-20,Albumin,4.7,g/dL,3.5,5.0,,resulted
+P01,2,2026-05-20,Total Protein,6.7,g/dL,6.3,7.9,,resulted
+P01,2,2026-05-20,INR,0.97,ratio,0.8,1.1,,resulted
+P01,2,2026-05-20,Platelets,251.0,K/uL,150.0,450.0,,resulted
+P01,2,2026-05-20,WBC,5.1,K/uL,3.4,9.6,,resulted
+P01,2,2026-05-20,Hemoglobin,13.7,g/dL,11.6,15.0,,resulted
+P01,2,2026-05-20,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P01,2,2026-05-20,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P01,2,2026-05-20,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P01,2,2026-05-20,Creatinine,0.81,mg/dL,0.59,1.04,,resulted
+P01,2,2026-05-20,Glucose,168.0,mg/dL,70.0,99.0,H,resulted
+P01,2,2026-05-20,A1c,6.8,%,4.0,5.6,H,resulted
+P01,3,2026-10-16,ALT,58.0,U/L,7.0,55.0,H,held_back_pending_release
+P01,3,2026-10-16,AST,24.0,U/L,8.0,48.0,,held_back_pending_release
+P01,3,2026-10-16,ALP,106.0,U/L,40.0,129.0,,held_back_pending_release
+P01,3,2026-10-16,GGT,37.0,U/L,8.0,61.0,,held_back_pending_release
+P01,3,2026-10-16,Bilirubin Total,0.5,mg/dL,0.1,1.2,,held_back_pending_release
+P01,3,2026-10-16,Albumin,4.8,g/dL,3.5,5.0,,held_back_pending_release
+P01,3,2026-10-16,Total Protein,7.0,g/dL,6.3,7.9,,held_back_pending_release
+P01,3,2026-10-16,INR,1.02,ratio,0.8,1.1,,held_back_pending_release
+P01,3,2026-10-16,Platelets,248.0,K/uL,150.0,450.0,,held_back_pending_release
+P01,3,2026-10-16,WBC,5.3,K/uL,3.4,9.6,,held_back_pending_release
+P01,3,2026-10-16,Hemoglobin,13.5,g/dL,11.6,15.0,,held_back_pending_release
+P01,3,2026-10-16,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P01,3,2026-10-16,Potassium,4.1,mmol/L,3.6,5.2,,held_back_pending_release
+P01,3,2026-10-16,BUN,15.0,mg/dL,6.0,21.0,,held_back_pending_release
+P01,3,2026-10-16,Creatinine,0.75,mg/dL,0.59,1.04,,held_back_pending_release
+P01,3,2026-10-16,Glucose,145.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P01,3,2026-10-16,A1c,6.7,%,4.0,5.6,H,held_back_pending_release
+P01,3,2026-10-16,Cholesterol Total,206.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P01,3,2026-10-16,LDL,135.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P01,3,2026-10-16,HDL,47.0,mg/dL,50.0,,L,held_back_pending_release
+P01,3,2026-10-16,Triglycerides,169.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P02,1,2025-12-18,ALT,69.0,U/L,7.0,55.0,H,resulted
+P02,1,2025-12-18,AST,51.0,U/L,8.0,48.0,H,resulted
+P02,1,2025-12-18,ALP,71.0,U/L,40.0,129.0,,resulted
+P02,1,2025-12-18,GGT,60.0,U/L,8.0,61.0,,resulted
+P02,1,2025-12-18,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P02,1,2025-12-18,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P02,1,2025-12-18,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P02,1,2025-12-18,INR,1.01,ratio,0.8,1.1,,resulted
+P02,1,2025-12-18,Platelets,229.0,K/uL,150.0,450.0,,resulted
+P02,1,2025-12-18,WBC,8.1,K/uL,3.4,9.6,,resulted
+P02,1,2025-12-18,Hemoglobin,14.7,g/dL,13.2,16.6,,resulted
+P02,1,2025-12-18,Sodium,141.0,mmol/L,135.0,145.0,,resulted
+P02,1,2025-12-18,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P02,1,2025-12-18,BUN,18.0,mg/dL,6.0,21.0,,resulted
+P02,1,2025-12-18,Creatinine,0.82,mg/dL,0.74,1.35,,resulted
+P02,1,2025-12-18,Glucose,130.0,mg/dL,70.0,99.0,H,resulted
+P02,1,2025-12-18,A1c,7.8,%,4.0,5.6,H,resulted
+P02,1,2025-12-18,Cholesterol Total,222.0,mg/dL,0.0,199.0,H,resulted
+P02,1,2025-12-18,LDL,100.0,mg/dL,0.0,99.0,H,resulted
+P02,1,2025-12-18,HDL,44.0,mg/dL,40.0,,,resulted
+P02,1,2025-12-18,Triglycerides,158.0,mg/dL,0.0,149.0,H,resulted
+P02,2,2026-05-19,ALT,58.0,U/L,7.0,55.0,H,resulted
+P02,2,2026-05-19,AST,54.0,U/L,8.0,48.0,H,resulted
+P02,2,2026-05-19,ALP,72.0,U/L,40.0,129.0,,resulted
+P02,2,2026-05-19,GGT,45.0,U/L,8.0,61.0,,resulted
+P02,2,2026-05-19,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P02,2,2026-05-19,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P02,2,2026-05-19,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P02,2,2026-05-19,INR,1.08,ratio,0.8,1.1,,resulted
+P02,2,2026-05-19,Platelets,260.0,K/uL,150.0,450.0,,resulted
+P02,2,2026-05-19,WBC,8.2,K/uL,3.4,9.6,,resulted
+P02,2,2026-05-19,Hemoglobin,14.8,g/dL,13.2,16.6,,resulted
+P02,2,2026-05-19,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P02,2,2026-05-19,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P02,2,2026-05-19,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P02,2,2026-05-19,Creatinine,0.92,mg/dL,0.74,1.35,,resulted
+P02,2,2026-05-19,Glucose,113.0,mg/dL,70.0,99.0,H,resulted
+P02,2,2026-05-19,A1c,7.8,%,4.0,5.6,H,resulted
+P02,3,2026-10-12,ALT,124.0,U/L,7.0,55.0,H,held_back_pending_release
+P02,3,2026-10-12,AST,49.0,U/L,8.0,48.0,H,held_back_pending_release
+P02,3,2026-10-12,ALP,66.0,U/L,40.0,129.0,,held_back_pending_release
+P02,3,2026-10-12,GGT,57.0,U/L,8.0,61.0,,held_back_pending_release
+P02,3,2026-10-12,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P02,3,2026-10-12,Albumin,4.5,g/dL,3.5,5.0,,held_back_pending_release
+P02,3,2026-10-12,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P02,3,2026-10-12,INR,1.03,ratio,0.8,1.1,,held_back_pending_release
+P02,3,2026-10-12,Platelets,255.0,K/uL,150.0,450.0,,held_back_pending_release
+P02,3,2026-10-12,WBC,8.0,K/uL,3.4,9.6,,held_back_pending_release
+P02,3,2026-10-12,Hemoglobin,15.3,g/dL,13.2,16.6,,held_back_pending_release
+P02,3,2026-10-12,Sodium,141.0,mmol/L,135.0,145.0,,held_back_pending_release
+P02,3,2026-10-12,Potassium,3.9,mmol/L,3.6,5.2,,held_back_pending_release
+P02,3,2026-10-12,BUN,17.0,mg/dL,6.0,21.0,,held_back_pending_release
+P02,3,2026-10-12,Creatinine,0.94,mg/dL,0.74,1.35,,held_back_pending_release
+P02,3,2026-10-12,Glucose,127.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P02,3,2026-10-12,A1c,7.9,%,4.0,5.6,H,held_back_pending_release
+P02,3,2026-10-12,Cholesterol Total,217.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P02,3,2026-10-12,LDL,95.0,mg/dL,0.0,99.0,,held_back_pending_release
+P02,3,2026-10-12,HDL,47.0,mg/dL,40.0,,,held_back_pending_release
+P02,3,2026-10-12,Triglycerides,139.0,mg/dL,0.0,149.0,,held_back_pending_release
+P03,1,2025-12-20,ALT,45.0,U/L,7.0,55.0,,resulted
+P03,1,2025-12-20,AST,42.0,U/L,8.0,48.0,,resulted
+P03,1,2025-12-20,ALP,91.0,U/L,40.0,129.0,,resulted
+P03,1,2025-12-20,GGT,93.0,U/L,8.0,61.0,H,resulted
+P03,1,2025-12-20,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P03,1,2025-12-20,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P03,1,2025-12-20,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P03,1,2025-12-20,INR,1.07,ratio,0.8,1.1,,resulted
+P03,1,2025-12-20,Platelets,260.0,K/uL,150.0,450.0,,resulted
+P03,1,2025-12-20,WBC,8.9,K/uL,3.4,9.6,,resulted
+P03,1,2025-12-20,Hemoglobin,13.9,g/dL,11.6,15.0,,resulted
+P03,1,2025-12-20,Sodium,141.0,mmol/L,135.0,145.0,,resulted
+P03,1,2025-12-20,Potassium,4.7,mmol/L,3.6,5.2,,resulted
+P03,1,2025-12-20,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P03,1,2025-12-20,Creatinine,0.88,mg/dL,0.59,1.04,,resulted
+P03,1,2025-12-20,Glucose,112.0,mg/dL,70.0,99.0,H,resulted
+P03,1,2025-12-20,A1c,5.7,%,4.0,5.6,H,resulted
+P03,1,2025-12-20,Cholesterol Total,200.0,mg/dL,0.0,199.0,H,resulted
+P03,1,2025-12-20,LDL,105.0,mg/dL,0.0,99.0,H,resulted
+P03,1,2025-12-20,HDL,48.0,mg/dL,50.0,,L,resulted
+P03,1,2025-12-20,Triglycerides,156.0,mg/dL,0.0,149.0,H,resulted
+P03,2,2026-05-25,ALT,51.0,U/L,7.0,55.0,,resulted
+P03,2,2026-05-25,AST,53.0,U/L,8.0,48.0,H,resulted
+P03,2,2026-05-25,ALP,90.0,U/L,40.0,129.0,,resulted
+P03,2,2026-05-25,GGT,83.0,U/L,8.0,61.0,H,resulted
+P03,2,2026-05-25,Bilirubin Total,0.5,mg/dL,0.1,1.2,,resulted
+P03,2,2026-05-25,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P03,2,2026-05-25,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P03,2,2026-05-25,INR,1.0,ratio,0.8,1.1,,resulted
+P03,2,2026-05-25,Platelets,238.0,K/uL,150.0,450.0,,resulted
+P03,2,2026-05-25,WBC,8.8,K/uL,3.4,9.6,,resulted
+P03,2,2026-05-25,Hemoglobin,13.4,g/dL,11.6,15.0,,resulted
+P03,2,2026-05-25,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P03,2,2026-05-25,Potassium,4.7,mmol/L,3.6,5.2,,resulted
+P03,2,2026-05-25,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P03,2,2026-05-25,Creatinine,0.86,mg/dL,0.59,1.04,,resulted
+P03,2,2026-05-25,Glucose,112.0,mg/dL,70.0,99.0,H,resulted
+P03,2,2026-05-25,A1c,5.6,%,4.0,5.6,,resulted
+P03,3,2026-10-22,ALT,108.0,U/L,7.0,55.0,H,held_back_pending_release
+P03,3,2026-10-22,AST,59.0,U/L,8.0,48.0,H,held_back_pending_release
+P03,3,2026-10-22,ALP,83.0,U/L,40.0,129.0,,held_back_pending_release
+P03,3,2026-10-22,GGT,92.0,U/L,8.0,61.0,H,held_back_pending_release
+P03,3,2026-10-22,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P03,3,2026-10-22,Albumin,4.3,g/dL,3.5,5.0,,held_back_pending_release
+P03,3,2026-10-22,Total Protein,7.7,g/dL,6.3,7.9,,held_back_pending_release
+P03,3,2026-10-22,INR,1.0,ratio,0.8,1.1,,held_back_pending_release
+P03,3,2026-10-22,Platelets,262.0,K/uL,150.0,450.0,,held_back_pending_release
+P03,3,2026-10-22,WBC,7.9,K/uL,3.4,9.6,,held_back_pending_release
+P03,3,2026-10-22,Hemoglobin,13.5,g/dL,11.6,15.0,,held_back_pending_release
+P03,3,2026-10-22,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P03,3,2026-10-22,Potassium,4.9,mmol/L,3.6,5.2,,held_back_pending_release
+P03,3,2026-10-22,BUN,15.0,mg/dL,6.0,21.0,,held_back_pending_release
+P03,3,2026-10-22,Creatinine,0.89,mg/dL,0.59,1.04,,held_back_pending_release
+P03,3,2026-10-22,Glucose,123.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P03,3,2026-10-22,A1c,5.8,%,4.0,5.6,H,held_back_pending_release
+P03,3,2026-10-22,Cholesterol Total,186.0,mg/dL,0.0,199.0,,held_back_pending_release
+P03,3,2026-10-22,LDL,115.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P03,3,2026-10-22,HDL,50.0,mg/dL,50.0,,,held_back_pending_release
+P03,3,2026-10-22,Triglycerides,170.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P04,1,2025-12-24,ALT,46.0,U/L,7.0,55.0,,resulted
+P04,1,2025-12-24,AST,55.0,U/L,8.0,48.0,H,resulted
+P04,1,2025-12-24,ALP,106.0,U/L,40.0,129.0,,resulted
+P04,1,2025-12-24,GGT,54.0,U/L,8.0,61.0,,resulted
+P04,1,2025-12-24,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P04,1,2025-12-24,Albumin,4.6,g/dL,3.5,5.0,,resulted
+P04,1,2025-12-24,Total Protein,6.5,g/dL,6.3,7.9,,resulted
+P04,1,2025-12-24,INR,1.05,ratio,0.8,1.1,,resulted
+P04,1,2025-12-24,Platelets,313.0,K/uL,150.0,450.0,,resulted
+P04,1,2025-12-24,WBC,8.6,K/uL,3.4,9.6,,resulted
+P04,1,2025-12-24,Hemoglobin,15.1,g/dL,13.2,16.6,,resulted
+P04,1,2025-12-24,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P04,1,2025-12-24,Potassium,4.5,mmol/L,3.6,5.2,,resulted
+P04,1,2025-12-24,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P04,1,2025-12-24,Creatinine,0.91,mg/dL,0.74,1.35,,resulted
+P04,1,2025-12-24,Glucose,153.0,mg/dL,70.0,99.0,H,resulted
+P04,1,2025-12-24,A1c,7.6,%,4.0,5.6,H,resulted
+P04,1,2025-12-24,Cholesterol Total,197.0,mg/dL,0.0,199.0,,resulted
+P04,1,2025-12-24,LDL,155.0,mg/dL,0.0,99.0,H,resulted
+P04,1,2025-12-24,HDL,45.0,mg/dL,40.0,,,resulted
+P04,1,2025-12-24,Triglycerides,177.0,mg/dL,0.0,149.0,H,resulted
+P04,2,2026-05-20,ALT,47.0,U/L,7.0,55.0,,resulted
+P04,2,2026-05-20,AST,48.0,U/L,8.0,48.0,,resulted
+P04,2,2026-05-20,ALP,106.0,U/L,40.0,129.0,,resulted
+P04,2,2026-05-20,GGT,57.0,U/L,8.0,61.0,,resulted
+P04,2,2026-05-20,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P04,2,2026-05-20,Albumin,4.6,g/dL,3.5,5.0,,resulted
+P04,2,2026-05-20,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P04,2,2026-05-20,INR,1.03,ratio,0.8,1.1,,resulted
+P04,2,2026-05-20,Platelets,281.0,K/uL,150.0,450.0,,resulted
+P04,2,2026-05-20,WBC,8.5,K/uL,3.4,9.6,,resulted
+P04,2,2026-05-20,Hemoglobin,15.3,g/dL,13.2,16.6,,resulted
+P04,2,2026-05-20,Sodium,141.0,mmol/L,135.0,145.0,,resulted
+P04,2,2026-05-20,Potassium,4.7,mmol/L,3.6,5.2,,resulted
+P04,2,2026-05-20,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P04,2,2026-05-20,Creatinine,0.91,mg/dL,0.74,1.35,,resulted
+P04,2,2026-05-20,Glucose,161.0,mg/dL,70.0,99.0,H,resulted
+P04,2,2026-05-20,A1c,7.5,%,4.0,5.6,H,resulted
+P04,3,2026-10-22,ALT,39.0,U/L,7.0,55.0,,held_back_pending_release
+P04,3,2026-10-22,AST,41.0,U/L,8.0,48.0,,held_back_pending_release
+P04,3,2026-10-22,ALP,96.0,U/L,40.0,129.0,,held_back_pending_release
+P04,3,2026-10-22,GGT,44.0,U/L,8.0,61.0,,held_back_pending_release
+P04,3,2026-10-22,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P04,3,2026-10-22,Albumin,4.7,g/dL,3.5,5.0,,held_back_pending_release
+P04,3,2026-10-22,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P04,3,2026-10-22,INR,1.08,ratio,0.8,1.1,,held_back_pending_release
+P04,3,2026-10-22,Platelets,308.0,K/uL,150.0,450.0,,held_back_pending_release
+P04,3,2026-10-22,WBC,8.3,K/uL,3.4,9.6,,held_back_pending_release
+P04,3,2026-10-22,Hemoglobin,15.4,g/dL,13.2,16.6,,held_back_pending_release
+P04,3,2026-10-22,Sodium,137.0,mmol/L,135.0,145.0,,held_back_pending_release
+P04,3,2026-10-22,Potassium,4.3,mmol/L,3.6,5.2,,held_back_pending_release
+P04,3,2026-10-22,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P04,3,2026-10-22,Creatinine,0.91,mg/dL,0.74,1.35,,held_back_pending_release
+P04,3,2026-10-22,Glucose,155.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P04,3,2026-10-22,A1c,7.3,%,4.0,5.6,H,held_back_pending_release
+P04,3,2026-10-22,Cholesterol Total,194.0,mg/dL,0.0,199.0,,held_back_pending_release
+P04,3,2026-10-22,LDL,153.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P04,3,2026-10-22,HDL,49.0,mg/dL,40.0,,,held_back_pending_release
+P04,3,2026-10-22,Triglycerides,176.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P05,1,2025-12-24,ALT,77.0,U/L,7.0,55.0,H,resulted
+P05,1,2025-12-24,AST,49.0,U/L,8.0,48.0,H,resulted
+P05,1,2025-12-24,ALP,105.0,U/L,40.0,129.0,,resulted
+P05,1,2025-12-24,GGT,49.0,U/L,8.0,61.0,,resulted
+P05,1,2025-12-24,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P05,1,2025-12-24,Albumin,4.7,g/dL,3.5,5.0,,resulted
+P05,1,2025-12-24,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P05,1,2025-12-24,INR,0.99,ratio,0.8,1.1,,resulted
+P05,1,2025-12-24,Platelets,270.0,K/uL,150.0,450.0,,resulted
+P05,1,2025-12-24,WBC,6.2,K/uL,3.4,9.6,,resulted
+P05,1,2025-12-24,Hemoglobin,13.7,g/dL,13.2,16.6,,resulted
+P05,1,2025-12-24,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P05,1,2025-12-24,Potassium,4.5,mmol/L,3.6,5.2,,resulted
+P05,1,2025-12-24,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P05,1,2025-12-24,Creatinine,1.03,mg/dL,0.74,1.35,,resulted
+P05,1,2025-12-24,Glucose,171.0,mg/dL,70.0,99.0,H,resulted
+P05,1,2025-12-24,A1c,7.0,%,4.0,5.6,H,resulted
+P05,1,2025-12-24,Cholesterol Total,230.0,mg/dL,0.0,199.0,H,resulted
+P05,1,2025-12-24,LDL,120.0,mg/dL,0.0,99.0,H,resulted
+P05,1,2025-12-24,HDL,44.0,mg/dL,40.0,,,resulted
+P05,1,2025-12-24,Triglycerides,250.0,mg/dL,0.0,149.0,H,resulted
+P05,2,2026-05-18,ALT,79.0,U/L,7.0,55.0,H,resulted
+P05,2,2026-05-18,AST,56.0,U/L,8.0,48.0,H,resulted
+P05,2,2026-05-18,ALP,109.0,U/L,40.0,129.0,,resulted
+P05,2,2026-05-18,GGT,47.0,U/L,8.0,61.0,,resulted
+P05,2,2026-05-18,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P05,2,2026-05-18,Albumin,4.6,g/dL,3.5,5.0,,resulted
+P05,2,2026-05-18,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P05,2,2026-05-18,INR,0.98,ratio,0.8,1.1,,resulted
+P05,2,2026-05-18,Platelets,299.0,K/uL,150.0,450.0,,resulted
+P05,2,2026-05-18,WBC,5.7,K/uL,3.4,9.6,,resulted
+P05,2,2026-05-18,Hemoglobin,13.8,g/dL,13.2,16.6,,resulted
+P05,2,2026-05-18,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P05,2,2026-05-18,Potassium,4.7,mmol/L,3.6,5.2,,resulted
+P05,2,2026-05-18,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P05,2,2026-05-18,Creatinine,1.01,mg/dL,0.74,1.35,,resulted
+P05,2,2026-05-18,Glucose,182.0,mg/dL,70.0,99.0,H,resulted
+P05,2,2026-05-18,A1c,7.1,%,4.0,5.6,H,resulted
+P05,3,2026-10-14,ALT,89.0,U/L,7.0,55.0,H,held_back_pending_release
+P05,3,2026-10-14,AST,58.0,U/L,8.0,48.0,H,held_back_pending_release
+P05,3,2026-10-14,ALP,100.0,U/L,40.0,129.0,,held_back_pending_release
+P05,3,2026-10-14,GGT,55.0,U/L,8.0,61.0,,held_back_pending_release
+P05,3,2026-10-14,Bilirubin Total,0.7,mg/dL,0.1,1.2,,held_back_pending_release
+P05,3,2026-10-14,Albumin,4.7,g/dL,3.5,5.0,,held_back_pending_release
+P05,3,2026-10-14,Total Protein,7.2,g/dL,6.3,7.9,,held_back_pending_release
+P05,3,2026-10-14,INR,0.96,ratio,0.8,1.1,,held_back_pending_release
+P05,3,2026-10-14,Platelets,301.0,K/uL,150.0,450.0,,held_back_pending_release
+P05,3,2026-10-14,WBC,5.3,K/uL,3.4,9.6,,held_back_pending_release
+P05,3,2026-10-14,Hemoglobin,13.9,g/dL,13.2,16.6,,held_back_pending_release
+P05,3,2026-10-14,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P05,3,2026-10-14,Potassium,4.5,mmol/L,3.6,5.2,,held_back_pending_release
+P05,3,2026-10-14,BUN,17.0,mg/dL,6.0,21.0,,held_back_pending_release
+P05,3,2026-10-14,Creatinine,1.1,mg/dL,0.74,1.35,,held_back_pending_release
+P05,3,2026-10-14,Glucose,177.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P05,3,2026-10-14,A1c,9.6,%,4.0,5.6,H,held_back_pending_release
+P05,3,2026-10-14,Cholesterol Total,234.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P05,3,2026-10-14,LDL,129.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P05,3,2026-10-14,HDL,41.0,mg/dL,40.0,,,held_back_pending_release
+P05,3,2026-10-14,Triglycerides,273.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P06,1,2025-12-21,ALT,38.0,U/L,7.0,55.0,,resulted
+P06,1,2025-12-21,AST,46.0,U/L,8.0,48.0,,resulted
+P06,1,2025-12-21,ALP,90.0,U/L,40.0,129.0,,resulted
+P06,1,2025-12-21,GGT,56.0,U/L,8.0,61.0,,resulted
+P06,1,2025-12-21,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P06,1,2025-12-21,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P06,1,2025-12-21,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P06,1,2025-12-21,INR,1.01,ratio,0.8,1.1,,resulted
+P06,1,2025-12-21,Platelets,296.0,K/uL,150.0,450.0,,resulted
+P06,1,2025-12-21,WBC,6.8,K/uL,3.4,9.6,,resulted
+P06,1,2025-12-21,Hemoglobin,12.3,g/dL,11.6,15.0,,resulted
+P06,1,2025-12-21,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P06,1,2025-12-21,Potassium,3.8,mmol/L,3.6,5.2,,resulted
+P06,1,2025-12-21,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P06,1,2025-12-21,Creatinine,0.9,mg/dL,0.59,1.04,,resulted
+P06,1,2025-12-21,Glucose,150.0,mg/dL,70.0,99.0,H,resulted
+P06,1,2025-12-21,A1c,7.2,%,4.0,5.6,H,resulted
+P06,1,2025-12-21,Cholesterol Total,213.0,mg/dL,0.0,199.0,H,resulted
+P06,1,2025-12-21,LDL,138.0,mg/dL,0.0,99.0,H,resulted
+P06,1,2025-12-21,HDL,54.0,mg/dL,50.0,,,resulted
+P06,1,2025-12-21,Triglycerides,254.0,mg/dL,0.0,149.0,H,resulted
+P06,2,2026-05-26,ALT,34.0,U/L,7.0,55.0,,resulted
+P06,2,2026-05-26,AST,39.0,U/L,8.0,48.0,,resulted
+P06,2,2026-05-26,ALP,99.0,U/L,40.0,129.0,,resulted
+P06,2,2026-05-26,GGT,52.0,U/L,8.0,61.0,,resulted
+P06,2,2026-05-26,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P06,2,2026-05-26,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P06,2,2026-05-26,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P06,2,2026-05-26,INR,0.99,ratio,0.8,1.1,,resulted
+P06,2,2026-05-26,Platelets,299.0,K/uL,150.0,450.0,,resulted
+P06,2,2026-05-26,WBC,6.7,K/uL,3.4,9.6,,resulted
+P06,2,2026-05-26,Hemoglobin,13.4,g/dL,11.6,15.0,,resulted
+P06,2,2026-05-26,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P06,2,2026-05-26,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P06,2,2026-05-26,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P06,2,2026-05-26,Creatinine,0.94,mg/dL,0.59,1.04,,resulted
+P06,2,2026-05-26,Glucose,151.0,mg/dL,70.0,99.0,H,resulted
+P06,2,2026-05-26,A1c,6.9,%,4.0,5.6,H,resulted
+P06,3,2026-10-18,ALT,27.0,U/L,7.0,55.0,,held_back_pending_release
+P06,3,2026-10-18,AST,33.0,U/L,8.0,48.0,,held_back_pending_release
+P06,3,2026-10-18,ALP,98.0,U/L,40.0,129.0,,held_back_pending_release
+P06,3,2026-10-18,GGT,42.0,U/L,8.0,61.0,,held_back_pending_release
+P06,3,2026-10-18,Bilirubin Total,0.7,mg/dL,0.1,1.2,,held_back_pending_release
+P06,3,2026-10-18,Albumin,4.2,g/dL,3.5,5.0,,held_back_pending_release
+P06,3,2026-10-18,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P06,3,2026-10-18,INR,0.99,ratio,0.8,1.1,,held_back_pending_release
+P06,3,2026-10-18,Platelets,309.0,K/uL,150.0,450.0,,held_back_pending_release
+P06,3,2026-10-18,WBC,6.9,K/uL,3.4,9.6,,held_back_pending_release
+P06,3,2026-10-18,Hemoglobin,12.8,g/dL,11.6,15.0,,held_back_pending_release
+P06,3,2026-10-18,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P06,3,2026-10-18,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P06,3,2026-10-18,BUN,16.0,mg/dL,6.0,21.0,,held_back_pending_release
+P06,3,2026-10-18,Creatinine,0.92,mg/dL,0.59,1.04,,held_back_pending_release
+P06,3,2026-10-18,Glucose,171.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P06,3,2026-10-18,A1c,6.4,%,4.0,5.6,H,held_back_pending_release
+P06,3,2026-10-18,Cholesterol Total,205.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P06,3,2026-10-18,LDL,126.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P06,3,2026-10-18,HDL,56.0,mg/dL,50.0,,,held_back_pending_release
+P06,3,2026-10-18,Triglycerides,216.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P07,1,2025-12-19,ALT,53.0,U/L,7.0,55.0,,resulted
+P07,1,2025-12-19,AST,46.0,U/L,8.0,48.0,,resulted
+P07,1,2025-12-19,ALP,87.0,U/L,40.0,129.0,,resulted
+P07,1,2025-12-19,GGT,51.0,U/L,8.0,61.0,,resulted
+P07,1,2025-12-19,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P07,1,2025-12-19,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P07,1,2025-12-19,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P07,1,2025-12-19,INR,0.91,ratio,0.8,1.1,,resulted
+P07,1,2025-12-19,Platelets,301.0,K/uL,150.0,450.0,,resulted
+P07,1,2025-12-19,WBC,7.7,K/uL,3.4,9.6,,resulted
+P07,1,2025-12-19,Hemoglobin,13.8,g/dL,11.6,15.0,,resulted
+P07,1,2025-12-19,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P07,1,2025-12-19,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P07,1,2025-12-19,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P07,1,2025-12-19,Creatinine,0.86,mg/dL,0.59,1.04,,resulted
+P07,1,2025-12-19,Glucose,110.0,mg/dL,70.0,99.0,H,resulted
+P07,1,2025-12-19,A1c,5.2,%,4.0,5.6,,resulted
+P07,1,2025-12-19,Cholesterol Total,184.0,mg/dL,0.0,199.0,,resulted
+P07,1,2025-12-19,LDL,109.0,mg/dL,0.0,99.0,H,resulted
+P07,1,2025-12-19,HDL,46.0,mg/dL,50.0,,L,resulted
+P07,1,2025-12-19,Triglycerides,168.0,mg/dL,0.0,149.0,H,resulted
+P07,2,2026-05-12,ALT,52.0,U/L,7.0,55.0,,resulted
+P07,2,2026-05-12,AST,44.0,U/L,8.0,48.0,,resulted
+P07,2,2026-05-12,ALP,87.0,U/L,40.0,129.0,,resulted
+P07,2,2026-05-12,GGT,51.0,U/L,8.0,61.0,,resulted
+P07,2,2026-05-12,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P07,2,2026-05-12,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P07,2,2026-05-12,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P07,2,2026-05-12,INR,0.95,ratio,0.8,1.1,,resulted
+P07,2,2026-05-12,Platelets,289.0,K/uL,150.0,450.0,,resulted
+P07,2,2026-05-12,WBC,6.6,K/uL,3.4,9.6,,resulted
+P07,2,2026-05-12,Hemoglobin,13.7,g/dL,11.6,15.0,,resulted
+P07,2,2026-05-12,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P07,2,2026-05-12,Potassium,3.8,mmol/L,3.6,5.2,,resulted
+P07,2,2026-05-12,BUN,15.0,mg/dL,6.0,21.0,,resulted
+P07,2,2026-05-12,Creatinine,0.86,mg/dL,0.59,1.04,,resulted
+P07,2,2026-05-12,Glucose,115.0,mg/dL,70.0,99.0,H,resulted
+P07,2,2026-05-12,A1c,5.3,%,4.0,5.6,,resulted
+P07,3,2026-10-13,ALT,54.0,U/L,7.0,55.0,,held_back_pending_release
+P07,3,2026-10-13,AST,48.0,U/L,8.0,48.0,,held_back_pending_release
+P07,3,2026-10-13,ALP,83.0,U/L,40.0,129.0,,held_back_pending_release
+P07,3,2026-10-13,GGT,52.0,U/L,8.0,61.0,,held_back_pending_release
+P07,3,2026-10-13,Bilirubin Total,0.8,mg/dL,0.1,1.2,,held_back_pending_release
+P07,3,2026-10-13,Albumin,4.4,g/dL,3.5,5.0,,held_back_pending_release
+P07,3,2026-10-13,Total Protein,7.5,g/dL,6.3,7.9,,held_back_pending_release
+P07,3,2026-10-13,INR,1.02,ratio,0.8,1.1,,held_back_pending_release
+P07,3,2026-10-13,Platelets,295.0,K/uL,150.0,450.0,,held_back_pending_release
+P07,3,2026-10-13,WBC,5.9,K/uL,3.4,9.6,,held_back_pending_release
+P07,3,2026-10-13,Hemoglobin,13.4,g/dL,11.6,15.0,,held_back_pending_release
+P07,3,2026-10-13,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P07,3,2026-10-13,Potassium,3.9,mmol/L,3.6,5.2,,held_back_pending_release
+P07,3,2026-10-13,BUN,16.0,mg/dL,6.0,21.0,,held_back_pending_release
+P07,3,2026-10-13,Creatinine,0.94,mg/dL,0.59,1.04,,held_back_pending_release
+P07,3,2026-10-13,Glucose,114.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P07,3,2026-10-13,A1c,5.5,%,4.0,5.6,,held_back_pending_release
+P07,3,2026-10-13,Cholesterol Total,192.0,mg/dL,0.0,199.0,,held_back_pending_release
+P07,3,2026-10-13,LDL,110.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P07,3,2026-10-13,HDL,47.0,mg/dL,50.0,,L,held_back_pending_release
+P07,3,2026-10-13,Triglycerides,170.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P08,1,2025-12-28,ALT,77.0,U/L,7.0,55.0,H,resulted
+P08,1,2025-12-28,AST,31.0,U/L,8.0,48.0,,resulted
+P08,1,2025-12-28,ALP,101.0,U/L,40.0,129.0,,resulted
+P08,1,2025-12-28,GGT,72.0,U/L,8.0,61.0,H,resulted
+P08,1,2025-12-28,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P08,1,2025-12-28,Albumin,4.6,g/dL,3.5,5.0,,resulted
+P08,1,2025-12-28,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P08,1,2025-12-28,INR,1.04,ratio,0.8,1.1,,resulted
+P08,1,2025-12-28,Platelets,225.0,K/uL,150.0,450.0,,resulted
+P08,1,2025-12-28,WBC,5.5,K/uL,3.4,9.6,,resulted
+P08,1,2025-12-28,Hemoglobin,14.4,g/dL,13.2,16.6,,resulted
+P08,1,2025-12-28,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P08,1,2025-12-28,Potassium,4.8,mmol/L,3.6,5.2,,resulted
+P08,1,2025-12-28,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P08,1,2025-12-28,Creatinine,0.89,mg/dL,0.74,1.35,,resulted
+P08,1,2025-12-28,Glucose,97.0,mg/dL,70.0,99.0,,resulted
+P08,1,2025-12-28,A1c,5.4,%,4.0,5.6,,resulted
+P08,1,2025-12-28,Cholesterol Total,224.0,mg/dL,0.0,199.0,H,resulted
+P08,1,2025-12-28,LDL,138.0,mg/dL,0.0,99.0,H,resulted
+P08,1,2025-12-28,HDL,42.0,mg/dL,40.0,,,resulted
+P08,1,2025-12-28,Triglycerides,159.0,mg/dL,0.0,149.0,H,resulted
+P08,2,2026-05-26,ALT,90.0,U/L,7.0,55.0,H,resulted
+P08,2,2026-05-26,AST,38.0,U/L,8.0,48.0,,resulted
+P08,2,2026-05-26,ALP,101.0,U/L,40.0,129.0,,resulted
+P08,2,2026-05-26,GGT,90.0,U/L,8.0,61.0,H,resulted
+P08,2,2026-05-26,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P08,2,2026-05-26,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P08,2,2026-05-26,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P08,2,2026-05-26,INR,1.04,ratio,0.8,1.1,,resulted
+P08,2,2026-05-26,Platelets,237.0,K/uL,150.0,450.0,,resulted
+P08,2,2026-05-26,WBC,6.1,K/uL,3.4,9.6,,resulted
+P08,2,2026-05-26,Hemoglobin,14.8,g/dL,13.2,16.6,,resulted
+P08,2,2026-05-26,Sodium,137.0,mmol/L,135.0,145.0,,resulted
+P08,2,2026-05-26,Potassium,4.4,mmol/L,3.6,5.2,,resulted
+P08,2,2026-05-26,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P08,2,2026-05-26,Creatinine,0.92,mg/dL,0.74,1.35,,resulted
+P08,2,2026-05-26,Glucose,106.0,mg/dL,70.0,99.0,H,resulted
+P08,2,2026-05-26,A1c,5.4,%,4.0,5.6,,resulted
+P08,3,2026-10-21,ALT,94.0,U/L,7.0,55.0,H,held_back_pending_release
+P08,3,2026-10-21,AST,36.0,U/L,8.0,48.0,,held_back_pending_release
+P08,3,2026-10-21,ALP,94.0,U/L,40.0,129.0,,held_back_pending_release
+P08,3,2026-10-21,GGT,104.0,U/L,8.0,61.0,H,held_back_pending_release
+P08,3,2026-10-21,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P08,3,2026-10-21,Albumin,4.6,g/dL,3.5,5.0,,held_back_pending_release
+P08,3,2026-10-21,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P08,3,2026-10-21,INR,1.01,ratio,0.8,1.1,,held_back_pending_release
+P08,3,2026-10-21,Platelets,238.0,K/uL,150.0,450.0,,held_back_pending_release
+P08,3,2026-10-21,WBC,5.0,K/uL,3.4,9.6,,held_back_pending_release
+P08,3,2026-10-21,Hemoglobin,14.8,g/dL,13.2,16.6,,held_back_pending_release
+P08,3,2026-10-21,Sodium,138.0,mmol/L,135.0,145.0,,held_back_pending_release
+P08,3,2026-10-21,Potassium,4.6,mmol/L,3.6,5.2,,held_back_pending_release
+P08,3,2026-10-21,BUN,16.0,mg/dL,6.0,21.0,,held_back_pending_release
+P08,3,2026-10-21,Creatinine,0.83,mg/dL,0.74,1.35,,held_back_pending_release
+P08,3,2026-10-21,Glucose,123.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P08,3,2026-10-21,A1c,5.5,%,4.0,5.6,,held_back_pending_release
+P08,3,2026-10-21,Cholesterol Total,225.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P08,3,2026-10-21,LDL,138.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P08,3,2026-10-21,HDL,44.0,mg/dL,40.0,,,held_back_pending_release
+P08,3,2026-10-21,Triglycerides,201.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P09,1,2025-12-22,ALT,81.0,U/L,7.0,55.0,H,resulted
+P09,1,2025-12-22,AST,45.0,U/L,8.0,48.0,,resulted
+P09,1,2025-12-22,ALP,86.0,U/L,40.0,129.0,,resulted
+P09,1,2025-12-22,GGT,43.0,U/L,8.0,61.0,,resulted
+P09,1,2025-12-22,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P09,1,2025-12-22,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P09,1,2025-12-22,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P09,1,2025-12-22,INR,1.04,ratio,0.8,1.1,,resulted
+P09,1,2025-12-22,Platelets,275.0,K/uL,150.0,450.0,,resulted
+P09,1,2025-12-22,WBC,7.7,K/uL,3.4,9.6,,resulted
+P09,1,2025-12-22,Hemoglobin,15.1,g/dL,13.2,16.6,,resulted
+P09,1,2025-12-22,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P09,1,2025-12-22,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P09,1,2025-12-22,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P09,1,2025-12-22,Creatinine,0.95,mg/dL,0.74,1.35,,resulted
+P09,1,2025-12-22,Glucose,167.0,mg/dL,70.0,99.0,H,resulted
+P09,1,2025-12-22,A1c,7.2,%,4.0,5.6,H,resulted
+P09,1,2025-12-22,Cholesterol Total,197.0,mg/dL,0.0,199.0,,resulted
+P09,1,2025-12-22,LDL,136.0,mg/dL,0.0,99.0,H,resulted
+P09,1,2025-12-22,HDL,36.0,mg/dL,40.0,,L,resulted
+P09,1,2025-12-22,Triglycerides,187.0,mg/dL,0.0,149.0,H,resulted
+P09,2,2026-05-23,ALT,74.0,U/L,7.0,55.0,H,resulted
+P09,2,2026-05-23,AST,39.0,U/L,8.0,48.0,,resulted
+P09,2,2026-05-23,ALP,81.0,U/L,40.0,129.0,,resulted
+P09,2,2026-05-23,GGT,33.0,U/L,8.0,61.0,,resulted
+P09,2,2026-05-23,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P09,2,2026-05-23,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P09,2,2026-05-23,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P09,2,2026-05-23,INR,1.06,ratio,0.8,1.1,,resulted
+P09,2,2026-05-23,Platelets,262.0,K/uL,150.0,450.0,,resulted
+P09,2,2026-05-23,WBC,7.8,K/uL,3.4,9.6,,resulted
+P09,2,2026-05-23,Hemoglobin,15.1,g/dL,13.2,16.6,,resulted
+P09,2,2026-05-23,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P09,2,2026-05-23,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P09,2,2026-05-23,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P09,2,2026-05-23,Creatinine,0.98,mg/dL,0.74,1.35,,resulted
+P09,2,2026-05-23,Glucose,173.0,mg/dL,70.0,99.0,H,resulted
+P09,2,2026-05-23,A1c,7.1,%,4.0,5.6,H,resulted
+P09,3,2026-10-20,ALT,54.0,U/L,7.0,55.0,,held_back_pending_release
+P09,3,2026-10-20,AST,36.0,U/L,8.0,48.0,,held_back_pending_release
+P09,3,2026-10-20,ALP,87.0,U/L,40.0,129.0,,held_back_pending_release
+P09,3,2026-10-20,GGT,36.0,U/L,8.0,61.0,,held_back_pending_release
+P09,3,2026-10-20,Bilirubin Total,0.7,mg/dL,0.1,1.2,,held_back_pending_release
+P09,3,2026-10-20,Albumin,4.3,g/dL,3.5,5.0,,held_back_pending_release
+P09,3,2026-10-20,Total Protein,7.3,g/dL,6.3,7.9,,held_back_pending_release
+P09,3,2026-10-20,INR,1.02,ratio,0.8,1.1,,held_back_pending_release
+P09,3,2026-10-20,Platelets,260.0,K/uL,150.0,450.0,,held_back_pending_release
+P09,3,2026-10-20,WBC,7.1,K/uL,3.4,9.6,,held_back_pending_release
+P09,3,2026-10-20,Hemoglobin,14.7,g/dL,13.2,16.6,,held_back_pending_release
+P09,3,2026-10-20,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P09,3,2026-10-20,Potassium,3.8,mmol/L,3.6,5.2,,held_back_pending_release
+P09,3,2026-10-20,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P09,3,2026-10-20,Creatinine,0.94,mg/dL,0.74,1.35,,held_back_pending_release
+P09,3,2026-10-20,Glucose,171.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P09,3,2026-10-20,A1c,6.9,%,4.0,5.6,H,held_back_pending_release
+P09,3,2026-10-20,Cholesterol Total,184.0,mg/dL,0.0,199.0,,held_back_pending_release
+P09,3,2026-10-20,LDL,142.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P09,3,2026-10-20,HDL,38.0,mg/dL,40.0,,L,held_back_pending_release
+P09,3,2026-10-20,Triglycerides,153.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P10,1,2025-12-26,ALT,62.0,U/L,7.0,55.0,H,resulted
+P10,1,2025-12-26,AST,37.0,U/L,8.0,48.0,,resulted
+P10,1,2025-12-26,ALP,73.0,U/L,40.0,129.0,,resulted
+P10,1,2025-12-26,GGT,39.0,U/L,8.0,61.0,,resulted
+P10,1,2025-12-26,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P10,1,2025-12-26,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P10,1,2025-12-26,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P10,1,2025-12-26,INR,1.03,ratio,0.8,1.1,,resulted
+P10,1,2025-12-26,Platelets,223.0,K/uL,150.0,450.0,,resulted
+P10,1,2025-12-26,WBC,7.4,K/uL,3.4,9.6,,resulted
+P10,1,2025-12-26,Hemoglobin,13.5,g/dL,13.2,16.6,,resulted
+P10,1,2025-12-26,Sodium,142.0,mmol/L,135.0,145.0,,resulted
+P10,1,2025-12-26,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P10,1,2025-12-26,BUN,18.0,mg/dL,6.0,21.0,,resulted
+P10,1,2025-12-26,Creatinine,1.05,mg/dL,0.74,1.35,,resulted
+P10,1,2025-12-26,Glucose,122.0,mg/dL,70.0,99.0,H,resulted
+P10,1,2025-12-26,A1c,5.7,%,4.0,5.6,H,resulted
+P10,1,2025-12-26,Cholesterol Total,188.0,mg/dL,0.0,199.0,,resulted
+P10,1,2025-12-26,LDL,103.0,mg/dL,0.0,99.0,H,resulted
+P10,1,2025-12-26,HDL,37.0,mg/dL,40.0,,L,resulted
+P10,1,2025-12-26,Triglycerides,178.0,mg/dL,0.0,149.0,H,resulted
+P10,2,2026-05-25,ALT,64.0,U/L,7.0,55.0,H,resulted
+P10,2,2026-05-25,AST,41.0,U/L,8.0,48.0,,resulted
+P10,2,2026-05-25,ALP,74.0,U/L,40.0,129.0,,resulted
+P10,2,2026-05-25,GGT,48.0,U/L,8.0,61.0,,resulted
+P10,2,2026-05-25,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P10,2,2026-05-25,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P10,2,2026-05-25,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P10,2,2026-05-25,INR,0.94,ratio,0.8,1.1,,resulted
+P10,2,2026-05-25,Platelets,247.0,K/uL,150.0,450.0,,resulted
+P10,2,2026-05-25,WBC,7.8,K/uL,3.4,9.6,,resulted
+P10,2,2026-05-25,Hemoglobin,13.8,g/dL,13.2,16.6,,resulted
+P10,2,2026-05-25,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P10,2,2026-05-25,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P10,2,2026-05-25,BUN,15.0,mg/dL,6.0,21.0,,resulted
+P10,2,2026-05-25,Creatinine,1.09,mg/dL,0.74,1.35,,resulted
+P10,2,2026-05-25,Glucose,130.0,mg/dL,70.0,99.0,H,resulted
+P10,2,2026-05-25,A1c,5.7,%,4.0,5.6,H,resulted
+P10,3,2026-10-20,ALT,64.0,U/L,7.0,55.0,H,held_back_pending_release
+P10,3,2026-10-20,AST,37.0,U/L,8.0,48.0,,held_back_pending_release
+P10,3,2026-10-20,ALP,72.0,U/L,40.0,129.0,,held_back_pending_release
+P10,3,2026-10-20,GGT,48.0,U/L,8.0,61.0,,held_back_pending_release
+P10,3,2026-10-20,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P10,3,2026-10-20,Albumin,4.5,g/dL,3.5,5.0,,held_back_pending_release
+P10,3,2026-10-20,Total Protein,7.8,g/dL,6.3,7.9,,held_back_pending_release
+P10,3,2026-10-20,INR,1.03,ratio,0.8,1.1,,held_back_pending_release
+P10,3,2026-10-20,Platelets,239.0,K/uL,150.0,450.0,,held_back_pending_release
+P10,3,2026-10-20,WBC,7.0,K/uL,3.4,9.6,,held_back_pending_release
+P10,3,2026-10-20,Hemoglobin,13.5,g/dL,13.2,16.6,,held_back_pending_release
+P10,3,2026-10-20,Sodium,141.0,mmol/L,135.0,145.0,,held_back_pending_release
+P10,3,2026-10-20,Potassium,4.0,mmol/L,3.6,5.2,,held_back_pending_release
+P10,3,2026-10-20,BUN,15.0,mg/dL,6.0,21.0,,held_back_pending_release
+P10,3,2026-10-20,Creatinine,1.04,mg/dL,0.74,1.35,,held_back_pending_release
+P10,3,2026-10-20,Glucose,129.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P10,3,2026-10-20,A1c,8.7,%,4.0,5.6,H,held_back_pending_release
+P10,3,2026-10-20,Cholesterol Total,186.0,mg/dL,0.0,199.0,,held_back_pending_release
+P10,3,2026-10-20,LDL,106.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P10,3,2026-10-20,HDL,37.0,mg/dL,40.0,,L,held_back_pending_release
+P10,3,2026-10-20,Triglycerides,160.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P11,1,2025-12-25,ALT,105.0,U/L,7.0,55.0,H,resulted
+P11,1,2025-12-25,AST,56.0,U/L,8.0,48.0,H,resulted
+P11,1,2025-12-25,ALP,95.0,U/L,40.0,129.0,,resulted
+P11,1,2025-12-25,GGT,47.0,U/L,8.0,61.0,,resulted
+P11,1,2025-12-25,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P11,1,2025-12-25,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P11,1,2025-12-25,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P11,1,2025-12-25,INR,0.96,ratio,0.8,1.1,,resulted
+P11,1,2025-12-25,Platelets,214.0,K/uL,150.0,450.0,,resulted
+P11,1,2025-12-25,WBC,5.7,K/uL,3.4,9.6,,resulted
+P11,1,2025-12-25,Hemoglobin,13.2,g/dL,11.6,15.0,,resulted
+P11,1,2025-12-25,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P11,1,2025-12-25,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P11,1,2025-12-25,BUN,15.0,mg/dL,6.0,21.0,,resulted
+P11,1,2025-12-25,Creatinine,0.8,mg/dL,0.59,1.04,,resulted
+P11,1,2025-12-25,Glucose,134.0,mg/dL,70.0,99.0,H,resulted
+P11,1,2025-12-25,A1c,7.1,%,4.0,5.6,H,resulted
+P11,1,2025-12-25,Cholesterol Total,239.0,mg/dL,0.0,199.0,H,resulted
+P11,1,2025-12-25,LDL,148.0,mg/dL,0.0,99.0,H,resulted
+P11,1,2025-12-25,HDL,52.0,mg/dL,50.0,,,resulted
+P11,1,2025-12-25,Triglycerides,242.0,mg/dL,0.0,149.0,H,resulted
+P11,2,2026-05-15,ALT,64.0,U/L,7.0,55.0,H,resulted
+P11,2,2026-05-15,AST,48.0,U/L,8.0,48.0,,resulted
+P11,2,2026-05-15,ALP,98.0,U/L,40.0,129.0,,resulted
+P11,2,2026-05-15,GGT,43.0,U/L,8.0,61.0,,resulted
+P11,2,2026-05-15,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P11,2,2026-05-15,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P11,2,2026-05-15,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P11,2,2026-05-15,INR,1.02,ratio,0.8,1.1,,resulted
+P11,2,2026-05-15,Platelets,207.0,K/uL,150.0,450.0,,resulted
+P11,2,2026-05-15,WBC,6.1,K/uL,3.4,9.6,,resulted
+P11,2,2026-05-15,Hemoglobin,13.2,g/dL,11.6,15.0,,resulted
+P11,2,2026-05-15,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P11,2,2026-05-15,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P11,2,2026-05-15,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P11,2,2026-05-15,Creatinine,0.73,mg/dL,0.59,1.04,,resulted
+P11,2,2026-05-15,Glucose,116.0,mg/dL,70.0,99.0,H,resulted
+P11,2,2026-05-15,A1c,6.9,%,4.0,5.6,H,resulted
+P11,3,2026-10-17,ALT,76.0,U/L,7.0,55.0,H,held_back_pending_release
+P11,3,2026-10-17,AST,42.0,U/L,8.0,48.0,,held_back_pending_release
+P11,3,2026-10-17,ALP,97.0,U/L,40.0,129.0,,held_back_pending_release
+P11,3,2026-10-17,GGT,38.0,U/L,8.0,61.0,,held_back_pending_release
+P11,3,2026-10-17,Bilirubin Total,0.8,mg/dL,0.1,1.2,,held_back_pending_release
+P11,3,2026-10-17,Albumin,4.6,g/dL,3.5,5.0,,held_back_pending_release
+P11,3,2026-10-17,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P11,3,2026-10-17,INR,0.93,ratio,0.8,1.1,,held_back_pending_release
+P11,3,2026-10-17,Platelets,206.0,K/uL,150.0,450.0,,held_back_pending_release
+P11,3,2026-10-17,WBC,5.3,K/uL,3.4,9.6,,held_back_pending_release
+P11,3,2026-10-17,Hemoglobin,13.1,g/dL,11.6,15.0,,held_back_pending_release
+P11,3,2026-10-17,Sodium,142.0,mmol/L,135.0,145.0,,held_back_pending_release
+P11,3,2026-10-17,Potassium,4.0,mmol/L,3.6,5.2,,held_back_pending_release
+P11,3,2026-10-17,BUN,15.0,mg/dL,6.0,21.0,,held_back_pending_release
+P11,3,2026-10-17,Creatinine,0.86,mg/dL,0.59,1.04,,held_back_pending_release
+P11,3,2026-10-17,Glucose,127.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P11,3,2026-10-17,A1c,6.5,%,4.0,5.6,H,held_back_pending_release
+P11,3,2026-10-17,Cholesterol Total,237.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P11,3,2026-10-17,LDL,136.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P11,3,2026-10-17,HDL,52.0,mg/dL,50.0,,,held_back_pending_release
+P11,3,2026-10-17,Triglycerides,225.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P12,1,2025-12-26,ALT,92.0,U/L,7.0,55.0,H,resulted
+P12,1,2025-12-26,AST,47.0,U/L,8.0,48.0,,resulted
+P12,1,2025-12-26,ALP,83.0,U/L,40.0,129.0,,resulted
+P12,1,2025-12-26,GGT,65.0,U/L,8.0,61.0,H,resulted
+P12,1,2025-12-26,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P12,1,2025-12-26,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P12,1,2025-12-26,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P12,1,2025-12-26,INR,1.06,ratio,0.8,1.1,,resulted
+P12,1,2025-12-26,Platelets,180.0,K/uL,150.0,450.0,,resulted
+P12,1,2025-12-26,WBC,7.0,K/uL,3.4,9.6,,resulted
+P12,1,2025-12-26,Hemoglobin,16.0,g/dL,13.2,16.6,,resulted
+P12,1,2025-12-26,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P12,1,2025-12-26,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P12,1,2025-12-26,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P12,1,2025-12-26,Creatinine,0.77,mg/dL,0.74,1.35,,resulted
+P12,1,2025-12-26,Glucose,153.0,mg/dL,70.0,99.0,H,resulted
+P12,1,2025-12-26,A1c,7.5,%,4.0,5.6,H,resulted
+P12,1,2025-12-26,Cholesterol Total,217.0,mg/dL,0.0,199.0,H,resulted
+P12,1,2025-12-26,LDL,103.0,mg/dL,0.0,99.0,H,resulted
+P12,1,2025-12-26,HDL,43.0,mg/dL,40.0,,,resulted
+P12,1,2025-12-26,Triglycerides,198.0,mg/dL,0.0,149.0,H,resulted
+P12,2,2026-05-26,ALT,94.0,U/L,7.0,55.0,H,resulted
+P12,2,2026-05-26,AST,49.0,U/L,8.0,48.0,H,resulted
+P12,2,2026-05-26,ALP,87.0,U/L,40.0,129.0,,resulted
+P12,2,2026-05-26,GGT,67.0,U/L,8.0,61.0,H,resulted
+P12,2,2026-05-26,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P12,2,2026-05-26,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P12,2,2026-05-26,Total Protein,7.5,g/dL,6.3,7.9,,resulted
+P12,2,2026-05-26,INR,1.0,ratio,0.8,1.1,,resulted
+P12,2,2026-05-26,Platelets,176.0,K/uL,150.0,450.0,,resulted
+P12,2,2026-05-26,WBC,7.2,K/uL,3.4,9.6,,resulted
+P12,2,2026-05-26,Hemoglobin,14.9,g/dL,13.2,16.6,,resulted
+P12,2,2026-05-26,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P12,2,2026-05-26,Potassium,3.7,mmol/L,3.6,5.2,,resulted
+P12,2,2026-05-26,BUN,15.0,mg/dL,6.0,21.0,,resulted
+P12,2,2026-05-26,Creatinine,0.79,mg/dL,0.74,1.35,,resulted
+P12,2,2026-05-26,Glucose,162.0,mg/dL,70.0,99.0,H,resulted
+P12,2,2026-05-26,A1c,7.4,%,4.0,5.6,H,resulted
+P12,3,2026-10-21,ALT,91.0,U/L,7.0,55.0,H,held_back_pending_release
+P12,3,2026-10-21,AST,45.0,U/L,8.0,48.0,,held_back_pending_release
+P12,3,2026-10-21,ALP,89.0,U/L,40.0,129.0,,held_back_pending_release
+P12,3,2026-10-21,GGT,73.0,U/L,8.0,61.0,H,held_back_pending_release
+P12,3,2026-10-21,Bilirubin Total,0.8,mg/dL,0.1,1.2,,held_back_pending_release
+P12,3,2026-10-21,Albumin,4.1,g/dL,3.5,5.0,,held_back_pending_release
+P12,3,2026-10-21,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P12,3,2026-10-21,INR,1.02,ratio,0.8,1.1,,held_back_pending_release
+P12,3,2026-10-21,Platelets,178.0,K/uL,150.0,450.0,,held_back_pending_release
+P12,3,2026-10-21,WBC,7.8,K/uL,3.4,9.6,,held_back_pending_release
+P12,3,2026-10-21,Hemoglobin,15.6,g/dL,13.2,16.6,,held_back_pending_release
+P12,3,2026-10-21,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P12,3,2026-10-21,Potassium,4.1,mmol/L,3.6,5.2,,held_back_pending_release
+P12,3,2026-10-21,BUN,18.0,mg/dL,6.0,21.0,,held_back_pending_release
+P12,3,2026-10-21,Creatinine,0.81,mg/dL,0.74,1.35,,held_back_pending_release
+P12,3,2026-10-21,Glucose,151.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P12,3,2026-10-21,A1c,9.4,%,4.0,5.6,H,held_back_pending_release
+P12,3,2026-10-21,Cholesterol Total,228.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P12,3,2026-10-21,LDL,109.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P12,3,2026-10-21,HDL,42.0,mg/dL,40.0,,,held_back_pending_release
+P12,3,2026-10-21,Triglycerides,251.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P13,1,2025-12-28,ALT,72.0,U/L,7.0,55.0,H,resulted
+P13,1,2025-12-28,AST,82.0,U/L,8.0,48.0,H,resulted
+P13,1,2025-12-28,ALP,102.0,U/L,40.0,129.0,,resulted
+P13,1,2025-12-28,GGT,71.0,U/L,8.0,61.0,H,resulted
+P13,1,2025-12-28,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P13,1,2025-12-28,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P13,1,2025-12-28,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P13,1,2025-12-28,INR,0.91,ratio,0.8,1.1,,resulted
+P13,1,2025-12-28,Platelets,168.0,K/uL,150.0,450.0,,resulted
+P13,1,2025-12-28,WBC,6.1,K/uL,3.4,9.6,,resulted
+P13,1,2025-12-28,Hemoglobin,12.9,g/dL,11.6,15.0,,resulted
+P13,1,2025-12-28,Sodium,137.0,mmol/L,135.0,145.0,,resulted
+P13,1,2025-12-28,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P13,1,2025-12-28,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P13,1,2025-12-28,Creatinine,0.79,mg/dL,0.59,1.04,,resulted
+P13,1,2025-12-28,Glucose,132.0,mg/dL,70.0,99.0,H,resulted
+P13,1,2025-12-28,A1c,6.6,%,4.0,5.6,H,resulted
+P13,1,2025-12-28,Cholesterol Total,217.0,mg/dL,0.0,199.0,H,resulted
+P13,1,2025-12-28,LDL,140.0,mg/dL,0.0,99.0,H,resulted
+P13,1,2025-12-28,HDL,54.0,mg/dL,50.0,,,resulted
+P13,1,2025-12-28,Triglycerides,162.0,mg/dL,0.0,149.0,H,resulted
+P13,2,2026-05-26,ALT,65.0,U/L,7.0,55.0,H,resulted
+P13,2,2026-05-26,AST,81.0,U/L,8.0,48.0,H,resulted
+P13,2,2026-05-26,ALP,115.0,U/L,40.0,129.0,,resulted
+P13,2,2026-05-26,GGT,72.0,U/L,8.0,61.0,H,resulted
+P13,2,2026-05-26,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P13,2,2026-05-26,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P13,2,2026-05-26,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P13,2,2026-05-26,INR,0.95,ratio,0.8,1.1,,resulted
+P13,2,2026-05-26,Platelets,156.0,K/uL,150.0,450.0,,resulted
+P13,2,2026-05-26,WBC,5.7,K/uL,3.4,9.6,,resulted
+P13,2,2026-05-26,Hemoglobin,13.1,g/dL,11.6,15.0,,resulted
+P13,2,2026-05-26,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P13,2,2026-05-26,Potassium,3.8,mmol/L,3.6,5.2,,resulted
+P13,2,2026-05-26,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P13,2,2026-05-26,Creatinine,0.78,mg/dL,0.59,1.04,,resulted
+P13,2,2026-05-26,Glucose,135.0,mg/dL,70.0,99.0,H,resulted
+P13,2,2026-05-26,A1c,6.7,%,4.0,5.6,H,resulted
+P13,3,2026-10-22,ALT,67.0,U/L,7.0,55.0,H,held_back_pending_release
+P13,3,2026-10-22,AST,75.0,U/L,8.0,48.0,H,held_back_pending_release
+P13,3,2026-10-22,ALP,103.0,U/L,40.0,129.0,,held_back_pending_release
+P13,3,2026-10-22,GGT,82.0,U/L,8.0,61.0,H,held_back_pending_release
+P13,3,2026-10-22,Bilirubin Total,1.1,mg/dL,0.1,1.2,,held_back_pending_release
+P13,3,2026-10-22,Albumin,4.1,g/dL,3.5,5.0,,held_back_pending_release
+P13,3,2026-10-22,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P13,3,2026-10-22,INR,0.96,ratio,0.8,1.1,,held_back_pending_release
+P13,3,2026-10-22,Platelets,160.0,K/uL,150.0,450.0,,held_back_pending_release
+P13,3,2026-10-22,WBC,6.0,K/uL,3.4,9.6,,held_back_pending_release
+P13,3,2026-10-22,Hemoglobin,13.4,g/dL,11.6,15.0,,held_back_pending_release
+P13,3,2026-10-22,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P13,3,2026-10-22,Potassium,4.1,mmol/L,3.6,5.2,,held_back_pending_release
+P13,3,2026-10-22,BUN,17.0,mg/dL,6.0,21.0,,held_back_pending_release
+P13,3,2026-10-22,Creatinine,0.76,mg/dL,0.59,1.04,,held_back_pending_release
+P13,3,2026-10-22,Glucose,153.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P13,3,2026-10-22,A1c,6.7,%,4.0,5.6,H,held_back_pending_release
+P13,3,2026-10-22,Cholesterol Total,210.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P13,3,2026-10-22,LDL,130.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P13,3,2026-10-22,HDL,50.0,mg/dL,50.0,,,held_back_pending_release
+P13,3,2026-10-22,Triglycerides,133.0,mg/dL,0.0,149.0,,held_back_pending_release
+P14,1,2025-12-24,ALT,100.0,U/L,7.0,55.0,H,resulted
+P14,1,2025-12-24,AST,63.0,U/L,8.0,48.0,H,resulted
+P14,1,2025-12-24,ALP,77.0,U/L,40.0,129.0,,resulted
+P14,1,2025-12-24,GGT,64.0,U/L,8.0,61.0,H,resulted
+P14,1,2025-12-24,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P14,1,2025-12-24,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P14,1,2025-12-24,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P14,1,2025-12-24,INR,0.91,ratio,0.8,1.1,,resulted
+P14,1,2025-12-24,Platelets,200.0,K/uL,150.0,450.0,,resulted
+P14,1,2025-12-24,WBC,6.0,K/uL,3.4,9.6,,resulted
+P14,1,2025-12-24,Hemoglobin,14.7,g/dL,13.2,16.6,,resulted
+P14,1,2025-12-24,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P14,1,2025-12-24,Potassium,4.6,mmol/L,3.6,5.2,,resulted
+P14,1,2025-12-24,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P14,1,2025-12-24,Creatinine,1.0,mg/dL,0.74,1.35,,resulted
+P14,1,2025-12-24,Glucose,165.0,mg/dL,70.0,99.0,H,resulted
+P14,1,2025-12-24,A1c,6.8,%,4.0,5.6,H,resulted
+P14,1,2025-12-24,Cholesterol Total,210.0,mg/dL,0.0,199.0,H,resulted
+P14,1,2025-12-24,LDL,115.0,mg/dL,0.0,99.0,H,resulted
+P14,1,2025-12-24,HDL,44.0,mg/dL,40.0,,,resulted
+P14,1,2025-12-24,Triglycerides,218.0,mg/dL,0.0,149.0,H,resulted
+P14,2,2026-05-20,ALT,116.0,U/L,7.0,55.0,H,resulted
+P14,2,2026-05-20,AST,87.0,U/L,8.0,48.0,H,resulted
+P14,2,2026-05-20,ALP,75.0,U/L,40.0,129.0,,resulted
+P14,2,2026-05-20,GGT,69.0,U/L,8.0,61.0,H,resulted
+P14,2,2026-05-20,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P14,2,2026-05-20,Albumin,3.9,g/dL,3.5,5.0,,resulted
+P14,2,2026-05-20,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P14,2,2026-05-20,INR,0.98,ratio,0.8,1.1,,resulted
+P14,2,2026-05-20,Platelets,209.0,K/uL,150.0,450.0,,resulted
+P14,2,2026-05-20,WBC,5.9,K/uL,3.4,9.6,,resulted
+P14,2,2026-05-20,Hemoglobin,14.5,g/dL,13.2,16.6,,resulted
+P14,2,2026-05-20,Sodium,143.0,mmol/L,135.0,145.0,,resulted
+P14,2,2026-05-20,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P14,2,2026-05-20,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P14,2,2026-05-20,Creatinine,1.1,mg/dL,0.74,1.35,,resulted
+P14,2,2026-05-20,Glucose,153.0,mg/dL,70.0,99.0,H,resulted
+P14,2,2026-05-20,A1c,7.1,%,4.0,5.6,H,resulted
+P14,3,2026-10-20,ALT,138.0,U/L,7.0,55.0,H,held_back_pending_release
+P14,3,2026-10-20,AST,87.0,U/L,8.0,48.0,H,held_back_pending_release
+P14,3,2026-10-20,ALP,79.0,U/L,40.0,129.0,,held_back_pending_release
+P14,3,2026-10-20,GGT,69.0,U/L,8.0,61.0,H,held_back_pending_release
+P14,3,2026-10-20,Bilirubin Total,0.7,mg/dL,0.1,1.2,,held_back_pending_release
+P14,3,2026-10-20,Albumin,3.9,g/dL,3.5,5.0,,held_back_pending_release
+P14,3,2026-10-20,Total Protein,7.2,g/dL,6.3,7.9,,held_back_pending_release
+P14,3,2026-10-20,INR,1.01,ratio,0.8,1.1,,held_back_pending_release
+P14,3,2026-10-20,Platelets,187.0,K/uL,150.0,450.0,,held_back_pending_release
+P14,3,2026-10-20,WBC,5.7,K/uL,3.4,9.6,,held_back_pending_release
+P14,3,2026-10-20,Hemoglobin,15.3,g/dL,13.2,16.6,,held_back_pending_release
+P14,3,2026-10-20,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P14,3,2026-10-20,Potassium,4.5,mmol/L,3.6,5.2,,held_back_pending_release
+P14,3,2026-10-20,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P14,3,2026-10-20,Creatinine,1.04,mg/dL,0.74,1.35,,held_back_pending_release
+P14,3,2026-10-20,Glucose,162.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P14,3,2026-10-20,A1c,7.1,%,4.0,5.6,H,held_back_pending_release
+P14,3,2026-10-20,Cholesterol Total,202.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P14,3,2026-10-20,LDL,116.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P14,3,2026-10-20,HDL,43.0,mg/dL,40.0,,,held_back_pending_release
+P14,3,2026-10-20,Triglycerides,224.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P15,1,2025-12-15,ALT,55.0,U/L,7.0,55.0,,resulted
+P15,1,2025-12-15,AST,63.0,U/L,8.0,48.0,H,resulted
+P15,1,2025-12-15,ALP,75.0,U/L,40.0,129.0,,resulted
+P15,1,2025-12-15,GGT,57.0,U/L,8.0,61.0,,resulted
+P15,1,2025-12-15,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P15,1,2025-12-15,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P15,1,2025-12-15,Total Protein,7.2,g/dL,6.3,7.9,,resulted
+P15,1,2025-12-15,INR,1.05,ratio,0.8,1.1,,resulted
+P15,1,2025-12-15,Platelets,171.0,K/uL,150.0,450.0,,resulted
+P15,1,2025-12-15,WBC,7.6,K/uL,3.4,9.6,,resulted
+P15,1,2025-12-15,Hemoglobin,13.0,g/dL,11.6,15.0,,resulted
+P15,1,2025-12-15,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P15,1,2025-12-15,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P15,1,2025-12-15,BUN,10.0,mg/dL,6.0,21.0,,resulted
+P15,1,2025-12-15,Creatinine,0.7,mg/dL,0.59,1.04,,resulted
+P15,1,2025-12-15,Glucose,144.0,mg/dL,70.0,99.0,H,resulted
+P15,1,2025-12-15,A1c,8.0,%,4.0,5.6,H,resulted
+P15,1,2025-12-15,Cholesterol Total,230.0,mg/dL,0.0,199.0,H,resulted
+P15,1,2025-12-15,LDL,109.0,mg/dL,0.0,99.0,H,resulted
+P15,1,2025-12-15,HDL,46.0,mg/dL,50.0,,L,resulted
+P15,1,2025-12-15,Triglycerides,217.0,mg/dL,0.0,149.0,H,resulted
+P15,2,2026-05-15,ALT,41.0,U/L,7.0,55.0,,resulted
+P15,2,2026-05-15,AST,52.0,U/L,8.0,48.0,H,resulted
+P15,2,2026-05-15,ALP,84.0,U/L,40.0,129.0,,resulted
+P15,2,2026-05-15,GGT,52.0,U/L,8.0,61.0,,resulted
+P15,2,2026-05-15,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P15,2,2026-05-15,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P15,2,2026-05-15,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P15,2,2026-05-15,INR,0.99,ratio,0.8,1.1,,resulted
+P15,2,2026-05-15,Platelets,175.0,K/uL,150.0,450.0,,resulted
+P15,2,2026-05-15,WBC,8.2,K/uL,3.4,9.6,,resulted
+P15,2,2026-05-15,Hemoglobin,13.1,g/dL,11.6,15.0,,resulted
+P15,2,2026-05-15,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P15,2,2026-05-15,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P15,2,2026-05-15,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P15,2,2026-05-15,Creatinine,0.71,mg/dL,0.59,1.04,,resulted
+P15,2,2026-05-15,Glucose,134.0,mg/dL,70.0,99.0,H,resulted
+P15,2,2026-05-15,A1c,7.5,%,4.0,5.6,H,resulted
+P15,3,2026-10-16,ALT,37.0,U/L,7.0,55.0,,held_back_pending_release
+P15,3,2026-10-16,AST,47.0,U/L,8.0,48.0,,held_back_pending_release
+P15,3,2026-10-16,ALP,85.0,U/L,40.0,129.0,,held_back_pending_release
+P15,3,2026-10-16,GGT,40.0,U/L,8.0,61.0,,held_back_pending_release
+P15,3,2026-10-16,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P15,3,2026-10-16,Albumin,4.0,g/dL,3.5,5.0,,held_back_pending_release
+P15,3,2026-10-16,Total Protein,7.4,g/dL,6.3,7.9,,held_back_pending_release
+P15,3,2026-10-16,INR,1.01,ratio,0.8,1.1,,held_back_pending_release
+P15,3,2026-10-16,Platelets,177.0,K/uL,150.0,450.0,,held_back_pending_release
+P15,3,2026-10-16,WBC,8.0,K/uL,3.4,9.6,,held_back_pending_release
+P15,3,2026-10-16,Hemoglobin,12.8,g/dL,11.6,15.0,,held_back_pending_release
+P15,3,2026-10-16,Sodium,138.0,mmol/L,135.0,145.0,,held_back_pending_release
+P15,3,2026-10-16,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P15,3,2026-10-16,BUN,11.0,mg/dL,6.0,21.0,,held_back_pending_release
+P15,3,2026-10-16,Creatinine,0.69,mg/dL,0.59,1.04,,held_back_pending_release
+P15,3,2026-10-16,Glucose,123.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P15,3,2026-10-16,A1c,7.3,%,4.0,5.6,H,held_back_pending_release
+P15,3,2026-10-16,Cholesterol Total,235.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P15,3,2026-10-16,LDL,116.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P15,3,2026-10-16,HDL,43.0,mg/dL,50.0,,L,held_back_pending_release
+P15,3,2026-10-16,Triglycerides,171.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P16,1,2025-12-17,ALT,57.0,U/L,7.0,55.0,H,resulted
+P16,1,2025-12-17,AST,87.0,U/L,8.0,48.0,H,resulted
+P16,1,2025-12-17,ALP,95.0,U/L,40.0,129.0,,resulted
+P16,1,2025-12-17,GGT,47.0,U/L,8.0,61.0,,resulted
+P16,1,2025-12-17,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P16,1,2025-12-17,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P16,1,2025-12-17,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P16,1,2025-12-17,INR,0.96,ratio,0.8,1.1,,resulted
+P16,1,2025-12-17,Platelets,185.0,K/uL,150.0,450.0,,resulted
+P16,1,2025-12-17,WBC,8.8,K/uL,3.4,9.6,,resulted
+P16,1,2025-12-17,Hemoglobin,14.5,g/dL,13.2,16.6,,resulted
+P16,1,2025-12-17,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P16,1,2025-12-17,Potassium,4.4,mmol/L,3.6,5.2,,resulted
+P16,1,2025-12-17,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P16,1,2025-12-17,Creatinine,0.99,mg/dL,0.74,1.35,,resulted
+P16,1,2025-12-17,Glucose,126.0,mg/dL,70.0,99.0,H,resulted
+P16,1,2025-12-17,A1c,7.4,%,4.0,5.6,H,resulted
+P16,1,2025-12-17,Cholesterol Total,227.0,mg/dL,0.0,199.0,H,resulted
+P16,1,2025-12-17,LDL,128.0,mg/dL,0.0,99.0,H,resulted
+P16,1,2025-12-17,HDL,37.0,mg/dL,40.0,,L,resulted
+P16,1,2025-12-17,Triglycerides,166.0,mg/dL,0.0,149.0,H,resulted
+P16,2,2026-05-14,ALT,59.0,U/L,7.0,55.0,H,resulted
+P16,2,2026-05-14,AST,75.0,U/L,8.0,48.0,H,resulted
+P16,2,2026-05-14,ALP,93.0,U/L,40.0,129.0,,resulted
+P16,2,2026-05-14,GGT,49.0,U/L,8.0,61.0,,resulted
+P16,2,2026-05-14,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P16,2,2026-05-14,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P16,2,2026-05-14,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P16,2,2026-05-14,INR,0.93,ratio,0.8,1.1,,resulted
+P16,2,2026-05-14,Platelets,179.0,K/uL,150.0,450.0,,resulted
+P16,2,2026-05-14,WBC,7.9,K/uL,3.4,9.6,,resulted
+P16,2,2026-05-14,Hemoglobin,15.0,g/dL,13.2,16.6,,resulted
+P16,2,2026-05-14,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P16,2,2026-05-14,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P16,2,2026-05-14,BUN,10.0,mg/dL,6.0,21.0,,resulted
+P16,2,2026-05-14,Creatinine,1.0,mg/dL,0.74,1.35,,resulted
+P16,2,2026-05-14,Glucose,122.0,mg/dL,70.0,99.0,H,resulted
+P16,2,2026-05-14,A1c,7.3,%,4.0,5.6,H,resulted
+P16,3,2026-10-17,ALT,55.0,U/L,7.0,55.0,,held_back_pending_release
+P16,3,2026-10-17,AST,71.0,U/L,8.0,48.0,H,held_back_pending_release
+P16,3,2026-10-17,ALP,108.0,U/L,40.0,129.0,,held_back_pending_release
+P16,3,2026-10-17,GGT,49.0,U/L,8.0,61.0,,held_back_pending_release
+P16,3,2026-10-17,Bilirubin Total,0.5,mg/dL,0.1,1.2,,held_back_pending_release
+P16,3,2026-10-17,Albumin,4.2,g/dL,3.5,5.0,,held_back_pending_release
+P16,3,2026-10-17,Total Protein,6.8,g/dL,6.3,7.9,,held_back_pending_release
+P16,3,2026-10-17,INR,1.01,ratio,0.8,1.1,,held_back_pending_release
+P16,3,2026-10-17,Platelets,181.0,K/uL,150.0,450.0,,held_back_pending_release
+P16,3,2026-10-17,WBC,8.5,K/uL,3.4,9.6,,held_back_pending_release
+P16,3,2026-10-17,Hemoglobin,14.0,g/dL,13.2,16.6,,held_back_pending_release
+P16,3,2026-10-17,Sodium,138.0,mmol/L,135.0,145.0,,held_back_pending_release
+P16,3,2026-10-17,Potassium,4.1,mmol/L,3.6,5.2,,held_back_pending_release
+P16,3,2026-10-17,BUN,11.0,mg/dL,6.0,21.0,,held_back_pending_release
+P16,3,2026-10-17,Creatinine,0.99,mg/dL,0.74,1.35,,held_back_pending_release
+P16,3,2026-10-17,Glucose,131.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P16,3,2026-10-17,A1c,7.3,%,4.0,5.6,H,held_back_pending_release
+P16,3,2026-10-17,Cholesterol Total,238.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P16,3,2026-10-17,LDL,140.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P16,3,2026-10-17,HDL,37.0,mg/dL,40.0,,L,held_back_pending_release
+P16,3,2026-10-17,Triglycerides,180.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P17,1,2026-01-24,ALT,44.0,U/L,7.0,55.0,,resulted
+P17,1,2026-01-24,AST,39.0,U/L,8.0,48.0,,resulted
+P17,1,2026-01-24,ALP,116.0,U/L,40.0,129.0,,resulted
+P17,1,2026-01-24,GGT,57.0,U/L,8.0,61.0,,resulted
+P17,1,2026-01-24,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P17,1,2026-01-24,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P17,1,2026-01-24,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P17,1,2026-01-24,INR,1.17,ratio,0.8,1.1,H,resulted
+P17,1,2026-01-24,Platelets,130.0,K/uL,150.0,450.0,L,resulted
+P17,1,2026-01-24,WBC,8.6,K/uL,3.4,9.6,,resulted
+P17,1,2026-01-24,Hemoglobin,14.0,g/dL,11.6,15.0,,resulted
+P17,1,2026-01-24,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P17,1,2026-01-24,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P17,1,2026-01-24,BUN,15.0,mg/dL,6.0,21.0,,resulted
+P17,1,2026-01-24,Creatinine,0.94,mg/dL,0.59,1.04,,resulted
+P17,1,2026-01-24,Glucose,157.0,mg/dL,70.0,99.0,H,resulted
+P17,1,2026-01-24,A1c,7.2,%,4.0,5.6,H,resulted
+P17,1,2026-01-24,Cholesterol Total,219.0,mg/dL,0.0,199.0,H,resulted
+P17,1,2026-01-24,LDL,122.0,mg/dL,0.0,99.0,H,resulted
+P17,1,2026-01-24,HDL,44.0,mg/dL,50.0,,L,resulted
+P17,1,2026-01-24,Triglycerides,185.0,mg/dL,0.0,149.0,H,resulted
+P17,1,2026-01-24,AFP,3.9,ng/mL,0.0,8.3,,resulted
+P17,2,2026-04-19,ALT,45.0,U/L,7.0,55.0,,resulted
+P17,2,2026-04-19,AST,38.0,U/L,8.0,48.0,,resulted
+P17,2,2026-04-19,ALP,111.0,U/L,40.0,129.0,,resulted
+P17,2,2026-04-19,GGT,56.0,U/L,8.0,61.0,,resulted
+P17,2,2026-04-19,Bilirubin Total,1.1,mg/dL,0.1,1.2,,resulted
+P17,2,2026-04-19,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P17,2,2026-04-19,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P17,2,2026-04-19,INR,1.28,ratio,0.8,1.1,H,resulted
+P17,2,2026-04-19,Platelets,113.0,K/uL,150.0,450.0,L,resulted
+P17,2,2026-04-19,WBC,7.5,K/uL,3.4,9.6,,resulted
+P17,2,2026-04-19,Hemoglobin,14.4,g/dL,11.6,15.0,,resulted
+P17,2,2026-04-19,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P17,2,2026-04-19,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P17,2,2026-04-19,BUN,17.0,mg/dL,6.0,21.0,,resulted
+P17,2,2026-04-19,Creatinine,0.95,mg/dL,0.59,1.04,,resulted
+P17,2,2026-04-19,Glucose,148.0,mg/dL,70.0,99.0,H,resulted
+P17,2,2026-04-19,A1c,7.2,%,4.0,5.6,H,resulted
+P17,2,2026-04-19,AFP,5.2,ng/mL,0.0,8.3,,resulted
+P17,3,2026-07-25,ALT,43.0,U/L,7.0,55.0,,resulted
+P17,3,2026-07-25,AST,37.0,U/L,8.0,48.0,,resulted
+P17,3,2026-07-25,ALP,125.0,U/L,40.0,129.0,,resulted
+P17,3,2026-07-25,GGT,54.0,U/L,8.0,61.0,,resulted
+P17,3,2026-07-25,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P17,3,2026-07-25,Albumin,3.2,g/dL,3.5,5.0,L,resulted
+P17,3,2026-07-25,Total Protein,7.2,g/dL,6.3,7.9,,resulted
+P17,3,2026-07-25,INR,1.19,ratio,0.8,1.1,H,resulted
+P17,3,2026-07-25,Platelets,149.0,K/uL,150.0,450.0,L,resulted
+P17,3,2026-07-25,WBC,7.7,K/uL,3.4,9.6,,resulted
+P17,3,2026-07-25,Hemoglobin,14.3,g/dL,11.6,15.0,,resulted
+P17,3,2026-07-25,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P17,3,2026-07-25,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P17,3,2026-07-25,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P17,3,2026-07-25,Creatinine,0.91,mg/dL,0.59,1.04,,resulted
+P17,3,2026-07-25,Glucose,159.0,mg/dL,70.0,99.0,H,resulted
+P17,3,2026-07-25,A1c,7.2,%,4.0,5.6,H,resulted
+P17,3,2026-07-25,AFP,4.5,ng/mL,0.0,8.3,,resulted
+P17,4,2026-10-23,ALT,48.0,U/L,7.0,55.0,,held_back_pending_release
+P17,4,2026-10-23,AST,41.0,U/L,8.0,48.0,,held_back_pending_release
+P17,4,2026-10-23,ALP,128.0,U/L,40.0,129.0,,held_back_pending_release
+P17,4,2026-10-23,GGT,55.0,U/L,8.0,61.0,,held_back_pending_release
+P17,4,2026-10-23,Bilirubin Total,1.0,mg/dL,0.1,1.2,,held_back_pending_release
+P17,4,2026-10-23,Albumin,3.9,g/dL,3.5,5.0,,held_back_pending_release
+P17,4,2026-10-23,Total Protein,7.4,g/dL,6.3,7.9,,held_back_pending_release
+P17,4,2026-10-23,INR,1.2,ratio,0.8,1.1,H,held_back_pending_release
+P17,4,2026-10-23,Platelets,127.0,K/uL,150.0,450.0,L,held_back_pending_release
+P17,4,2026-10-23,WBC,7.9,K/uL,3.4,9.6,,held_back_pending_release
+P17,4,2026-10-23,Hemoglobin,13.7,g/dL,11.6,15.0,,held_back_pending_release
+P17,4,2026-10-23,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P17,4,2026-10-23,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P17,4,2026-10-23,BUN,17.0,mg/dL,6.0,21.0,,held_back_pending_release
+P17,4,2026-10-23,Creatinine,0.91,mg/dL,0.59,1.04,,held_back_pending_release
+P17,4,2026-10-23,Glucose,161.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P17,4,2026-10-23,A1c,7.2,%,4.0,5.6,H,held_back_pending_release
+P17,4,2026-10-23,Cholesterol Total,222.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P17,4,2026-10-23,LDL,111.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P17,4,2026-10-23,HDL,41.0,mg/dL,50.0,,L,held_back_pending_release
+P17,4,2026-10-23,Triglycerides,169.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P17,4,2026-10-23,AFP,4.3,ng/mL,0.0,8.3,,held_back_pending_release
+P18,1,2026-01-26,ALT,55.0,U/L,7.0,55.0,,resulted
+P18,1,2026-01-26,AST,65.0,U/L,8.0,48.0,H,resulted
+P18,1,2026-01-26,ALP,106.0,U/L,40.0,129.0,,resulted
+P18,1,2026-01-26,GGT,48.0,U/L,8.0,61.0,,resulted
+P18,1,2026-01-26,Bilirubin Total,1.4,mg/dL,0.1,1.2,H,resulted
+P18,1,2026-01-26,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P18,1,2026-01-26,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P18,1,2026-01-26,INR,1.25,ratio,0.8,1.1,H,resulted
+P18,1,2026-01-26,Platelets,112.0,K/uL,150.0,450.0,L,resulted
+P18,1,2026-01-26,WBC,6.0,K/uL,3.4,9.6,,resulted
+P18,1,2026-01-26,Hemoglobin,15.1,g/dL,13.2,16.6,,resulted
+P18,1,2026-01-26,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P18,1,2026-01-26,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P18,1,2026-01-26,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P18,1,2026-01-26,Creatinine,1.01,mg/dL,0.74,1.35,,resulted
+P18,1,2026-01-26,Glucose,157.0,mg/dL,70.0,99.0,H,resulted
+P18,1,2026-01-26,A1c,6.8,%,4.0,5.6,H,resulted
+P18,1,2026-01-26,Cholesterol Total,205.0,mg/dL,0.0,199.0,H,resulted
+P18,1,2026-01-26,LDL,113.0,mg/dL,0.0,99.0,H,resulted
+P18,1,2026-01-26,HDL,44.0,mg/dL,40.0,,,resulted
+P18,1,2026-01-26,Triglycerides,205.0,mg/dL,0.0,149.0,H,resulted
+P18,1,2026-01-26,AFP,2.8,ng/mL,0.0,8.3,,resulted
+P18,2,2026-04-27,ALT,57.0,U/L,7.0,55.0,H,resulted
+P18,2,2026-04-27,AST,72.0,U/L,8.0,48.0,H,resulted
+P18,2,2026-04-27,ALP,115.0,U/L,40.0,129.0,,resulted
+P18,2,2026-04-27,GGT,46.0,U/L,8.0,61.0,,resulted
+P18,2,2026-04-27,Bilirubin Total,1.0,mg/dL,0.1,1.2,,resulted
+P18,2,2026-04-27,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P18,2,2026-04-27,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P18,2,2026-04-27,INR,1.15,ratio,0.8,1.1,H,resulted
+P18,2,2026-04-27,Platelets,102.0,K/uL,150.0,450.0,L,resulted
+P18,2,2026-04-27,WBC,5.3,K/uL,3.4,9.6,,resulted
+P18,2,2026-04-27,Hemoglobin,15.4,g/dL,13.2,16.6,,resulted
+P18,2,2026-04-27,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P18,2,2026-04-27,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P18,2,2026-04-27,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P18,2,2026-04-27,Creatinine,1.03,mg/dL,0.74,1.35,,resulted
+P18,2,2026-04-27,Glucose,162.0,mg/dL,70.0,99.0,H,resulted
+P18,2,2026-04-27,A1c,6.8,%,4.0,5.6,H,resulted
+P18,2,2026-04-27,AFP,2.3,ng/mL,0.0,8.3,,resulted
+P18,3,2026-07-20,ALT,56.0,U/L,7.0,55.0,H,resulted
+P18,3,2026-07-20,AST,74.0,U/L,8.0,48.0,H,resulted
+P18,3,2026-07-20,ALP,109.0,U/L,40.0,129.0,,resulted
+P18,3,2026-07-20,GGT,46.0,U/L,8.0,61.0,,resulted
+P18,3,2026-07-20,Bilirubin Total,1.0,mg/dL,0.1,1.2,,resulted
+P18,3,2026-07-20,Albumin,4.4,g/dL,3.5,5.0,,resulted
+P18,3,2026-07-20,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P18,3,2026-07-20,INR,1.19,ratio,0.8,1.1,H,resulted
+P18,3,2026-07-20,Platelets,112.0,K/uL,150.0,450.0,L,resulted
+P18,3,2026-07-20,WBC,5.9,K/uL,3.4,9.6,,resulted
+P18,3,2026-07-20,Hemoglobin,15.6,g/dL,13.2,16.6,,resulted
+P18,3,2026-07-20,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P18,3,2026-07-20,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P18,3,2026-07-20,BUN,10.0,mg/dL,6.0,21.0,,resulted
+P18,3,2026-07-20,Creatinine,1.04,mg/dL,0.74,1.35,,resulted
+P18,3,2026-07-20,Glucose,169.0,mg/dL,70.0,99.0,H,resulted
+P18,3,2026-07-20,A1c,6.8,%,4.0,5.6,H,resulted
+P18,3,2026-07-20,AFP,2.5,ng/mL,0.0,8.3,,resulted
+P18,4,2026-10-21,ALT,58.0,U/L,7.0,55.0,H,held_back_pending_release
+P18,4,2026-10-21,AST,79.0,U/L,8.0,48.0,H,held_back_pending_release
+P18,4,2026-10-21,ALP,106.0,U/L,40.0,129.0,,held_back_pending_release
+P18,4,2026-10-21,GGT,48.0,U/L,8.0,61.0,,held_back_pending_release
+P18,4,2026-10-21,Bilirubin Total,1.1,mg/dL,0.1,1.2,,held_back_pending_release
+P18,4,2026-10-21,Albumin,4.4,g/dL,3.5,5.0,,held_back_pending_release
+P18,4,2026-10-21,Total Protein,7.2,g/dL,6.3,7.9,,held_back_pending_release
+P18,4,2026-10-21,INR,1.14,ratio,0.8,1.1,H,held_back_pending_release
+P18,4,2026-10-21,Platelets,87.0,K/uL,150.0,450.0,L,held_back_pending_release
+P18,4,2026-10-21,WBC,6.2,K/uL,3.4,9.6,,held_back_pending_release
+P18,4,2026-10-21,Hemoglobin,15.7,g/dL,13.2,16.6,,held_back_pending_release
+P18,4,2026-10-21,Sodium,137.0,mmol/L,135.0,145.0,,held_back_pending_release
+P18,4,2026-10-21,Potassium,4.0,mmol/L,3.6,5.2,,held_back_pending_release
+P18,4,2026-10-21,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P18,4,2026-10-21,Creatinine,1.0,mg/dL,0.74,1.35,,held_back_pending_release
+P18,4,2026-10-21,Glucose,163.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P18,4,2026-10-21,A1c,7.0,%,4.0,5.6,H,held_back_pending_release
+P18,4,2026-10-21,Cholesterol Total,211.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P18,4,2026-10-21,LDL,115.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P18,4,2026-10-21,HDL,42.0,mg/dL,40.0,,,held_back_pending_release
+P18,4,2026-10-21,Triglycerides,249.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P18,4,2026-10-21,AFP,2.3,ng/mL,0.0,8.3,,held_back_pending_release
+P19,1,2026-01-16,ALT,43.0,U/L,7.0,55.0,,resulted
+P19,1,2026-01-16,AST,76.0,U/L,8.0,48.0,H,resulted
+P19,1,2026-01-16,ALP,121.0,U/L,40.0,129.0,,resulted
+P19,1,2026-01-16,GGT,47.0,U/L,8.0,61.0,,resulted
+P19,1,2026-01-16,Bilirubin Total,1.3,mg/dL,0.1,1.2,H,resulted
+P19,1,2026-01-16,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P19,1,2026-01-16,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P19,1,2026-01-16,INR,1.23,ratio,0.8,1.1,H,resulted
+P19,1,2026-01-16,Platelets,129.0,K/uL,150.0,450.0,L,resulted
+P19,1,2026-01-16,WBC,6.9,K/uL,3.4,9.6,,resulted
+P19,1,2026-01-16,Hemoglobin,14.5,g/dL,13.2,16.6,,resulted
+P19,1,2026-01-16,Sodium,141.0,mmol/L,135.0,145.0,,resulted
+P19,1,2026-01-16,Potassium,4.5,mmol/L,3.6,5.2,,resulted
+P19,1,2026-01-16,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P19,1,2026-01-16,Creatinine,0.94,mg/dL,0.74,1.35,,resulted
+P19,1,2026-01-16,Glucose,118.0,mg/dL,70.0,99.0,H,resulted
+P19,1,2026-01-16,A1c,5.9,%,4.0,5.6,H,resulted
+P19,1,2026-01-16,Cholesterol Total,188.0,mg/dL,0.0,199.0,,resulted
+P19,1,2026-01-16,LDL,153.0,mg/dL,0.0,99.0,H,resulted
+P19,1,2026-01-16,HDL,37.0,mg/dL,40.0,,L,resulted
+P19,1,2026-01-16,Triglycerides,174.0,mg/dL,0.0,149.0,H,resulted
+P19,1,2026-01-16,AFP,2.8,ng/mL,0.0,8.3,,resulted
+P19,2,2026-04-21,ALT,48.0,U/L,7.0,55.0,,resulted
+P19,2,2026-04-21,AST,63.0,U/L,8.0,48.0,H,resulted
+P19,2,2026-04-21,ALP,107.0,U/L,40.0,129.0,,resulted
+P19,2,2026-04-21,GGT,48.0,U/L,8.0,61.0,,resulted
+P19,2,2026-04-21,Bilirubin Total,1.1,mg/dL,0.1,1.2,,resulted
+P19,2,2026-04-21,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P19,2,2026-04-21,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P19,2,2026-04-21,INR,1.2,ratio,0.8,1.1,H,resulted
+P19,2,2026-04-21,Platelets,139.0,K/uL,150.0,450.0,L,resulted
+P19,2,2026-04-21,WBC,7.2,K/uL,3.4,9.6,,resulted
+P19,2,2026-04-21,Hemoglobin,14.9,g/dL,13.2,16.6,,resulted
+P19,2,2026-04-21,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P19,2,2026-04-21,Potassium,4.5,mmol/L,3.6,5.2,,resulted
+P19,2,2026-04-21,BUN,19.0,mg/dL,6.0,21.0,,resulted
+P19,2,2026-04-21,Creatinine,0.99,mg/dL,0.74,1.35,,resulted
+P19,2,2026-04-21,Glucose,113.0,mg/dL,70.0,99.0,H,resulted
+P19,2,2026-04-21,A1c,5.8,%,4.0,5.6,H,resulted
+P19,2,2026-04-21,AFP,2.5,ng/mL,0.0,8.3,,resulted
+P19,3,2026-07-17,ALT,36.0,U/L,7.0,55.0,,resulted
+P19,3,2026-07-17,AST,70.0,U/L,8.0,48.0,H,resulted
+P19,3,2026-07-17,ALP,124.0,U/L,40.0,129.0,,resulted
+P19,3,2026-07-17,GGT,43.0,U/L,8.0,61.0,,resulted
+P19,3,2026-07-17,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P19,3,2026-07-17,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P19,3,2026-07-17,Total Protein,6.6,g/dL,6.3,7.9,,resulted
+P19,3,2026-07-17,INR,1.09,ratio,0.8,1.1,,resulted
+P19,3,2026-07-17,Platelets,119.0,K/uL,150.0,450.0,L,resulted
+P19,3,2026-07-17,WBC,6.5,K/uL,3.4,9.6,,resulted
+P19,3,2026-07-17,Hemoglobin,15.2,g/dL,13.2,16.6,,resulted
+P19,3,2026-07-17,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P19,3,2026-07-17,Potassium,4.6,mmol/L,3.6,5.2,,resulted
+P19,3,2026-07-17,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P19,3,2026-07-17,Creatinine,1.0,mg/dL,0.74,1.35,,resulted
+P19,3,2026-07-17,Glucose,109.0,mg/dL,70.0,99.0,H,resulted
+P19,3,2026-07-17,A1c,5.8,%,4.0,5.6,H,resulted
+P19,3,2026-07-17,AFP,2.8,ng/mL,0.0,8.3,,resulted
+P19,4,2026-10-20,ALT,42.0,U/L,7.0,55.0,,held_back_pending_release
+P19,4,2026-10-20,AST,62.0,U/L,8.0,48.0,H,held_back_pending_release
+P19,4,2026-10-20,ALP,114.0,U/L,40.0,129.0,,held_back_pending_release
+P19,4,2026-10-20,GGT,39.0,U/L,8.0,61.0,,held_back_pending_release
+P19,4,2026-10-20,Bilirubin Total,1.2,mg/dL,0.1,1.2,,held_back_pending_release
+P19,4,2026-10-20,Albumin,3.3,g/dL,3.5,5.0,L,held_back_pending_release
+P19,4,2026-10-20,Total Protein,6.8,g/dL,6.3,7.9,,held_back_pending_release
+P19,4,2026-10-20,INR,1.16,ratio,0.8,1.1,H,held_back_pending_release
+P19,4,2026-10-20,Platelets,128.0,K/uL,150.0,450.0,L,held_back_pending_release
+P19,4,2026-10-20,WBC,6.5,K/uL,3.4,9.6,,held_back_pending_release
+P19,4,2026-10-20,Hemoglobin,14.7,g/dL,13.2,16.6,,held_back_pending_release
+P19,4,2026-10-20,Sodium,138.0,mmol/L,135.0,145.0,,held_back_pending_release
+P19,4,2026-10-20,Potassium,4.7,mmol/L,3.6,5.2,,held_back_pending_release
+P19,4,2026-10-20,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P19,4,2026-10-20,Creatinine,0.98,mg/dL,0.74,1.35,,held_back_pending_release
+P19,4,2026-10-20,Glucose,119.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P19,4,2026-10-20,A1c,5.7,%,4.0,5.6,H,held_back_pending_release
+P19,4,2026-10-20,Cholesterol Total,188.0,mg/dL,0.0,199.0,,held_back_pending_release
+P19,4,2026-10-20,LDL,144.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P19,4,2026-10-20,HDL,37.0,mg/dL,40.0,,L,held_back_pending_release
+P19,4,2026-10-20,Triglycerides,135.0,mg/dL,0.0,149.0,,held_back_pending_release
+P19,4,2026-10-20,AFP,2.6,ng/mL,0.0,8.3,,held_back_pending_release
+P20,1,2026-01-22,ALT,64.0,U/L,7.0,55.0,H,resulted
+P20,1,2026-01-22,AST,71.0,U/L,8.0,48.0,H,resulted
+P20,1,2026-01-22,ALP,120.0,U/L,40.0,129.0,,resulted
+P20,1,2026-01-22,GGT,53.0,U/L,8.0,61.0,,resulted
+P20,1,2026-01-22,Bilirubin Total,1.3,mg/dL,0.1,1.2,H,resulted
+P20,1,2026-01-22,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P20,1,2026-01-22,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P20,1,2026-01-22,INR,1.11,ratio,0.8,1.1,H,resulted
+P20,1,2026-01-22,Platelets,123.0,K/uL,150.0,450.0,L,resulted
+P20,1,2026-01-22,WBC,7.7,K/uL,3.4,9.6,,resulted
+P20,1,2026-01-22,Hemoglobin,13.9,g/dL,11.6,15.0,,resulted
+P20,1,2026-01-22,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P20,1,2026-01-22,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P20,1,2026-01-22,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P20,1,2026-01-22,Creatinine,0.9,mg/dL,0.59,1.04,,resulted
+P20,1,2026-01-22,Glucose,186.0,mg/dL,70.0,99.0,H,resulted
+P20,1,2026-01-22,A1c,6.5,%,4.0,5.6,H,resulted
+P20,1,2026-01-22,Cholesterol Total,237.0,mg/dL,0.0,199.0,H,resulted
+P20,1,2026-01-22,LDL,106.0,mg/dL,0.0,99.0,H,resulted
+P20,1,2026-01-22,HDL,45.0,mg/dL,50.0,,L,resulted
+P20,1,2026-01-22,Triglycerides,177.0,mg/dL,0.0,149.0,H,resulted
+P20,1,2026-01-22,AFP,1.2,ng/mL,0.0,8.3,,resulted
+P20,2,2026-04-18,ALT,59.0,U/L,7.0,55.0,H,resulted
+P20,2,2026-04-18,AST,77.0,U/L,8.0,48.0,H,resulted
+P20,2,2026-04-18,ALP,127.0,U/L,40.0,129.0,,resulted
+P20,2,2026-04-18,GGT,55.0,U/L,8.0,61.0,,resulted
+P20,2,2026-04-18,Bilirubin Total,1.7,mg/dL,0.1,1.2,H,resulted
+P20,2,2026-04-18,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P20,2,2026-04-18,Total Protein,7.7,g/dL,6.3,7.9,,resulted
+P20,2,2026-04-18,INR,1.16,ratio,0.8,1.1,H,resulted
+P20,2,2026-04-18,Platelets,117.0,K/uL,150.0,450.0,L,resulted
+P20,2,2026-04-18,WBC,8.3,K/uL,3.4,9.6,,resulted
+P20,2,2026-04-18,Hemoglobin,13.9,g/dL,11.6,15.0,,resulted
+P20,2,2026-04-18,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P20,2,2026-04-18,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P20,2,2026-04-18,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P20,2,2026-04-18,Creatinine,0.79,mg/dL,0.59,1.04,,resulted
+P20,2,2026-04-18,Glucose,171.0,mg/dL,70.0,99.0,H,resulted
+P20,2,2026-04-18,A1c,6.7,%,4.0,5.6,H,resulted
+P20,2,2026-04-18,AFP,1.4,ng/mL,0.0,8.3,,resulted
+P20,3,2026-07-23,ALT,64.0,U/L,7.0,55.0,H,resulted
+P20,3,2026-07-23,AST,84.0,U/L,8.0,48.0,H,resulted
+P20,3,2026-07-23,ALP,112.0,U/L,40.0,129.0,,resulted
+P20,3,2026-07-23,GGT,51.0,U/L,8.0,61.0,,resulted
+P20,3,2026-07-23,Bilirubin Total,1.5,mg/dL,0.1,1.2,H,resulted
+P20,3,2026-07-23,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P20,3,2026-07-23,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P20,3,2026-07-23,INR,1.13,ratio,0.8,1.1,H,resulted
+P20,3,2026-07-23,Platelets,106.0,K/uL,150.0,450.0,L,resulted
+P20,3,2026-07-23,WBC,8.4,K/uL,3.4,9.6,,resulted
+P20,3,2026-07-23,Hemoglobin,14.5,g/dL,11.6,15.0,,resulted
+P20,3,2026-07-23,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P20,3,2026-07-23,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P20,3,2026-07-23,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P20,3,2026-07-23,Creatinine,0.8,mg/dL,0.59,1.04,,resulted
+P20,3,2026-07-23,Glucose,154.0,mg/dL,70.0,99.0,H,resulted
+P20,3,2026-07-23,A1c,6.7,%,4.0,5.6,H,resulted
+P20,3,2026-07-23,AFP,1.3,ng/mL,0.0,8.3,,resulted
+P20,4,2026-10-18,ALT,70.0,U/L,7.0,55.0,H,held_back_pending_release
+P20,4,2026-10-18,AST,61.0,U/L,8.0,48.0,H,held_back_pending_release
+P20,4,2026-10-18,ALP,119.0,U/L,40.0,129.0,,held_back_pending_release
+P20,4,2026-10-18,GGT,48.0,U/L,8.0,61.0,,held_back_pending_release
+P20,4,2026-10-18,Bilirubin Total,1.4,mg/dL,0.1,1.2,H,held_back_pending_release
+P20,4,2026-10-18,Albumin,4.2,g/dL,3.5,5.0,,held_back_pending_release
+P20,4,2026-10-18,Total Protein,7.4,g/dL,6.3,7.9,,held_back_pending_release
+P20,4,2026-10-18,INR,1.11,ratio,0.8,1.1,H,held_back_pending_release
+P20,4,2026-10-18,Platelets,121.0,K/uL,150.0,450.0,L,held_back_pending_release
+P20,4,2026-10-18,WBC,8.3,K/uL,3.4,9.6,,held_back_pending_release
+P20,4,2026-10-18,Hemoglobin,13.9,g/dL,11.6,15.0,,held_back_pending_release
+P20,4,2026-10-18,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P20,4,2026-10-18,Potassium,4.0,mmol/L,3.6,5.2,,held_back_pending_release
+P20,4,2026-10-18,BUN,11.0,mg/dL,6.0,21.0,,held_back_pending_release
+P20,4,2026-10-18,Creatinine,0.77,mg/dL,0.59,1.04,,held_back_pending_release
+P20,4,2026-10-18,Glucose,170.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P20,4,2026-10-18,A1c,6.7,%,4.0,5.6,H,held_back_pending_release
+P20,4,2026-10-18,Cholesterol Total,239.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P20,4,2026-10-18,LDL,112.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P20,4,2026-10-18,HDL,44.0,mg/dL,50.0,,L,held_back_pending_release
+P20,4,2026-10-18,Triglycerides,176.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P20,4,2026-10-18,AFP,1.4,ng/mL,0.0,8.3,,held_back_pending_release
+P21,1,2026-01-18,ALT,30.0,U/L,7.0,55.0,,resulted
+P21,1,2026-01-18,AST,64.0,U/L,8.0,48.0,H,resulted
+P21,1,2026-01-18,ALP,98.0,U/L,40.0,129.0,,resulted
+P21,1,2026-01-18,GGT,51.0,U/L,8.0,61.0,,resulted
+P21,1,2026-01-18,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P21,1,2026-01-18,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P21,1,2026-01-18,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P21,1,2026-01-18,INR,1.22,ratio,0.8,1.1,H,resulted
+P21,1,2026-01-18,Platelets,126.0,K/uL,150.0,450.0,L,resulted
+P21,1,2026-01-18,WBC,6.5,K/uL,3.4,9.6,,resulted
+P21,1,2026-01-18,Hemoglobin,13.3,g/dL,11.6,15.0,,resulted
+P21,1,2026-01-18,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P21,1,2026-01-18,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P21,1,2026-01-18,BUN,10.0,mg/dL,6.0,21.0,,resulted
+P21,1,2026-01-18,Creatinine,0.65,mg/dL,0.59,1.04,,resulted
+P21,1,2026-01-18,Glucose,155.0,mg/dL,70.0,99.0,H,resulted
+P21,1,2026-01-18,A1c,7.6,%,4.0,5.6,H,resulted
+P21,1,2026-01-18,Cholesterol Total,214.0,mg/dL,0.0,199.0,H,resulted
+P21,1,2026-01-18,LDL,125.0,mg/dL,0.0,99.0,H,resulted
+P21,1,2026-01-18,HDL,56.0,mg/dL,50.0,,,resulted
+P21,1,2026-01-18,Triglycerides,219.0,mg/dL,0.0,149.0,H,resulted
+P21,1,2026-01-18,AFP,3.2,ng/mL,0.0,8.3,,resulted
+P21,2,2026-04-27,ALT,32.0,U/L,7.0,55.0,,resulted
+P21,2,2026-04-27,AST,66.0,U/L,8.0,48.0,H,resulted
+P21,2,2026-04-27,ALP,92.0,U/L,40.0,129.0,,resulted
+P21,2,2026-04-27,GGT,49.0,U/L,8.0,61.0,,resulted
+P21,2,2026-04-27,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P21,2,2026-04-27,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P21,2,2026-04-27,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P21,2,2026-04-27,INR,1.17,ratio,0.8,1.1,H,resulted
+P21,2,2026-04-27,Platelets,121.0,K/uL,150.0,450.0,L,resulted
+P21,2,2026-04-27,WBC,6.0,K/uL,3.4,9.6,,resulted
+P21,2,2026-04-27,Hemoglobin,13.2,g/dL,11.6,15.0,,resulted
+P21,2,2026-04-27,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P21,2,2026-04-27,Potassium,4.4,mmol/L,3.6,5.2,,resulted
+P21,2,2026-04-27,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P21,2,2026-04-27,Creatinine,0.68,mg/dL,0.59,1.04,,resulted
+P21,2,2026-04-27,Glucose,143.0,mg/dL,70.0,99.0,H,resulted
+P21,2,2026-04-27,A1c,7.7,%,4.0,5.6,H,resulted
+P21,2,2026-04-27,AFP,3.1,ng/mL,0.0,8.3,,resulted
+P21,3,2026-07-18,ALT,30.0,U/L,7.0,55.0,,resulted
+P21,3,2026-07-18,AST,69.0,U/L,8.0,48.0,H,resulted
+P21,3,2026-07-18,ALP,97.0,U/L,40.0,129.0,,resulted
+P21,3,2026-07-18,GGT,53.0,U/L,8.0,61.0,,resulted
+P21,3,2026-07-18,Bilirubin Total,0.7,mg/dL,0.1,1.2,,resulted
+P21,3,2026-07-18,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P21,3,2026-07-18,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P21,3,2026-07-18,INR,1.15,ratio,0.8,1.1,H,resulted
+P21,3,2026-07-18,Platelets,107.0,K/uL,150.0,450.0,L,resulted
+P21,3,2026-07-18,WBC,6.0,K/uL,3.4,9.6,,resulted
+P21,3,2026-07-18,Hemoglobin,13.4,g/dL,11.6,15.0,,resulted
+P21,3,2026-07-18,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P21,3,2026-07-18,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P21,3,2026-07-18,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P21,3,2026-07-18,Creatinine,0.64,mg/dL,0.59,1.04,,resulted
+P21,3,2026-07-18,Glucose,134.0,mg/dL,70.0,99.0,H,resulted
+P21,3,2026-07-18,A1c,7.7,%,4.0,5.6,H,resulted
+P21,3,2026-07-18,AFP,4.2,ng/mL,0.0,8.3,,resulted
+P21,4,2026-10-21,ALT,28.0,U/L,7.0,55.0,,held_back_pending_release
+P21,4,2026-10-21,AST,61.0,U/L,8.0,48.0,H,held_back_pending_release
+P21,4,2026-10-21,ALP,103.0,U/L,40.0,129.0,,held_back_pending_release
+P21,4,2026-10-21,GGT,52.0,U/L,8.0,61.0,,held_back_pending_release
+P21,4,2026-10-21,Bilirubin Total,1.0,mg/dL,0.1,1.2,,held_back_pending_release
+P21,4,2026-10-21,Albumin,3.9,g/dL,3.5,5.0,,held_back_pending_release
+P21,4,2026-10-21,Total Protein,6.7,g/dL,6.3,7.9,,held_back_pending_release
+P21,4,2026-10-21,INR,1.25,ratio,0.8,1.1,H,held_back_pending_release
+P21,4,2026-10-21,Platelets,120.0,K/uL,150.0,450.0,L,held_back_pending_release
+P21,4,2026-10-21,WBC,5.9,K/uL,3.4,9.6,,held_back_pending_release
+P21,4,2026-10-21,Hemoglobin,13.5,g/dL,11.6,15.0,,held_back_pending_release
+P21,4,2026-10-21,Sodium,134.0,mmol/L,135.0,145.0,L,held_back_pending_release
+P21,4,2026-10-21,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P21,4,2026-10-21,BUN,10.0,mg/dL,6.0,21.0,,held_back_pending_release
+P21,4,2026-10-21,Creatinine,0.68,mg/dL,0.59,1.04,,held_back_pending_release
+P21,4,2026-10-21,Glucose,136.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P21,4,2026-10-21,A1c,7.7,%,4.0,5.6,H,held_back_pending_release
+P21,4,2026-10-21,Cholesterol Total,222.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P21,4,2026-10-21,LDL,131.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P21,4,2026-10-21,HDL,55.0,mg/dL,50.0,,,held_back_pending_release
+P21,4,2026-10-21,Triglycerides,267.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P21,4,2026-10-21,AFP,4.3,ng/mL,0.0,8.3,,held_back_pending_release
+P22,1,2026-01-18,ALT,46.0,U/L,7.0,55.0,,resulted
+P22,1,2026-01-18,AST,43.0,U/L,8.0,48.0,,resulted
+P22,1,2026-01-18,ALP,98.0,U/L,40.0,129.0,,resulted
+P22,1,2026-01-18,GGT,50.0,U/L,8.0,61.0,,resulted
+P22,1,2026-01-18,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P22,1,2026-01-18,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P22,1,2026-01-18,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P22,1,2026-01-18,INR,1.1,ratio,0.8,1.1,,resulted
+P22,1,2026-01-18,Platelets,131.0,K/uL,150.0,450.0,L,resulted
+P22,1,2026-01-18,WBC,5.9,K/uL,3.4,9.6,,resulted
+P22,1,2026-01-18,Hemoglobin,12.7,g/dL,11.6,15.0,,resulted
+P22,1,2026-01-18,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P22,1,2026-01-18,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P22,1,2026-01-18,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P22,1,2026-01-18,Creatinine,0.66,mg/dL,0.59,1.04,,resulted
+P22,1,2026-01-18,Glucose,132.0,mg/dL,70.0,99.0,H,resulted
+P22,1,2026-01-18,A1c,7.5,%,4.0,5.6,H,resulted
+P22,1,2026-01-18,Cholesterol Total,236.0,mg/dL,0.0,199.0,H,resulted
+P22,1,2026-01-18,LDL,153.0,mg/dL,0.0,99.0,H,resulted
+P22,1,2026-01-18,HDL,51.0,mg/dL,50.0,,,resulted
+P22,1,2026-01-18,Triglycerides,182.0,mg/dL,0.0,149.0,H,resulted
+P22,1,2026-01-18,AFP,3.2,ng/mL,0.0,8.3,,resulted
+P22,2,2026-04-12,ALT,55.0,U/L,7.0,55.0,,resulted
+P22,2,2026-04-12,AST,45.0,U/L,8.0,48.0,,resulted
+P22,2,2026-04-12,ALP,102.0,U/L,40.0,129.0,,resulted
+P22,2,2026-04-12,GGT,47.0,U/L,8.0,61.0,,resulted
+P22,2,2026-04-12,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P22,2,2026-04-12,Albumin,3.8,g/dL,3.5,5.0,,resulted
+P22,2,2026-04-12,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P22,2,2026-04-12,INR,1.09,ratio,0.8,1.1,,resulted
+P22,2,2026-04-12,Platelets,121.0,K/uL,150.0,450.0,L,resulted
+P22,2,2026-04-12,WBC,6.3,K/uL,3.4,9.6,,resulted
+P22,2,2026-04-12,Hemoglobin,13.3,g/dL,11.6,15.0,,resulted
+P22,2,2026-04-12,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P22,2,2026-04-12,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P22,2,2026-04-12,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P22,2,2026-04-12,Creatinine,0.65,mg/dL,0.59,1.04,,resulted
+P22,2,2026-04-12,Glucose,135.0,mg/dL,70.0,99.0,H,resulted
+P22,2,2026-04-12,A1c,7.6,%,4.0,5.6,H,resulted
+P22,2,2026-04-12,AFP,3.6,ng/mL,0.0,8.3,,resulted
+P22,3,2026-07-15,ALT,48.0,U/L,7.0,55.0,,resulted
+P22,3,2026-07-15,AST,43.0,U/L,8.0,48.0,,resulted
+P22,3,2026-07-15,ALP,87.0,U/L,40.0,129.0,,resulted
+P22,3,2026-07-15,GGT,45.0,U/L,8.0,61.0,,resulted
+P22,3,2026-07-15,Bilirubin Total,1.0,mg/dL,0.1,1.2,,resulted
+P22,3,2026-07-15,Albumin,3.6,g/dL,3.5,5.0,,resulted
+P22,3,2026-07-15,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P22,3,2026-07-15,INR,1.1,ratio,0.8,1.1,,resulted
+P22,3,2026-07-15,Platelets,111.0,K/uL,150.0,450.0,L,resulted
+P22,3,2026-07-15,WBC,6.6,K/uL,3.4,9.6,,resulted
+P22,3,2026-07-15,Hemoglobin,13.1,g/dL,11.6,15.0,,resulted
+P22,3,2026-07-15,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P22,3,2026-07-15,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P22,3,2026-07-15,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P22,3,2026-07-15,Creatinine,0.67,mg/dL,0.59,1.04,,resulted
+P22,3,2026-07-15,Glucose,136.0,mg/dL,70.0,99.0,H,resulted
+P22,3,2026-07-15,A1c,7.6,%,4.0,5.6,H,resulted
+P22,3,2026-07-15,AFP,3.0,ng/mL,0.0,8.3,,resulted
+P22,4,2026-10-13,ALT,56.0,U/L,7.0,55.0,H,held_back_pending_release
+P22,4,2026-10-13,AST,44.0,U/L,8.0,48.0,,held_back_pending_release
+P22,4,2026-10-13,ALP,95.0,U/L,40.0,129.0,,held_back_pending_release
+P22,4,2026-10-13,GGT,45.0,U/L,8.0,61.0,,held_back_pending_release
+P22,4,2026-10-13,Bilirubin Total,1.2,mg/dL,0.1,1.2,,held_back_pending_release
+P22,4,2026-10-13,Albumin,3.6,g/dL,3.5,5.0,,held_back_pending_release
+P22,4,2026-10-13,Total Protein,7.2,g/dL,6.3,7.9,,held_back_pending_release
+P22,4,2026-10-13,INR,1.18,ratio,0.8,1.1,H,held_back_pending_release
+P22,4,2026-10-13,Platelets,92.0,K/uL,150.0,450.0,L,held_back_pending_release
+P22,4,2026-10-13,WBC,5.7,K/uL,3.4,9.6,,held_back_pending_release
+P22,4,2026-10-13,Hemoglobin,13.2,g/dL,11.6,15.0,,held_back_pending_release
+P22,4,2026-10-13,Sodium,137.0,mmol/L,135.0,145.0,,held_back_pending_release
+P22,4,2026-10-13,Potassium,3.9,mmol/L,3.6,5.2,,held_back_pending_release
+P22,4,2026-10-13,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P22,4,2026-10-13,Creatinine,0.68,mg/dL,0.59,1.04,,held_back_pending_release
+P22,4,2026-10-13,Glucose,134.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P22,4,2026-10-13,A1c,7.9,%,4.0,5.6,H,held_back_pending_release
+P22,4,2026-10-13,Cholesterol Total,223.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P22,4,2026-10-13,LDL,148.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P22,4,2026-10-13,HDL,52.0,mg/dL,50.0,,,held_back_pending_release
+P22,4,2026-10-13,Triglycerides,210.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P22,4,2026-10-13,AFP,3.4,ng/mL,0.0,8.3,,held_back_pending_release
+P23,1,2026-01-15,ALT,28.0,U/L,7.0,55.0,,resulted
+P23,1,2026-01-15,AST,49.0,U/L,8.0,48.0,H,resulted
+P23,1,2026-01-15,ALP,138.0,U/L,40.0,129.0,H,resulted
+P23,1,2026-01-15,GGT,67.0,U/L,8.0,61.0,H,resulted
+P23,1,2026-01-15,Bilirubin Total,2.2,mg/dL,0.1,1.2,H,resulted
+P23,1,2026-01-15,Albumin,3.0,g/dL,3.5,5.0,L,resulted
+P23,1,2026-01-15,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P23,1,2026-01-15,INR,1.52,ratio,0.8,1.1,H,resulted
+P23,1,2026-01-15,Platelets,130.0,K/uL,150.0,450.0,L,resulted
+P23,1,2026-01-15,WBC,6.0,K/uL,3.4,9.6,,resulted
+P23,1,2026-01-15,Hemoglobin,11.1,g/dL,11.6,15.0,L,resulted
+P23,1,2026-01-15,Sodium,136.0,mmol/L,135.0,145.0,,resulted
+P23,1,2026-01-15,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P23,1,2026-01-15,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P23,1,2026-01-15,Creatinine,1.05,mg/dL,0.59,1.04,H,resulted
+P23,1,2026-01-15,Glucose,124.0,mg/dL,70.0,99.0,H,resulted
+P23,1,2026-01-15,A1c,5.5,%,4.0,5.6,,resulted
+P23,1,2026-01-15,Cholesterol Total,232.0,mg/dL,0.0,199.0,H,resulted
+P23,1,2026-01-15,LDL,141.0,mg/dL,0.0,99.0,H,resulted
+P23,1,2026-01-15,HDL,46.0,mg/dL,50.0,,L,resulted
+P23,1,2026-01-15,Triglycerides,203.0,mg/dL,0.0,149.0,H,resulted
+P23,1,2026-01-15,AFP,2.2,ng/mL,0.0,8.3,,resulted
+P23,2,2026-04-11,ALT,34.0,U/L,7.0,55.0,,resulted
+P23,2,2026-04-11,AST,49.0,U/L,8.0,48.0,H,resulted
+P23,2,2026-04-11,ALP,147.0,U/L,40.0,129.0,H,resulted
+P23,2,2026-04-11,GGT,69.0,U/L,8.0,61.0,H,resulted
+P23,2,2026-04-11,Bilirubin Total,2.2,mg/dL,0.1,1.2,H,resulted
+P23,2,2026-04-11,Albumin,2.9,g/dL,3.5,5.0,L,resulted
+P23,2,2026-04-11,Total Protein,7.7,g/dL,6.3,7.9,,resulted
+P23,2,2026-04-11,INR,1.53,ratio,0.8,1.1,H,resulted
+P23,2,2026-04-11,Platelets,102.0,K/uL,150.0,450.0,L,resulted
+P23,2,2026-04-11,WBC,5.3,K/uL,3.4,9.6,,resulted
+P23,2,2026-04-11,Hemoglobin,11.7,g/dL,11.6,15.0,,resulted
+P23,2,2026-04-11,Sodium,135.0,mmol/L,135.0,145.0,,resulted
+P23,2,2026-04-11,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P23,2,2026-04-11,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P23,2,2026-04-11,Creatinine,1.06,mg/dL,0.59,1.04,H,resulted
+P23,2,2026-04-11,Glucose,124.0,mg/dL,70.0,99.0,H,resulted
+P23,2,2026-04-11,A1c,5.7,%,4.0,5.6,H,resulted
+P23,2,2026-04-11,AFP,1.6,ng/mL,0.0,8.3,,resulted
+P23,3,2026-07-11,ALT,31.0,U/L,7.0,55.0,,resulted
+P23,3,2026-07-11,AST,48.0,U/L,8.0,48.0,,resulted
+P23,3,2026-07-11,ALP,148.0,U/L,40.0,129.0,H,resulted
+P23,3,2026-07-11,GGT,66.0,U/L,8.0,61.0,H,resulted
+P23,3,2026-07-11,Bilirubin Total,2.8,mg/dL,0.1,1.2,H,resulted
+P23,3,2026-07-11,Albumin,3.1,g/dL,3.5,5.0,L,resulted
+P23,3,2026-07-11,Total Protein,7.4,g/dL,6.3,7.9,,resulted
+P23,3,2026-07-11,INR,1.6,ratio,0.8,1.1,H,resulted
+P23,3,2026-07-11,Platelets,106.0,K/uL,150.0,450.0,L,resulted
+P23,3,2026-07-11,WBC,4.6,K/uL,3.4,9.6,,resulted
+P23,3,2026-07-11,Hemoglobin,11.4,g/dL,11.6,15.0,L,resulted
+P23,3,2026-07-11,Sodium,135.0,mmol/L,135.0,145.0,,resulted
+P23,3,2026-07-11,Potassium,3.8,mmol/L,3.6,5.2,,resulted
+P23,3,2026-07-11,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P23,3,2026-07-11,Creatinine,1.07,mg/dL,0.59,1.04,H,resulted
+P23,3,2026-07-11,Glucose,120.0,mg/dL,70.0,99.0,H,resulted
+P23,3,2026-07-11,A1c,5.5,%,4.0,5.6,,resulted
+P23,3,2026-07-11,AFP,2.0,ng/mL,0.0,8.3,,resulted
+P23,4,2026-10-12,ALT,31.0,U/L,7.0,55.0,,held_back_pending_release
+P23,4,2026-10-12,AST,50.0,U/L,8.0,48.0,H,held_back_pending_release
+P23,4,2026-10-12,ALP,133.0,U/L,40.0,129.0,H,held_back_pending_release
+P23,4,2026-10-12,GGT,76.0,U/L,8.0,61.0,H,held_back_pending_release
+P23,4,2026-10-12,Bilirubin Total,2.8,mg/dL,0.1,1.2,H,held_back_pending_release
+P23,4,2026-10-12,Albumin,2.7,g/dL,3.5,5.0,L,held_back_pending_release
+P23,4,2026-10-12,Total Protein,7.4,g/dL,6.3,7.9,,held_back_pending_release
+P23,4,2026-10-12,INR,1.66,ratio,0.8,1.1,H,held_back_pending_release
+P23,4,2026-10-12,Platelets,110.0,K/uL,150.0,450.0,L,held_back_pending_release
+P23,4,2026-10-12,WBC,5.5,K/uL,3.4,9.6,,held_back_pending_release
+P23,4,2026-10-12,Hemoglobin,11.1,g/dL,11.6,15.0,L,held_back_pending_release
+P23,4,2026-10-12,Sodium,134.0,mmol/L,135.0,145.0,L,held_back_pending_release
+P23,4,2026-10-12,Potassium,4.0,mmol/L,3.6,5.2,,held_back_pending_release
+P23,4,2026-10-12,BUN,11.0,mg/dL,6.0,21.0,,held_back_pending_release
+P23,4,2026-10-12,Creatinine,1.06,mg/dL,0.59,1.04,H,held_back_pending_release
+P23,4,2026-10-12,Glucose,128.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P23,4,2026-10-12,A1c,5.6,%,4.0,5.6,,held_back_pending_release
+P23,4,2026-10-12,Cholesterol Total,209.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P23,4,2026-10-12,LDL,146.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P23,4,2026-10-12,HDL,48.0,mg/dL,50.0,,L,held_back_pending_release
+P23,4,2026-10-12,Triglycerides,199.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P23,4,2026-10-12,AFP,2.3,ng/mL,0.0,8.3,,held_back_pending_release
+P24,1,2026-01-16,ALT,38.0,U/L,7.0,55.0,,resulted
+P24,1,2026-01-16,AST,59.0,U/L,8.0,48.0,H,resulted
+P24,1,2026-01-16,ALP,126.0,U/L,40.0,129.0,,resulted
+P24,1,2026-01-16,GGT,45.0,U/L,8.0,61.0,,resulted
+P24,1,2026-01-16,Bilirubin Total,1.7,mg/dL,0.1,1.2,H,resulted
+P24,1,2026-01-16,Albumin,3.0,g/dL,3.5,5.0,L,resulted
+P24,1,2026-01-16,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P24,1,2026-01-16,INR,1.49,ratio,0.8,1.1,H,resulted
+P24,1,2026-01-16,Platelets,134.0,K/uL,150.0,450.0,L,resulted
+P24,1,2026-01-16,WBC,6.6,K/uL,3.4,9.6,,resulted
+P24,1,2026-01-16,Hemoglobin,11.9,g/dL,11.6,15.0,,resulted
+P24,1,2026-01-16,Sodium,135.0,mmol/L,135.0,145.0,,resulted
+P24,1,2026-01-16,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P24,1,2026-01-16,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P24,1,2026-01-16,Creatinine,1.08,mg/dL,0.59,1.04,H,resulted
+P24,1,2026-01-16,Glucose,106.0,mg/dL,70.0,99.0,H,resulted
+P24,1,2026-01-16,A1c,5.9,%,4.0,5.6,H,resulted
+P24,1,2026-01-16,Cholesterol Total,233.0,mg/dL,0.0,199.0,H,resulted
+P24,1,2026-01-16,LDL,149.0,mg/dL,0.0,99.0,H,resulted
+P24,1,2026-01-16,HDL,42.0,mg/dL,50.0,,L,resulted
+P24,1,2026-01-16,Triglycerides,141.0,mg/dL,0.0,149.0,,resulted
+P24,1,2026-01-16,AFP,1.8,ng/mL,0.0,8.3,,resulted
+P24,2,2026-04-19,ALT,45.0,U/L,7.0,55.0,,resulted
+P24,2,2026-04-19,AST,58.0,U/L,8.0,48.0,H,resulted
+P24,2,2026-04-19,ALP,118.0,U/L,40.0,129.0,,resulted
+P24,2,2026-04-19,GGT,43.0,U/L,8.0,61.0,,resulted
+P24,2,2026-04-19,Bilirubin Total,1.7,mg/dL,0.1,1.2,H,resulted
+P24,2,2026-04-19,Albumin,3.0,g/dL,3.5,5.0,L,resulted
+P24,2,2026-04-19,Total Protein,6.7,g/dL,6.3,7.9,,resulted
+P24,2,2026-04-19,INR,1.5,ratio,0.8,1.1,H,resulted
+P24,2,2026-04-19,Platelets,146.0,K/uL,150.0,450.0,L,resulted
+P24,2,2026-04-19,WBC,6.6,K/uL,3.4,9.6,,resulted
+P24,2,2026-04-19,Hemoglobin,11.9,g/dL,11.6,15.0,,resulted
+P24,2,2026-04-19,Sodium,134.0,mmol/L,135.0,145.0,L,resulted
+P24,2,2026-04-19,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P24,2,2026-04-19,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P24,2,2026-04-19,Creatinine,1.0,mg/dL,0.59,1.04,,resulted
+P24,2,2026-04-19,Glucose,107.0,mg/dL,70.0,99.0,H,resulted
+P24,2,2026-04-19,A1c,5.8,%,4.0,5.6,H,resulted
+P24,2,2026-04-19,AFP,2.0,ng/mL,0.0,8.3,,resulted
+P24,3,2026-07-20,ALT,39.0,U/L,7.0,55.0,,resulted
+P24,3,2026-07-20,AST,56.0,U/L,8.0,48.0,H,resulted
+P24,3,2026-07-20,ALP,114.0,U/L,40.0,129.0,,resulted
+P24,3,2026-07-20,GGT,45.0,U/L,8.0,61.0,,resulted
+P24,3,2026-07-20,Bilirubin Total,1.7,mg/dL,0.1,1.2,H,resulted
+P24,3,2026-07-20,Albumin,2.6,g/dL,3.5,5.0,L,resulted
+P24,3,2026-07-20,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P24,3,2026-07-20,INR,1.48,ratio,0.8,1.1,H,resulted
+P24,3,2026-07-20,Platelets,155.0,K/uL,150.0,450.0,,resulted
+P24,3,2026-07-20,WBC,6.0,K/uL,3.4,9.6,,resulted
+P24,3,2026-07-20,Hemoglobin,11.2,g/dL,11.6,15.0,L,resulted
+P24,3,2026-07-20,Sodium,133.0,mmol/L,135.0,145.0,L,resulted
+P24,3,2026-07-20,Potassium,3.9,mmol/L,3.6,5.2,,resulted
+P24,3,2026-07-20,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P24,3,2026-07-20,Creatinine,1.02,mg/dL,0.59,1.04,,resulted
+P24,3,2026-07-20,Glucose,109.0,mg/dL,70.0,99.0,H,resulted
+P24,3,2026-07-20,A1c,5.8,%,4.0,5.6,H,resulted
+P24,3,2026-07-20,AFP,1.9,ng/mL,0.0,8.3,,resulted
+P24,4,2026-10-16,ALT,35.0,U/L,7.0,55.0,,held_back_pending_release
+P24,4,2026-10-16,AST,64.0,U/L,8.0,48.0,H,held_back_pending_release
+P24,4,2026-10-16,ALP,117.0,U/L,40.0,129.0,,held_back_pending_release
+P24,4,2026-10-16,GGT,46.0,U/L,8.0,61.0,,held_back_pending_release
+P24,4,2026-10-16,Bilirubin Total,2.5,mg/dL,0.1,1.2,H,held_back_pending_release
+P24,4,2026-10-16,Albumin,2.7,g/dL,3.5,5.0,L,held_back_pending_release
+P24,4,2026-10-16,Total Protein,7.0,g/dL,6.3,7.9,,held_back_pending_release
+P24,4,2026-10-16,INR,1.68,ratio,0.8,1.1,H,held_back_pending_release
+P24,4,2026-10-16,Platelets,141.0,K/uL,150.0,450.0,L,held_back_pending_release
+P24,4,2026-10-16,WBC,6.4,K/uL,3.4,9.6,,held_back_pending_release
+P24,4,2026-10-16,Hemoglobin,11.7,g/dL,11.6,15.0,,held_back_pending_release
+P24,4,2026-10-16,Sodium,133.0,mmol/L,135.0,145.0,L,held_back_pending_release
+P24,4,2026-10-16,Potassium,3.8,mmol/L,3.6,5.2,,held_back_pending_release
+P24,4,2026-10-16,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P24,4,2026-10-16,Creatinine,1.06,mg/dL,0.59,1.04,H,held_back_pending_release
+P24,4,2026-10-16,Glucose,106.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P24,4,2026-10-16,A1c,5.7,%,4.0,5.6,H,held_back_pending_release
+P24,4,2026-10-16,Cholesterol Total,236.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P24,4,2026-10-16,LDL,153.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P24,4,2026-10-16,HDL,41.0,mg/dL,50.0,,L,held_back_pending_release
+P24,4,2026-10-16,Triglycerides,165.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P24,4,2026-10-16,AFP,1.8,ng/mL,0.0,8.3,,held_back_pending_release
+P25,1,2026-01-17,ALT,39.0,U/L,7.0,55.0,,resulted
+P25,1,2026-01-17,AST,52.0,U/L,8.0,48.0,H,resulted
+P25,1,2026-01-17,ALP,139.0,U/L,40.0,129.0,H,resulted
+P25,1,2026-01-17,GGT,71.0,U/L,8.0,61.0,H,resulted
+P25,1,2026-01-17,Bilirubin Total,1.8,mg/dL,0.1,1.2,H,resulted
+P25,1,2026-01-17,Albumin,3.4,g/dL,3.5,5.0,L,resulted
+P25,1,2026-01-17,Total Protein,6.8,g/dL,6.3,7.9,,resulted
+P25,1,2026-01-17,INR,1.42,ratio,0.8,1.1,H,resulted
+P25,1,2026-01-17,Platelets,131.0,K/uL,150.0,450.0,L,resulted
+P25,1,2026-01-17,WBC,6.2,K/uL,3.4,9.6,,resulted
+P25,1,2026-01-17,Hemoglobin,11.4,g/dL,13.2,16.6,L,resulted
+P25,1,2026-01-17,Sodium,133.0,mmol/L,135.0,145.0,L,resulted
+P25,1,2026-01-17,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P25,1,2026-01-17,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P25,1,2026-01-17,Creatinine,1.01,mg/dL,0.74,1.35,,resulted
+P25,1,2026-01-17,Glucose,103.0,mg/dL,70.0,99.0,H,resulted
+P25,1,2026-01-17,A1c,5.6,%,4.0,5.6,,resulted
+P25,1,2026-01-17,Cholesterol Total,209.0,mg/dL,0.0,199.0,H,resulted
+P25,1,2026-01-17,LDL,138.0,mg/dL,0.0,99.0,H,resulted
+P25,1,2026-01-17,HDL,37.0,mg/dL,40.0,,L,resulted
+P25,1,2026-01-17,Triglycerides,263.0,mg/dL,0.0,149.0,H,resulted
+P25,1,2026-01-17,AFP,2.6,ng/mL,0.0,8.3,,resulted
+P25,2,2026-04-17,ALT,44.0,U/L,7.0,55.0,,resulted
+P25,2,2026-04-17,AST,52.0,U/L,8.0,48.0,H,resulted
+P25,2,2026-04-17,ALP,137.0,U/L,40.0,129.0,H,resulted
+P25,2,2026-04-17,GGT,66.0,U/L,8.0,61.0,H,resulted
+P25,2,2026-04-17,Bilirubin Total,1.7,mg/dL,0.1,1.2,H,resulted
+P25,2,2026-04-17,Albumin,3.4,g/dL,3.5,5.0,L,resulted
+P25,2,2026-04-17,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P25,2,2026-04-17,INR,1.31,ratio,0.8,1.1,H,resulted
+P25,2,2026-04-17,Platelets,122.0,K/uL,150.0,450.0,L,resulted
+P25,2,2026-04-17,WBC,6.1,K/uL,3.4,9.6,,resulted
+P25,2,2026-04-17,Hemoglobin,10.7,g/dL,13.2,16.6,L,resulted
+P25,2,2026-04-17,Sodium,135.0,mmol/L,135.0,145.0,,resulted
+P25,2,2026-04-17,Potassium,4.6,mmol/L,3.6,5.2,,resulted
+P25,2,2026-04-17,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P25,2,2026-04-17,Creatinine,1.05,mg/dL,0.74,1.35,,resulted
+P25,2,2026-04-17,Glucose,104.0,mg/dL,70.0,99.0,H,resulted
+P25,2,2026-04-17,A1c,5.6,%,4.0,5.6,,resulted
+P25,2,2026-04-17,AFP,2.8,ng/mL,0.0,8.3,,resulted
+P25,3,2026-07-22,ALT,44.0,U/L,7.0,55.0,,resulted
+P25,3,2026-07-22,AST,47.0,U/L,8.0,48.0,,resulted
+P25,3,2026-07-22,ALP,133.0,U/L,40.0,129.0,H,resulted
+P25,3,2026-07-22,GGT,69.0,U/L,8.0,61.0,H,resulted
+P25,3,2026-07-22,Bilirubin Total,1.6,mg/dL,0.1,1.2,H,resulted
+P25,3,2026-07-22,Albumin,3.4,g/dL,3.5,5.0,L,resulted
+P25,3,2026-07-22,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P25,3,2026-07-22,INR,1.3,ratio,0.8,1.1,H,resulted
+P25,3,2026-07-22,Platelets,117.0,K/uL,150.0,450.0,L,resulted
+P25,3,2026-07-22,WBC,5.7,K/uL,3.4,9.6,,resulted
+P25,3,2026-07-22,Hemoglobin,11.4,g/dL,13.2,16.6,L,resulted
+P25,3,2026-07-22,Sodium,133.0,mmol/L,135.0,145.0,L,resulted
+P25,3,2026-07-22,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P25,3,2026-07-22,BUN,9.0,mg/dL,6.0,21.0,,resulted
+P25,3,2026-07-22,Creatinine,1.05,mg/dL,0.74,1.35,,resulted
+P25,3,2026-07-22,Glucose,101.0,mg/dL,70.0,99.0,H,resulted
+P25,3,2026-07-22,A1c,5.6,%,4.0,5.6,,resulted
+P25,3,2026-07-22,AFP,2.0,ng/mL,0.0,8.3,,resulted
+P25,4,2026-10-18,ALT,42.0,U/L,7.0,55.0,,held_back_pending_release
+P25,4,2026-10-18,AST,49.0,U/L,8.0,48.0,H,held_back_pending_release
+P25,4,2026-10-18,ALP,125.0,U/L,40.0,129.0,,held_back_pending_release
+P25,4,2026-10-18,GGT,64.0,U/L,8.0,61.0,H,held_back_pending_release
+P25,4,2026-10-18,Bilirubin Total,3.8,mg/dL,0.1,1.2,H,held_back_pending_release
+P25,4,2026-10-18,Albumin,3.4,g/dL,3.5,5.0,L,held_back_pending_release
+P25,4,2026-10-18,Total Protein,6.9,g/dL,6.3,7.9,,held_back_pending_release
+P25,4,2026-10-18,INR,1.26,ratio,0.8,1.1,H,held_back_pending_release
+P25,4,2026-10-18,Platelets,120.0,K/uL,150.0,450.0,L,held_back_pending_release
+P25,4,2026-10-18,WBC,7.1,K/uL,3.4,9.6,,held_back_pending_release
+P25,4,2026-10-18,Hemoglobin,10.6,g/dL,13.2,16.6,L,held_back_pending_release
+P25,4,2026-10-18,Sodium,132.0,mmol/L,135.0,145.0,L,held_back_pending_release
+P25,4,2026-10-18,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P25,4,2026-10-18,BUN,11.0,mg/dL,6.0,21.0,,held_back_pending_release
+P25,4,2026-10-18,Creatinine,1.05,mg/dL,0.74,1.35,,held_back_pending_release
+P25,4,2026-10-18,Glucose,97.0,mg/dL,70.0,99.0,,held_back_pending_release
+P25,4,2026-10-18,A1c,5.8,%,4.0,5.6,H,held_back_pending_release
+P25,4,2026-10-18,Cholesterol Total,243.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P25,4,2026-10-18,LDL,146.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P25,4,2026-10-18,HDL,40.0,mg/dL,40.0,,,held_back_pending_release
+P25,4,2026-10-18,Triglycerides,194.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P25,4,2026-10-18,AFP,2.1,ng/mL,0.0,8.3,,held_back_pending_release
+P26,1,2026-01-11,ALT,58.0,U/L,7.0,55.0,H,resulted
+P26,1,2026-01-11,AST,51.0,U/L,8.0,48.0,H,resulted
+P26,1,2026-01-11,ALP,517.0,U/L,40.0,129.0,H,resulted
+P26,1,2026-01-11,GGT,242.0,U/L,8.0,61.0,H,resulted
+P26,1,2026-01-11,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P26,1,2026-01-11,Albumin,4.3,g/dL,3.5,5.0,,resulted
+P26,1,2026-01-11,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P26,1,2026-01-11,INR,1.03,ratio,0.8,1.1,,resulted
+P26,1,2026-01-11,Platelets,154.0,K/uL,150.0,450.0,,resulted
+P26,1,2026-01-11,WBC,5.8,K/uL,3.4,9.6,,resulted
+P26,1,2026-01-11,Hemoglobin,14.8,g/dL,13.2,16.6,,resulted
+P26,1,2026-01-11,Sodium,141.0,mmol/L,135.0,145.0,,resulted
+P26,1,2026-01-11,Potassium,4.4,mmol/L,3.6,5.2,,resulted
+P26,1,2026-01-11,BUN,16.0,mg/dL,6.0,21.0,,resulted
+P26,1,2026-01-11,Creatinine,0.8,mg/dL,0.74,1.35,,resulted
+P26,1,2026-01-11,Glucose,106.0,mg/dL,70.0,99.0,H,resulted
+P26,1,2026-01-11,A1c,5.7,%,4.0,5.6,H,resulted
+P26,1,2026-01-11,Cholesterol Total,236.0,mg/dL,0.0,199.0,H,resulted
+P26,1,2026-01-11,LDL,140.0,mg/dL,0.0,99.0,H,resulted
+P26,1,2026-01-11,HDL,44.0,mg/dL,40.0,,,resulted
+P26,1,2026-01-11,Triglycerides,241.0,mg/dL,0.0,149.0,H,resulted
+P26,2,2026-04-12,ALT,58.0,U/L,7.0,55.0,H,resulted
+P26,2,2026-04-12,AST,56.0,U/L,8.0,48.0,H,resulted
+P26,2,2026-04-12,ALP,554.0,U/L,40.0,129.0,H,resulted
+P26,2,2026-04-12,GGT,204.0,U/L,8.0,61.0,H,resulted
+P26,2,2026-04-12,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P26,2,2026-04-12,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P26,2,2026-04-12,Total Protein,7.5,g/dL,6.3,7.9,,resulted
+P26,2,2026-04-12,INR,1.01,ratio,0.8,1.1,,resulted
+P26,2,2026-04-12,Platelets,127.0,K/uL,150.0,450.0,L,resulted
+P26,2,2026-04-12,WBC,5.2,K/uL,3.4,9.6,,resulted
+P26,2,2026-04-12,Hemoglobin,14.2,g/dL,13.2,16.6,,resulted
+P26,2,2026-04-12,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P26,2,2026-04-12,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P26,2,2026-04-12,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P26,2,2026-04-12,Creatinine,0.83,mg/dL,0.74,1.35,,resulted
+P26,2,2026-04-12,Glucose,114.0,mg/dL,70.0,99.0,H,resulted
+P26,2,2026-04-12,A1c,5.8,%,4.0,5.6,H,resulted
+P26,3,2026-07-12,ALT,62.0,U/L,7.0,55.0,H,resulted
+P26,3,2026-07-12,AST,60.0,U/L,8.0,48.0,H,resulted
+P26,3,2026-07-12,ALP,529.0,U/L,40.0,129.0,H,resulted
+P26,3,2026-07-12,GGT,210.0,U/L,8.0,61.0,H,resulted
+P26,3,2026-07-12,Bilirubin Total,0.8,mg/dL,0.1,1.2,,resulted
+P26,3,2026-07-12,Albumin,4.0,g/dL,3.5,5.0,,resulted
+P26,3,2026-07-12,Total Protein,7.6,g/dL,6.3,7.9,,resulted
+P26,3,2026-07-12,INR,1.01,ratio,0.8,1.1,,resulted
+P26,3,2026-07-12,Platelets,115.0,K/uL,150.0,450.0,L,resulted
+P26,3,2026-07-12,WBC,5.7,K/uL,3.4,9.6,,resulted
+P26,3,2026-07-12,Hemoglobin,14.9,g/dL,13.2,16.6,,resulted
+P26,3,2026-07-12,Sodium,142.0,mmol/L,135.0,145.0,,resulted
+P26,3,2026-07-12,Potassium,4.9,mmol/L,3.6,5.2,,resulted
+P26,3,2026-07-12,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P26,3,2026-07-12,Creatinine,0.78,mg/dL,0.74,1.35,,resulted
+P26,3,2026-07-12,Glucose,120.0,mg/dL,70.0,99.0,H,resulted
+P26,3,2026-07-12,A1c,5.9,%,4.0,5.6,H,resulted
+P26,4,2026-10-15,ALT,70.0,U/L,7.0,55.0,H,held_back_pending_release
+P26,4,2026-10-15,AST,53.0,U/L,8.0,48.0,H,held_back_pending_release
+P26,4,2026-10-15,ALP,507.0,U/L,40.0,129.0,H,held_back_pending_release
+P26,4,2026-10-15,GGT,196.0,U/L,8.0,61.0,H,held_back_pending_release
+P26,4,2026-10-15,Bilirubin Total,1.0,mg/dL,0.1,1.2,,held_back_pending_release
+P26,4,2026-10-15,Albumin,3.7,g/dL,3.5,5.0,,held_back_pending_release
+P26,4,2026-10-15,Total Protein,7.5,g/dL,6.3,7.9,,held_back_pending_release
+P26,4,2026-10-15,INR,1.05,ratio,0.8,1.1,,held_back_pending_release
+P26,4,2026-10-15,Platelets,104.0,K/uL,150.0,450.0,L,held_back_pending_release
+P26,4,2026-10-15,WBC,5.5,K/uL,3.4,9.6,,held_back_pending_release
+P26,4,2026-10-15,Hemoglobin,14.4,g/dL,13.2,16.6,,held_back_pending_release
+P26,4,2026-10-15,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P26,4,2026-10-15,Potassium,4.7,mmol/L,3.6,5.2,,held_back_pending_release
+P26,4,2026-10-15,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P26,4,2026-10-15,Creatinine,0.83,mg/dL,0.74,1.35,,held_back_pending_release
+P26,4,2026-10-15,Glucose,119.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P26,4,2026-10-15,A1c,5.9,%,4.0,5.6,H,held_back_pending_release
+P26,4,2026-10-15,Cholesterol Total,246.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P26,4,2026-10-15,LDL,128.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P26,4,2026-10-15,HDL,43.0,mg/dL,40.0,,,held_back_pending_release
+P26,4,2026-10-15,Triglycerides,238.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P27,1,2026-01-22,ALT,92.0,U/L,7.0,55.0,H,resulted
+P27,1,2026-01-22,AST,53.0,U/L,8.0,48.0,H,resulted
+P27,1,2026-01-22,ALP,311.0,U/L,40.0,129.0,H,resulted
+P27,1,2026-01-22,GGT,231.0,U/L,8.0,61.0,H,resulted
+P27,1,2026-01-22,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P27,1,2026-01-22,Albumin,4.7,g/dL,3.5,5.0,,resulted
+P27,1,2026-01-22,Total Protein,7.2,g/dL,6.3,7.9,,resulted
+P27,1,2026-01-22,INR,0.93,ratio,0.8,1.1,,resulted
+P27,1,2026-01-22,Platelets,230.0,K/uL,150.0,450.0,,resulted
+P27,1,2026-01-22,WBC,5.4,K/uL,3.4,9.6,,resulted
+P27,1,2026-01-22,Hemoglobin,12.6,g/dL,11.6,15.0,,resulted
+P27,1,2026-01-22,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P27,1,2026-01-22,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P27,1,2026-01-22,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P27,1,2026-01-22,Creatinine,0.62,mg/dL,0.59,1.04,,resulted
+P27,1,2026-01-22,Glucose,100.0,mg/dL,70.0,99.0,H,resulted
+P27,1,2026-01-22,A1c,5.5,%,4.0,5.6,,resulted
+P27,1,2026-01-22,Cholesterol Total,199.0,mg/dL,0.0,199.0,,resulted
+P27,1,2026-01-22,LDL,120.0,mg/dL,0.0,99.0,H,resulted
+P27,1,2026-01-22,HDL,54.0,mg/dL,50.0,,,resulted
+P27,1,2026-01-22,Triglycerides,166.0,mg/dL,0.0,149.0,H,resulted
+P27,2,2026-04-26,ALT,103.0,U/L,7.0,55.0,H,resulted
+P27,2,2026-04-26,AST,47.0,U/L,8.0,48.0,,resulted
+P27,2,2026-04-26,ALP,315.0,U/L,40.0,129.0,H,resulted
+P27,2,2026-04-26,GGT,217.0,U/L,8.0,61.0,H,resulted
+P27,2,2026-04-26,Bilirubin Total,0.4,mg/dL,0.1,1.2,,resulted
+P27,2,2026-04-26,Albumin,4.1,g/dL,3.5,5.0,,resulted
+P27,2,2026-04-26,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P27,2,2026-04-26,INR,0.91,ratio,0.8,1.1,,resulted
+P27,2,2026-04-26,Platelets,221.0,K/uL,150.0,450.0,,resulted
+P27,2,2026-04-26,WBC,5.7,K/uL,3.4,9.6,,resulted
+P27,2,2026-04-26,Hemoglobin,12.1,g/dL,11.6,15.0,,resulted
+P27,2,2026-04-26,Sodium,142.0,mmol/L,135.0,145.0,,resulted
+P27,2,2026-04-26,Potassium,4.5,mmol/L,3.6,5.2,,resulted
+P27,2,2026-04-26,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P27,2,2026-04-26,Creatinine,0.59,mg/dL,0.59,1.04,,resulted
+P27,2,2026-04-26,Glucose,108.0,mg/dL,70.0,99.0,H,resulted
+P27,2,2026-04-26,A1c,5.5,%,4.0,5.6,,resulted
+P27,3,2026-07-23,ALT,97.0,U/L,7.0,55.0,H,resulted
+P27,3,2026-07-23,AST,48.0,U/L,8.0,48.0,,resulted
+P27,3,2026-07-23,ALP,281.0,U/L,40.0,129.0,H,resulted
+P27,3,2026-07-23,GGT,252.0,U/L,8.0,61.0,H,resulted
+P27,3,2026-07-23,Bilirubin Total,0.4,mg/dL,0.1,1.2,,resulted
+P27,3,2026-07-23,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P27,3,2026-07-23,Total Protein,6.9,g/dL,6.3,7.9,,resulted
+P27,3,2026-07-23,INR,0.91,ratio,0.8,1.1,,resulted
+P27,3,2026-07-23,Platelets,188.0,K/uL,150.0,450.0,,resulted
+P27,3,2026-07-23,WBC,4.9,K/uL,3.4,9.6,,resulted
+P27,3,2026-07-23,Hemoglobin,12.4,g/dL,11.6,15.0,,resulted
+P27,3,2026-07-23,Sodium,142.0,mmol/L,135.0,145.0,,resulted
+P27,3,2026-07-23,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P27,3,2026-07-23,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P27,3,2026-07-23,Creatinine,0.62,mg/dL,0.59,1.04,,resulted
+P27,3,2026-07-23,Glucose,102.0,mg/dL,70.0,99.0,H,resulted
+P27,3,2026-07-23,A1c,5.4,%,4.0,5.6,,resulted
+P27,4,2026-10-23,ALT,88.0,U/L,7.0,55.0,H,held_back_pending_release
+P27,4,2026-10-23,AST,49.0,U/L,8.0,48.0,H,held_back_pending_release
+P27,4,2026-10-23,ALP,318.0,U/L,40.0,129.0,H,held_back_pending_release
+P27,4,2026-10-23,GGT,239.0,U/L,8.0,61.0,H,held_back_pending_release
+P27,4,2026-10-23,Bilirubin Total,0.4,mg/dL,0.1,1.2,,held_back_pending_release
+P27,4,2026-10-23,Albumin,4.7,g/dL,3.5,5.0,,held_back_pending_release
+P27,4,2026-10-23,Total Protein,6.9,g/dL,6.3,7.9,,held_back_pending_release
+P27,4,2026-10-23,INR,0.9,ratio,0.8,1.1,,held_back_pending_release
+P27,4,2026-10-23,Platelets,167.0,K/uL,150.0,450.0,,held_back_pending_release
+P27,4,2026-10-23,WBC,5.6,K/uL,3.4,9.6,,held_back_pending_release
+P27,4,2026-10-23,Hemoglobin,11.9,g/dL,11.6,15.0,,held_back_pending_release
+P27,4,2026-10-23,Sodium,140.0,mmol/L,135.0,145.0,,held_back_pending_release
+P27,4,2026-10-23,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P27,4,2026-10-23,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P27,4,2026-10-23,Creatinine,0.68,mg/dL,0.59,1.04,,held_back_pending_release
+P27,4,2026-10-23,Glucose,107.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P27,4,2026-10-23,A1c,5.4,%,4.0,5.6,,held_back_pending_release
+P27,4,2026-10-23,Cholesterol Total,188.0,mg/dL,0.0,199.0,,held_back_pending_release
+P27,4,2026-10-23,LDL,118.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P27,4,2026-10-23,HDL,56.0,mg/dL,50.0,,,held_back_pending_release
+P27,4,2026-10-23,Triglycerides,149.0,mg/dL,0.0,149.0,,held_back_pending_release
+P28,1,2026-01-22,ALT,96.0,U/L,7.0,55.0,H,resulted
+P28,1,2026-01-22,AST,72.0,U/L,8.0,48.0,H,resulted
+P28,1,2026-01-22,ALP,118.0,U/L,40.0,129.0,,resulted
+P28,1,2026-01-22,GGT,63.0,U/L,8.0,61.0,H,resulted
+P28,1,2026-01-22,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P28,1,2026-01-22,Albumin,4.8,g/dL,3.5,5.0,,resulted
+P28,1,2026-01-22,Total Protein,7.1,g/dL,6.3,7.9,,resulted
+P28,1,2026-01-22,INR,1.05,ratio,0.8,1.1,,resulted
+P28,1,2026-01-22,Platelets,282.0,K/uL,150.0,450.0,,resulted
+P28,1,2026-01-22,WBC,7.9,K/uL,3.4,9.6,,resulted
+P28,1,2026-01-22,Hemoglobin,15.6,g/dL,13.2,16.6,,resulted
+P28,1,2026-01-22,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P28,1,2026-01-22,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P28,1,2026-01-22,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P28,1,2026-01-22,Creatinine,1.03,mg/dL,0.74,1.35,,resulted
+P28,1,2026-01-22,Glucose,123.0,mg/dL,70.0,99.0,H,resulted
+P28,1,2026-01-22,A1c,5.5,%,4.0,5.6,,resulted
+P28,1,2026-01-22,Cholesterol Total,219.0,mg/dL,0.0,199.0,H,resulted
+P28,1,2026-01-22,LDL,114.0,mg/dL,0.0,99.0,H,resulted
+P28,1,2026-01-22,HDL,40.0,mg/dL,40.0,,,resulted
+P28,1,2026-01-22,Triglycerides,153.0,mg/dL,0.0,149.0,H,resulted
+P28,2,2026-04-21,ALT,90.0,U/L,7.0,55.0,H,resulted
+P28,2,2026-04-21,AST,74.0,U/L,8.0,48.0,H,resulted
+P28,2,2026-04-21,ALP,109.0,U/L,40.0,129.0,,resulted
+P28,2,2026-04-21,GGT,67.0,U/L,8.0,61.0,H,resulted
+P28,2,2026-04-21,Bilirubin Total,0.6,mg/dL,0.1,1.2,,resulted
+P28,2,2026-04-21,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P28,2,2026-04-21,Total Protein,7.5,g/dL,6.3,7.9,,resulted
+P28,2,2026-04-21,INR,1.03,ratio,0.8,1.1,,resulted
+P28,2,2026-04-21,Platelets,251.0,K/uL,150.0,450.0,,resulted
+P28,2,2026-04-21,WBC,7.7,K/uL,3.4,9.6,,resulted
+P28,2,2026-04-21,Hemoglobin,15.8,g/dL,13.2,16.6,,resulted
+P28,2,2026-04-21,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P28,2,2026-04-21,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P28,2,2026-04-21,BUN,10.0,mg/dL,6.0,21.0,,resulted
+P28,2,2026-04-21,Creatinine,1.01,mg/dL,0.74,1.35,,resulted
+P28,2,2026-04-21,Glucose,124.0,mg/dL,70.0,99.0,H,resulted
+P28,2,2026-04-21,A1c,5.4,%,4.0,5.6,,resulted
+P28,3,2026-07-12,ALT,91.0,U/L,7.0,55.0,H,resulted
+P28,3,2026-07-12,AST,72.0,U/L,8.0,48.0,H,resulted
+P28,3,2026-07-12,ALP,119.0,U/L,40.0,129.0,,resulted
+P28,3,2026-07-12,GGT,53.0,U/L,8.0,61.0,,resulted
+P28,3,2026-07-12,Bilirubin Total,0.5,mg/dL,0.1,1.2,,resulted
+P28,3,2026-07-12,Albumin,4.2,g/dL,3.5,5.0,,resulted
+P28,3,2026-07-12,Total Protein,7.5,g/dL,6.3,7.9,,resulted
+P28,3,2026-07-12,INR,1.07,ratio,0.8,1.1,,resulted
+P28,3,2026-07-12,Platelets,264.0,K/uL,150.0,450.0,,resulted
+P28,3,2026-07-12,WBC,7.0,K/uL,3.4,9.6,,resulted
+P28,3,2026-07-12,Hemoglobin,15.7,g/dL,13.2,16.6,,resulted
+P28,3,2026-07-12,Sodium,142.0,mmol/L,135.0,145.0,,resulted
+P28,3,2026-07-12,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P28,3,2026-07-12,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P28,3,2026-07-12,Creatinine,1.05,mg/dL,0.74,1.35,,resulted
+P28,3,2026-07-12,Glucose,120.0,mg/dL,70.0,99.0,H,resulted
+P28,3,2026-07-12,A1c,5.6,%,4.0,5.6,,resulted
+P28,4,2026-10-17,ALT,230.0,U/L,7.0,55.0,H,held_back_pending_release
+P28,4,2026-10-17,AST,82.0,U/L,8.0,48.0,H,held_back_pending_release
+P28,4,2026-10-17,ALP,119.0,U/L,40.0,129.0,,held_back_pending_release
+P28,4,2026-10-17,GGT,65.0,U/L,8.0,61.0,H,held_back_pending_release
+P28,4,2026-10-17,Bilirubin Total,0.6,mg/dL,0.1,1.2,,held_back_pending_release
+P28,4,2026-10-17,Albumin,4.2,g/dL,3.5,5.0,,held_back_pending_release
+P28,4,2026-10-17,Total Protein,7.3,g/dL,6.3,7.9,,held_back_pending_release
+P28,4,2026-10-17,INR,1.07,ratio,0.8,1.1,,held_back_pending_release
+P28,4,2026-10-17,Platelets,260.0,K/uL,150.0,450.0,,held_back_pending_release
+P28,4,2026-10-17,WBC,7.7,K/uL,3.4,9.6,,held_back_pending_release
+P28,4,2026-10-17,Hemoglobin,15.2,g/dL,13.2,16.6,,held_back_pending_release
+P28,4,2026-10-17,Sodium,142.0,mmol/L,135.0,145.0,,held_back_pending_release
+P28,4,2026-10-17,Potassium,4.2,mmol/L,3.6,5.2,,held_back_pending_release
+P28,4,2026-10-17,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P28,4,2026-10-17,Creatinine,1.01,mg/dL,0.74,1.35,,held_back_pending_release
+P28,4,2026-10-17,Glucose,118.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P28,4,2026-10-17,A1c,5.8,%,4.0,5.6,H,held_back_pending_release
+P28,4,2026-10-17,Cholesterol Total,207.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P28,4,2026-10-17,LDL,112.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P28,4,2026-10-17,HDL,41.0,mg/dL,40.0,,,held_back_pending_release
+P28,4,2026-10-17,Triglycerides,154.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P29,1,2026-01-09,ALT,40.0,U/L,7.0,55.0,,resulted
+P29,1,2026-01-09,AST,82.0,U/L,8.0,48.0,H,resulted
+P29,1,2026-01-09,ALP,116.0,U/L,40.0,129.0,,resulted
+P29,1,2026-01-09,GGT,149.0,U/L,8.0,61.0,H,resulted
+P29,1,2026-01-09,Bilirubin Total,1.3,mg/dL,0.1,1.2,H,resulted
+P29,1,2026-01-09,Albumin,3.9,g/dL,3.5,5.0,,resulted
+P29,1,2026-01-09,Total Protein,7.2,g/dL,6.3,7.9,,resulted
+P29,1,2026-01-09,INR,1.08,ratio,0.8,1.1,,resulted
+P29,1,2026-01-09,Platelets,121.0,K/uL,150.0,450.0,L,resulted
+P29,1,2026-01-09,WBC,7.6,K/uL,3.4,9.6,,resulted
+P29,1,2026-01-09,Hemoglobin,12.6,g/dL,11.6,15.0,,resulted
+P29,1,2026-01-09,Sodium,139.0,mmol/L,135.0,145.0,,resulted
+P29,1,2026-01-09,Potassium,4.3,mmol/L,3.6,5.2,,resulted
+P29,1,2026-01-09,BUN,13.0,mg/dL,6.0,21.0,,resulted
+P29,1,2026-01-09,Creatinine,0.87,mg/dL,0.59,1.04,,resulted
+P29,1,2026-01-09,Glucose,99.0,mg/dL,70.0,99.0,,resulted
+P29,1,2026-01-09,A1c,5.4,%,4.0,5.6,,resulted
+P29,1,2026-01-09,Cholesterol Total,246.0,mg/dL,0.0,199.0,H,resulted
+P29,1,2026-01-09,LDL,122.0,mg/dL,0.0,99.0,H,resulted
+P29,1,2026-01-09,HDL,47.0,mg/dL,50.0,,L,resulted
+P29,1,2026-01-09,Triglycerides,236.0,mg/dL,0.0,149.0,H,resulted
+P29,1,2026-01-09,AFP,4.6,ng/mL,0.0,8.3,,resulted
+P29,2,2026-04-17,ALT,40.0,U/L,7.0,55.0,,resulted
+P29,2,2026-04-17,AST,64.0,U/L,8.0,48.0,H,resulted
+P29,2,2026-04-17,ALP,124.0,U/L,40.0,129.0,,resulted
+P29,2,2026-04-17,GGT,168.0,U/L,8.0,61.0,H,resulted
+P29,2,2026-04-17,Bilirubin Total,1.1,mg/dL,0.1,1.2,,resulted
+P29,2,2026-04-17,Albumin,3.4,g/dL,3.5,5.0,L,resulted
+P29,2,2026-04-17,Total Protein,7.0,g/dL,6.3,7.9,,resulted
+P29,2,2026-04-17,INR,0.99,ratio,0.8,1.1,,resulted
+P29,2,2026-04-17,Platelets,116.0,K/uL,150.0,450.0,L,resulted
+P29,2,2026-04-17,WBC,7.5,K/uL,3.4,9.6,,resulted
+P29,2,2026-04-17,Hemoglobin,13.4,g/dL,11.6,15.0,,resulted
+P29,2,2026-04-17,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P29,2,2026-04-17,Potassium,4.1,mmol/L,3.6,5.2,,resulted
+P29,2,2026-04-17,BUN,12.0,mg/dL,6.0,21.0,,resulted
+P29,2,2026-04-17,Creatinine,0.94,mg/dL,0.59,1.04,,resulted
+P29,2,2026-04-17,Glucose,101.0,mg/dL,70.0,99.0,H,resulted
+P29,2,2026-04-17,A1c,5.7,%,4.0,5.6,H,resulted
+P29,2,2026-04-17,AFP,4.1,ng/mL,0.0,8.3,,resulted
+P29,3,2026-07-17,ALT,38.0,U/L,7.0,55.0,,resulted
+P29,3,2026-07-17,AST,72.0,U/L,8.0,48.0,H,resulted
+P29,3,2026-07-17,ALP,112.0,U/L,40.0,129.0,,resulted
+P29,3,2026-07-17,GGT,138.0,U/L,8.0,61.0,H,resulted
+P29,3,2026-07-17,Bilirubin Total,1.0,mg/dL,0.1,1.2,,resulted
+P29,3,2026-07-17,Albumin,3.6,g/dL,3.5,5.0,,resulted
+P29,3,2026-07-17,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P29,3,2026-07-17,INR,1.12,ratio,0.8,1.1,H,resulted
+P29,3,2026-07-17,Platelets,121.0,K/uL,150.0,450.0,L,resulted
+P29,3,2026-07-17,WBC,6.8,K/uL,3.4,9.6,,resulted
+P29,3,2026-07-17,Hemoglobin,12.9,g/dL,11.6,15.0,,resulted
+P29,3,2026-07-17,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P29,3,2026-07-17,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P29,3,2026-07-17,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P29,3,2026-07-17,Creatinine,0.92,mg/dL,0.59,1.04,,resulted
+P29,3,2026-07-17,Glucose,100.0,mg/dL,70.0,99.0,H,resulted
+P29,3,2026-07-17,A1c,5.4,%,4.0,5.6,,resulted
+P29,3,2026-07-17,AFP,4.5,ng/mL,0.0,8.3,,resulted
+P29,4,2026-10-14,ALT,39.0,U/L,7.0,55.0,,held_back_pending_release
+P29,4,2026-10-14,AST,67.0,U/L,8.0,48.0,H,held_back_pending_release
+P29,4,2026-10-14,ALP,116.0,U/L,40.0,129.0,,held_back_pending_release
+P29,4,2026-10-14,GGT,140.0,U/L,8.0,61.0,H,held_back_pending_release
+P29,4,2026-10-14,Bilirubin Total,1.4,mg/dL,0.1,1.2,H,held_back_pending_release
+P29,4,2026-10-14,Albumin,3.6,g/dL,3.5,5.0,,held_back_pending_release
+P29,4,2026-10-14,Total Protein,7.1,g/dL,6.3,7.9,,held_back_pending_release
+P29,4,2026-10-14,INR,1.15,ratio,0.8,1.1,H,held_back_pending_release
+P29,4,2026-10-14,Platelets,117.0,K/uL,150.0,450.0,L,held_back_pending_release
+P29,4,2026-10-14,WBC,6.8,K/uL,3.4,9.6,,held_back_pending_release
+P29,4,2026-10-14,Hemoglobin,12.6,g/dL,11.6,15.0,,held_back_pending_release
+P29,4,2026-10-14,Sodium,141.0,mmol/L,135.0,145.0,,held_back_pending_release
+P29,4,2026-10-14,Potassium,4.4,mmol/L,3.6,5.2,,held_back_pending_release
+P29,4,2026-10-14,BUN,13.0,mg/dL,6.0,21.0,,held_back_pending_release
+P29,4,2026-10-14,Creatinine,0.96,mg/dL,0.59,1.04,,held_back_pending_release
+P29,4,2026-10-14,Glucose,105.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P29,4,2026-10-14,A1c,5.6,%,4.0,5.6,,held_back_pending_release
+P29,4,2026-10-14,Cholesterol Total,237.0,mg/dL,0.0,199.0,H,held_back_pending_release
+P29,4,2026-10-14,LDL,131.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P29,4,2026-10-14,HDL,46.0,mg/dL,50.0,,L,held_back_pending_release
+P29,4,2026-10-14,Triglycerides,217.0,mg/dL,0.0,149.0,H,held_back_pending_release
+P29,4,2026-10-14,AFP,3.6,ng/mL,0.0,8.3,,held_back_pending_release
+P30,1,2025-12-23,ALT,41.0,U/L,7.0,55.0,,resulted
+P30,1,2025-12-23,AST,62.0,U/L,8.0,48.0,H,resulted
+P30,1,2025-12-23,ALP,108.0,U/L,40.0,129.0,,resulted
+P30,1,2025-12-23,GGT,276.0,U/L,8.0,61.0,H,resulted
+P30,1,2025-12-23,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P30,1,2025-12-23,Albumin,4.5,g/dL,3.5,5.0,,resulted
+P30,1,2025-12-23,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P30,1,2025-12-23,INR,0.98,ratio,0.8,1.1,,resulted
+P30,1,2025-12-23,Platelets,283.0,K/uL,150.0,450.0,,resulted
+P30,1,2025-12-23,WBC,6.5,K/uL,3.4,9.6,,resulted
+P30,1,2025-12-23,Hemoglobin,15.1,g/dL,13.2,16.6,,resulted
+P30,1,2025-12-23,Sodium,138.0,mmol/L,135.0,145.0,,resulted
+P30,1,2025-12-23,Potassium,4.2,mmol/L,3.6,5.2,,resulted
+P30,1,2025-12-23,BUN,14.0,mg/dL,6.0,21.0,,resulted
+P30,1,2025-12-23,Creatinine,0.82,mg/dL,0.74,1.35,,resulted
+P30,1,2025-12-23,Glucose,113.0,mg/dL,70.0,99.0,H,resulted
+P30,1,2025-12-23,A1c,5.5,%,4.0,5.6,,resulted
+P30,1,2025-12-23,Cholesterol Total,186.0,mg/dL,0.0,199.0,,resulted
+P30,1,2025-12-23,LDL,121.0,mg/dL,0.0,99.0,H,resulted
+P30,1,2025-12-23,HDL,42.0,mg/dL,40.0,,,resulted
+P30,1,2025-12-23,Triglycerides,243.0,mg/dL,0.0,149.0,H,resulted
+P30,2,2026-05-27,ALT,41.0,U/L,7.0,55.0,,resulted
+P30,2,2026-05-27,AST,67.0,U/L,8.0,48.0,H,resulted
+P30,2,2026-05-27,ALP,114.0,U/L,40.0,129.0,,resulted
+P30,2,2026-05-27,GGT,245.0,U/L,8.0,61.0,H,resulted
+P30,2,2026-05-27,Bilirubin Total,0.9,mg/dL,0.1,1.2,,resulted
+P30,2,2026-05-27,Albumin,4.9,g/dL,3.5,5.0,,resulted
+P30,2,2026-05-27,Total Protein,7.3,g/dL,6.3,7.9,,resulted
+P30,2,2026-05-27,INR,1.01,ratio,0.8,1.1,,resulted
+P30,2,2026-05-27,Platelets,263.0,K/uL,150.0,450.0,,resulted
+P30,2,2026-05-27,WBC,7.1,K/uL,3.4,9.6,,resulted
+P30,2,2026-05-27,Hemoglobin,14.7,g/dL,13.2,16.6,,resulted
+P30,2,2026-05-27,Sodium,140.0,mmol/L,135.0,145.0,,resulted
+P30,2,2026-05-27,Potassium,4.0,mmol/L,3.6,5.2,,resulted
+P30,2,2026-05-27,BUN,11.0,mg/dL,6.0,21.0,,resulted
+P30,2,2026-05-27,Creatinine,0.84,mg/dL,0.74,1.35,,resulted
+P30,2,2026-05-27,Glucose,123.0,mg/dL,70.0,99.0,H,resulted
+P30,2,2026-05-27,A1c,5.6,%,4.0,5.6,,resulted
+P30,3,2026-10-23,ALT,37.0,U/L,7.0,55.0,,held_back_pending_release
+P30,3,2026-10-23,AST,63.0,U/L,8.0,48.0,H,held_back_pending_release
+P30,3,2026-10-23,ALP,107.0,U/L,40.0,129.0,,held_back_pending_release
+P30,3,2026-10-23,GGT,246.0,U/L,8.0,61.0,H,held_back_pending_release
+P30,3,2026-10-23,Bilirubin Total,0.9,mg/dL,0.1,1.2,,held_back_pending_release
+P30,3,2026-10-23,Albumin,4.6,g/dL,3.5,5.0,,held_back_pending_release
+P30,3,2026-10-23,Total Protein,7.3,g/dL,6.3,7.9,,held_back_pending_release
+P30,3,2026-10-23,INR,0.95,ratio,0.8,1.1,,held_back_pending_release
+P30,3,2026-10-23,Platelets,274.0,K/uL,150.0,450.0,,held_back_pending_release
+P30,3,2026-10-23,WBC,6.8,K/uL,3.4,9.6,,held_back_pending_release
+P30,3,2026-10-23,Hemoglobin,14.4,g/dL,13.2,16.6,,held_back_pending_release
+P30,3,2026-10-23,Sodium,139.0,mmol/L,135.0,145.0,,held_back_pending_release
+P30,3,2026-10-23,Potassium,3.9,mmol/L,3.6,5.2,,held_back_pending_release
+P30,3,2026-10-23,BUN,14.0,mg/dL,6.0,21.0,,held_back_pending_release
+P30,3,2026-10-23,Creatinine,0.82,mg/dL,0.74,1.35,,held_back_pending_release
+P30,3,2026-10-23,Glucose,126.0,mg/dL,70.0,99.0,H,held_back_pending_release
+P30,3,2026-10-23,A1c,5.6,%,4.0,5.6,,held_back_pending_release
+P30,3,2026-10-23,Cholesterol Total,187.0,mg/dL,0.0,199.0,,held_back_pending_release
+P30,3,2026-10-23,LDL,122.0,mg/dL,0.0,99.0,H,held_back_pending_release
+P30,3,2026-10-23,HDL,41.0,mg/dL,40.0,,,held_back_pending_release
+P30,3,2026-10-23,Triglycerides,253.0,mg/dL,0.0,149.0,H,held_back_pending_release

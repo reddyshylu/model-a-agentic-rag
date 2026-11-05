@@ -1,0 +1,21 @@
+patient_id,rule_id,priority,trigger_date,detail,origin
+P03,R07_alt_double,medium,2026-10-22,ALT 45 to 108 U/L (visit 3),designed
+P05,R08_a1c_high,medium,2026-10-14,A1c 9.6% (visit 3),designed
+P08,R10_low_steps,low,2026-10-25,mean 1349 steps over 14 valid days,designed
+P12,R08_a1c_high,medium,2026-10-21,A1c 9.4% (visit 3),designed
+P14,R10_low_steps,low,2026-10-25,mean 1256 steps over 14 valid days,designed
+P17,R06_nsaid_conflict,medium,2026-09-16,ibuprofen active while plan says No NSAIDs,designed
+P18,R05_platelets_below_100,medium,2026-10-21,platelets 112 to 87 (visit 4),designed
+P20,R01_red_flag_message,urgent,2026-10-25,message mentions: like tar,designed
+P20,R09_hcc_surveillance_overdue,low,2026-10-26,last ultrasound 2026-03-05 (235 days ago),designed
+P21,R03_meld_rise,high,2026-10-21,MELD 3.0 9 to 12 (visit 4),designed
+P22,R05_platelets_below_100,medium,2026-10-13,platelets 111 to 92 (visit 4),designed
+P22,R09_hcc_surveillance_overdue,low,2026-10-26,last ultrasound 2026-02-21 (247 days ago),designed
+P23,R02_fluid_gain,high,2026-10-24,weight 81.6 kg vs 79.6 kg about 7 days earlier,designed
+P24,R01_red_flag_message,urgent,2026-10-26,message mentions: coffee grounds,designed
+P24,R03_meld_rise,high,2026-10-16,MELD 3.0 18 to 21 (visit 4),designed
+P25,R02_fluid_gain,high,2026-10-24,weight 94.5 kg vs 92.0 kg about 7 days earlier,designed
+P25,R03_meld_rise,high,2026-10-18,MELD 3.0 14 to 17 (visit 4),natural
+P25,R04_bilirubin_double,high,2026-10-18,bilirubin 1.8 to 3.8 mg/dL (visit 4),designed
+P28,R07_alt_double,medium,2026-10-17,ALT 96 to 230 U/L (visit 4),designed
+P29,R06_nsaid_conflict,medium,2026-10-01,naproxen active while plan says No NSAIDs,designed
