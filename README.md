@@ -4,6 +4,8 @@ A patient-facing liver health assistant (Gen Academy course project). It answers
 questions from their own health metrics (labs, scores, watch and scale data, medicines, care plan) and a
 plain-language liver glossary, refuses everything else, and escalates red-flag symptoms to the care team.
 
+Demo video (preview, about 5 minutes): [docs/video/Model_A_preview.mp4](docs/video/Model_A_preview.mp4)
+
 > All data is FICTIONAL (30 synthetic patients). Never load real patient data into this project.
 
 ## Safety design

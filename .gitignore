@@ -20,3 +20,4 @@ data/escalations/
 *.mp3
 *.mp4
 .vscode/
+!docs/video/Model_A_preview.mp4
