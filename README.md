@@ -6,6 +6,8 @@ plain-language liver glossary, refuses everything else, and escalates red-flag s
 
 Demo video (preview, about 5 minutes): [docs/video/Model_A_preview.mp4](docs/video/Model_A_preview.mp4)
 
+Project report (Word): [docs/Model_A_Project_Report.docx](docs/Model_A_Project_Report.docx)
+
 > All data is FICTIONAL (30 synthetic patients). Never load real patient data into this project.
 
 ## Safety design
