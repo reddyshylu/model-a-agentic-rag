@@ -1,0 +1,14 @@
+# Never copy secrets into the image
+.env
+*.key
+# Not needed inside the container
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.vscode
+docs/video
+*.mp3
+*.mp4
